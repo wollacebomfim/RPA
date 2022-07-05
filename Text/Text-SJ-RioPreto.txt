@@ -1,0 +1,66 @@
+PREFEITURA MUNICIPAL DE SÃO JOSÉ DO RIO Número da
+SECRETARIA MUNICIPAL DA FAZENDA NFS-e
+NOTA FISCAL ELETRÔNICA DE SERVIÇO - NFS-e
+1235
+
+Data e Hora da Emissão: 17/05/2022 21:06:19 Competência: 17/5/2022 Código de Verificação: Z2UA6V5ZV
+
+Número do RPS: Nº da NFS-e substituída: Local da Prestação: CAMPINAS - SP
+
+Dados do Prestador de Serviços
+
+Razão Social/Nome: CLINICA MEDICA MARQUES LTDA
+
+CNPJ/CPF: 04.103.919/0001-61 Inscrição Municipal: 1150310 Município: SAO JOSE DO RIO PRETO UF SP
+
+Endereço e Cep: RUA DOUTOR RAUL SILVA ,589 - VILA REDENTORA CEP: 15015-020
+
+Complemento: Telefone: (17)3231-3735 e-mail: clinicamarques2011@hotmail.com
+
+Dados do Tomador de Serviços
+
+Razão Social/Nome: Hapvida Assistência Médica LTDA
+
+CNPJ/CPF: 63.554.067/0001-98 Inscrição Municipal: Município: FORTALEZA UF: CE
+
+Endereço e CEP: AVENIDA HERACLITO GRAÇA ,406 - CENTRO CEP: 60140-061
+
+Complemento: 2 andar Telefone: (85)3255-9010 e-mail: andreza.araujo@hapvida.com.br
+
+Discriminação dos Serviços
+Serviços médicos
+
+Código do Serviço / Atividade
+
+4.03 / 04.03.00 - Hospitais, clínicas, laboratórios, sanatórios, manicômios, casas de saúde, prontos-socorros, ambulat
+
+Detalhamento Específico da Construção Civil
+
+Código da Obra: Código ART:
+
+Tributos Federais
+
+PIS: 24,11 COFINS: 111,26 IR(R$): 55,63 INSS(R$): CSLL(R$): 37,09
+
+Detalhamento de Valores - Prestador dos Serviços Outras Retenções Cálculo do ISSQN devido no Município
+
+Valor dos Serviços    R$: 3.708,71 Natureza Operação  Valor dos Serviços   R$ 3.708,71
+
+Desconto Incondicionado: 0,00 1-Tributação no município Deduções/Deduções Permitidas em Lei 1.223,87
+
+Desconto Condicionado: 0,00 Regime Especial Tributação Desconto Incondicionado: 0,00
+
+Retenções Federais: 228,09 0-Nenhum (=) Base de Cálculo 2.484,84
+
+Outras Retenções: 0,00 Opção Simples Nacional (x) Alíquota  % 3,00
+
+Valor ISSQN Retido: 0,00 2-Não ISS a reter: ( ) Sim (X) Não
+
+Incentivador Cultural
+(=) Valor do ISS    R$: 74,55
+2-Não
+
+TOTAL DA NFS-e R$: 3.708,71
+1- Uma via desta Nota Fiscal será enviada através do e-mail fornecido pelo Tomador dos Serviços.
+2- A autenticidade desta Nota Fiscal poderá ser verificada no site sjrp.ginfes.com.br, com a utilização do Código de Verificação.
+Avisos

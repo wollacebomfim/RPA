@@ -1,0 +1,76 @@
+PREFEITURA DO JABOATÃO DOS GUARARAPES
+SEFAZ - SECRETARIA EXECUTIVA DA RECEITA
+NOTA GUARARAPES - NFS-e
+Nº da Nota
+000012844
+Data de Emissão
+10-05-2022 às 17:45:03
+Nº da substituída
+Competência
+MAI/2022
+
+Nota Fiscal Originada do RPS: 000003785
+Codigo de Verificação
+IMRG96108
+Data Prest. de Serviço
+10/05/2022
+
+PRESTADOR SERVIÇOS
+
+CNPJ: 24.380.578/0020-41 Inscrição Municipal: 905.142-0
+
+Razão social:WHITE MARTINS GASES INDUSTRIAIS DO NORDESTE LTDA.
+
+Endereço: ROD BR-101 - SUL  S/N 54335-000 PRAZERES KM 84,01 01
+
+Município: JABOATÃO DOS GUARARAPES UF: PE
+
+Telefone: E-mail: GIULIA_CORDEIRO@PRAXAIR.COM
+
+TOMADOR DE SERVIÇOS
+
+Nome/Razão Social: ULTRA SOM SERVICOS MEDICOS LTDA
+
+CPF/CNPJ/PAS: 12.361.267/0072-87 Inscrição Municipal:
+
+Endereço: RUA DO ESPINHEIRO 222 52020-213 GRACAS
+
+Município: RECIFE UF: PE
+
+Telefone: 00000000 E-mail: bruno.sobrinho@hapvida.com.br
+
+SERVIÇOS
+
+14.02-ASSISTÊNCIA TÉCNICA.
+
+Item Descrição Quant. VLR Unitario VALOR TOTAL
+1 Cobranca relativa ao periodo de MAI22  40094675  Ass Tec Preventiv Diferenciada   Qtd  1       1.00         339,12         339,12
+Vlr Total R 33912
+
+VALOR TOTAL DA NFS-e R$:339,12
+
+Deduções (R$)
+0,00
+Base Cálculo (R$)
+339,12
+Alíquota (%)
+5,00
+Valor do ISS (R$)
+16,96
+Outras retenções(R$)
+0,00
+
+INSS (RS)
+0,00
+IRPJ (RS)
+0,00
+CSLL (RS)
+0,00
+COFINS (R$)
+0,00
+PIS/PASEP (R$)
+0,00
+
+OUTRAS INFORMAÇÕES
+
+;           HOMOLOGADO  As informações tributárias acima descritas atendem ao disposto no art. 1º da Lei Federal nº 12.741/2012.

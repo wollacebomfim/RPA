@@ -1,0 +1,38 @@
+PREFEITURA MUNICIPAL DE UBERLÂNDIA # NFS-e 2964
+SECRETARIA MUNICIPAL DE FINANÇAS Código de Verificação:
+Nota Fiscal de Serviço Eletrônica (NFS-e) 36b45a0c7fcdd985308f151e588eac7c9a6bf6de
+# RPS 1722 Série 1 Emissão: 10/06/2022 12:00:00
+Razão Social: VIVIANY FISIO CARE LTDA Telefone: (34)3237-1678
+PRESTADOR
+CNPJ: 20.932.027/0001-20 Inscrição Municipal: 26189000
+Endereço: RUA BUENO BRANDAO, 400 - OSVALDO REZENDE CEP: 38.400-378
+Município: UBERLÂNDIA UF: MG E-mail: comercial@vitalfisiocare.com.br
+Razão Social: ULTRA SOM SERVICOS MEDICOS S.A. Telefone: (85)98623-9349
+TOMADOR
+CNPJ/CPF: 12.361.267/0180-50 Inscrição Municipal:
+Endereço: RUA AV NENE SABINO, 2477, Bairro - SANTOS DUMONT CEP: 38.050-501
+Município: UBERABA UF: MG E-mail: nf.prestadores@hapvida.com.br
+DISCRIMINAÇÃO DOS SERVIÇOS
+Tributável Item Qtde Unitário R$ Total R$
+S REFERENTE LOCACAO DE EQUIPAMENTOS, CONFORME FICHA 000056  - 01/05/2022 A 02/05/2022. 1 R$ 72,83 R$ 72,83
+
+LOCACAO 4100346731
+
+Outras
+Informações:
+
+Código do Item Lista de Serviço (LC 116/2003): 0421 Código do CNAE: 871230000
+LOCACAO DE EQUIPAMENTOS PARA ASSISTENCIA DOMICILIAR E ASSISTENCIA ATIVIDADES DE FORNECIMENTO DE INFRAESTRUTURA DE ASSISTENCIA
+Descrição Descrição
+AO PACIENTE NO DOMICILIO. DOMICILIAR
+
+Município de Prestação: Uberlândia - Cód.SIAFI: 5403
+
+PIS R$ 0,00 Valor do Serviço R$ 72,83
+RETENÇÕES FEDERAIS VALORES TOTAL
+COFINS R$ 0,00 ISS Retido R$ 0,00 Deduções R$ 0,00
+INSS R$ 0,00 Valor Líquido R$ 72,83 Valor Base Cálculo R$ 72,83
+IR R$ 0,00 Alíquota 0.00%
+CSLL R$ 0,00 Valor do ISS R$ 0,00
+Emitido pela SISLOC - http://www.sisloc.com
+NFS-e gerada com a tecnologia NFS-e Easy® da Benefix - http://www.webenefix.com.br (21) 2621-5063 (41) 3353-3839

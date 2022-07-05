@@ -1,0 +1,58 @@
+Nome Fantasia: RADIO CULTURA DE JOINVILLE LTDA RUA NOVE DE MARÇO,  737
+Razão Social: RADIO CULTURA DE JOINVILLE LTDA CENTRO
+89201-400 - JOINVILLE - SC
+CNPJ: 84.684.505/0001-02 Telefone : 47 30261000
+Insc. Estadual: 255.791.143 E-Mail: financeiro@gsmcomunicacao.com.br
+Site:
+Insc. Municipal: 2031
+
+Dados Destinatário : Nota Fiscal de Serviço de Comunicação :
+Nome Fantasia : HAPVIDA Número : 00008622 Modelo : 21 Série : U
+Razão Social : HAPVIDA ASSISTENCIA TECNICA LTDA UF : SC
+CNPJ : 63.554.067/0001-98 Data Emissão : 07/03/2022 Refer. : 03/2022
+Insc. Estadual : 068943539 Insc. Municipal :
+Endereço : AV HERACLITO GRACA, 406 Chave de Codificação Digital : Duplicatas Duplicatas Duplicatas
+CENTRO
+60140-061 - FORTALEZA - CE
+
+Aos Cuidados de :
+Razão Social : NEW LOGOS AGENCIA DE NOTICIAS LTDA Endereço : DONA FRANSCISCA, 8300
+Nome Fantasia : NEW LOGOS AGENCIA DE NOTICIAS LTDA ZONA INDUSTRIAL
+CNPJ : 03.552.074/0001-29 I.E.: ISENTO I.M.: 65859 89219-600 - JOINVILLE - SC
+Fatura : System.Collections.Generic.List`1[NFeRadio.NFeDuplicata]System.Collections.Generic.List`1[NFeRadio.NFeDuplicata]System.Collections.Generic.List`1[NFeRadio.NFeDuplicata]
+Desdobramento das Duplicatas
+Documento Vencimento Valor Documento Vencimento Valor Documento Vencimento Valor
+01/06 20/03/2022 3.250,00
+Serviços Prestados :
+Detalhes CFOP Valores
+PRESTAÇÃO DE SERVIÇO DE COMUNICAÇÃO A ESTABELECIMENTO COMERCIAL 6303 4.062,50
+VEICULACAO DE PUBLICIDADE
+PERÍODO DE VEICULAÇÃO: 24/02/2022 A 23/03/2022
+
+P.I.: 03/2022
+
+VEICULAÇÃO NA RÁDIO JOVEM PAN JOINVILLE
+
+PATROCINIO QUADRO ECONOMIA, COM 22 CITAÇÕES E 22 INSERÇÕES DETERMINADAS DE 30" CADA AO MÊS
+
+DADOS BANCÁRIOS:
+CAIXA ECONOMICA FEDERAL - 104
+AG: 0419 OP: 003 C/C: 1287-7
+
+DADOS PIX: 84684505000102
+"Valor de Referência do 'Desconto-Padrão' (remuneração da Agência - item 1.11 das Normas-Padrão
+da Atividade Publicitária)"... -812,50
+(Valor Negociado = R$ 4.062,50, Desconto-Padrão = R$ 812,50, Valor Faturado = R$ 3.250,00)
+VALOR APROXIMADO DOS TRIBUTOS CONFORME LEI 12.741/2012: R$ 591,82 (18,21%) Fonte: IBPT
+
+NÃO INCIDÊNCIA DO ICMS CFE. CF/88 ART. 155, INCISO X, ALÍNEA D
+NÃO INCIDÊNCIA DE ISS CFE. LC 87/1996
+NF EMITIDA CFE. CONVÊNIO 155/03
+
+Cálculo do Imposto : 5B59.FD39.B6F2.9DCA.0AB4.E4E8.B325.9707
+Base ICMS Alíquota (%) Valor do ICMS Isento Outros Valor Total da Nota : 3.250,00
+0,00 0,00 0,00 3.250,00 0,00
+
+Recebi(emos) de RADIO CULTURA DE JOINVILLE LTDA, os serviços constantes desta Nota Fiscal.
+Número da Nota : Série :
+00008622 U Local e Data Carimbo e Assinatura

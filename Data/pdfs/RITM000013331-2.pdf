@@ -1,0 +1,762 @@
+%PDF-1.3%âãÏÓ
+1 0 obj<< /Type /Catalog /Pages 2 0 R >> endobj2 0 obj<< /Type /Pages /Kids [ 24 0 R ] /Count 1 >> endobj3 0 obj<< /ModDate (D:20220628181852-03'00')/DLI (2.0P1w \(Nt\))/OneWorldRelease (B7333)/CreationDate (D:20220628181851-03'00')/Name (RBC76560M)/Version (BRA0027)/Author (BRATWWA1)/BatchCreationDate (2022/6/28   18:18:51)/OWEnvironment (PD7333)/Machine (BRARIOES63)/Host (BRARIOES63)/Printer (\\\\whte0054\\devnull)/PDL#20Program (*JDE PCL)/DecimalSepChar (,)/ThousandsSepChar (.)/Language (P )/DateFormat (AOR)/NumberOfCopies (1)/DateSepChar (/)/Title (Print Nota Fiscal - Sales - Brazil)/Subject (Print Nota Fiscal - Sales - Brazil)/Producer (J.D.Edwards OneWorld \(B7333\))/Creator (Praxair, Inc)/Keywords (RBC76560M, BRA0027, BRARIOES63, PD7333, \\\\whte0054\\devnull)/JobNumber (3089991)/FileName (h:\\jdedwardsoneworld\\ddp\\B7333SP20\\PrintQueue\\RBC76560M_BRA0027_308\9991_PDF.pdf)/SystemInfo (fromOS 5 fromCP 1252 toOS 5 toCP 1252)/PageSize (VertSize 15840 HorzSize 12240, pageOrient 1)/PageInfo (lpi 205, cpi 38 DCFontSz 70)/Sect_0 (SN=Page Header;TP=GRP|CD;BV=None;SI=12;PI=0)/Ctrl_0_0 (CN=Variable 000037; CI=248; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_1_0 (CN=Caracter_Business Unit; CI=270; SI=12; TP=RV; DT=S; AL=CostCenter; FS\=12)/Ctrl_2_0 (CN=Variable 000042; CI=255; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_3_0 (CN=Printed NF Number; CI=49; SI=12; TP=RV; DT=N; AL=NotaFiscalNumber; FS\=6)/Ctrl_4_0 (CN=AA_NOTAFISCAL_AA_HEADER; CI=247; SI=12; TP=RV; DT=S; AL=RptVarObj; FS\=7)/Ctrl_5_0 (CN=Variable 000038; CI=249; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_6_0 (CN=Variable 000042; CI=256; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_7_0 (CN=Nome Filial/F\341brica; CI=237; SI=12; TP=RV; DT=S; AL=NameMailing; F\S=40)/Ctrl_8_0 (CN=; CI=239; SI=12; TP=RV; DT=S; AL=CategoryCodeFiscalRem004; FS=3)/Ctrl_9_0 (CN=S\351rie; CI=198; SI=12; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_10_0 (CN=; CI=183; SI=12; TP=RV; DT=S; AL=NotaFiscalSeries; FS=2)/Ctrl_11_0 (CN=Inbound; CI=46; SI=12; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_12_0 (CN=; CI=176; SI=12; TP=RV; DT=S; AL=CostCenter; FS=12)/Ctrl_13_0 (CN=Outbound; CI=149; SI=12; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_14_0 (CN=Variable 000042; CI=257; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_15_0 (CN=Bairro Emitente; CI=178; SI=12; TP=RV; DT=S; AL=AddSoldToAddLine2; FS\=25)/Ctrl_16_0 (CN=Endereco Emitente; CI=161; SI=12; TP=RV; DT=S; AL=AddSoldToAddLine1; \FS=40)/Ctrl_17_0 (CN=Variable 000042; CI=258; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_18_0 (CN=State 1 Emitente; CI=61; SI=12; TP=RV; DT=S; AL=State; FS=3)/Ctrl_19_0 (CN=CountyEmitente; CI=180; SI=12; TP=RV; DT=S; AL=CountyAddress; FS=40)/Ctrl_20_0 (CN=Phone Number 1 Emitente; CI=67; SI=12; TP=RV; DT=S; AL=PhoneNumber; F\S=20)/Ctrl_21_0 (CN=Postal Code 1 Emitente; CI=133; SI=12; TP=RV; DT=S; AL=ZipCodePostal;\ FS=12)/Ctrl_22_0 (CN=Prefix 1 Emitente; CI=64; SI=12; TP=RV; DT=S; AL=PhoneAreaCode1; FS=6\)/Ctrl_23_0 (CN=Variable 000042; CI=259; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_24_0 (CN=CGC Tax ID Emitente; CI=172; SI=12; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_25_0 (CN=Variable 000042; CI=260; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_26_0 (CN=; CI=191; SI=12; TP=RV; DT=D; AL=IssueDate; FS=6)/Ctrl_27_0 (CN=Variable 000039; CI=252; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_28_0 (CN=Transaction Nature Description; CI=82; SI=12; TP=RV; DT=S; AL=Descrip\tion; FS=55)/Ctrl_29_0 (CN=Variable 000042; CI=261; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_30_0 (CN=Insc Est do Sub Trib Emitente; CI=88; SI=12; TP=RV; DT=S; AL=TaxId2; \FS=20)/Ctrl_31_0 (CN=Inscricao Estadual Emitente; CI=145; SI=12; TP=RV; DT=S; AL=TaxId2; F\S=20)/Ctrl_32_0 (CN=Transaction Nature 4-5 Digitos; CI=232; SI=12; TP=RV; DT=S; AL=CodeTr\ansactionNature; FS=5)/Ctrl_33_0 (CN=; CI=85; SI=12; TP=RV; DT=N; AL=CodeTransactionNature; FS=5)/Ctrl_34_0 (CN=Variable 000042; CI=262; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_35_0 (CN=Variable 000039; CI=250; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_36_0 (CN=Variable 000042; CI=263; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_37_0 (CN=Razao Social Remetente; CI=167; SI=12; TP=RV; DT=S; AL=NameMailing; F\S=40)/Ctrl_38_0 (CN=CGC Tax ID Remetente; CI=174; SI=12; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_39_0 (CN=Variable 000042; CI=264; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_40_0 (CN=Variable 000041; CI=254; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_41_0 (CN=Endereco Remetente; CI=91; SI=12; TP=RV; DT=S; AL=AddShipToAddLine1; \FS=78)/Ctrl_42_0 (CN=Bairro Remetente; CI=170; SI=12; TP=RV; DT=S; AL=AddShipToAddLine2; F\S=35)/Ctrl_43_0 (CN=Postal Code Remetente; CI=153; SI=12; TP=RV; DT=S; AL=ZipCodePostal; \FS=12)/Ctrl_44_0 (CN=Variable 000042; CI=266; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_45_0 (CN=Variable 000040; CI=253; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_46_0 (CN=State Remetente; CI=156; SI=12; TP=RV; DT=S; AL=State; FS=3)/Ctrl_47_0 (CN=Variable 000042; CI=267; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_48_0 (CN=CountyRemetente; CI=196; SI=12; TP=RV; DT=S; AL=CountyAddress; FS=25)/Ctrl_49_0 (CN=Codigo Area Remetente; CI=118; SI=12; TP=RV; DT=S; AL=PhoneAreaCode3;\ FS=6)/Ctrl_50_0 (CN=Telefone Remetente; CI=121; SI=12; TP=RV; DT=S; AL=PhoneNumber3; FS=2\0)/Ctrl_51_0 (CN=Inscricao Estadual Remetente; CI=189; SI=12; TP=RV; DT=S; AL=TaxId2; \FS=20)/Ctrl_52_0 (CN=Variable 000040; CI=251; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_53_0 (CN=Variable 000042; CI=268; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_54_0 (CN=Variable 000036; CI=240; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_55_0 (CN=Variable 000036; CI=271; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Sect_1 (SN=Page Footer;TP=GRP|CD;BV=None;SI=13;PI=0)/Ctrl_0_1 (CN=Variable 000084; CI=225; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_1_1 (CN=STRING_ICMS Tax; CI=207; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_2_1 (CN=STRING_Goods Value; CI=200; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_3_1 (CN=STRING_ICMS Amount; CI=208; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_4_1 (CN=Linha Mensagem ONU 2; CI=193; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_5_1 (CN=STRING_RV N.F. Total; CI=223; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15\)/Ctrl_6_1 (CN=STRING_ICMS Substitution; CI=205; SI=13; TP=RV; DT=S; AL=RptVarObj; F\S=15)/Ctrl_7_1 (CN=STRING_ICMS Substitute; CI=203; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=\15)/Ctrl_8_1 (CN=NF Total \(In words\); CI=89; SI=13; TP=RV; DT=S; AL=ConfiguredString\Segment01; FS=100)/Ctrl_9_1 (CN=; CI=2; SI=13; TP=RV; DT=N; AL=AmountICMSTaxableAmount; FS=15)/Ctrl_10_1 (CN=; CI=5; SI=13; TP=RV; DT=N; AL=AmountICMSTax; FS=15)/Ctrl_11_1 (CN=; CI=14; SI=13; TP=RV; DT=N; AL=AmountICMSSubstitute; FS=15)/Ctrl_12_1 (CN=; CI=11; SI=13; TP=RV; DT=N; AL=AmountGoodsValue; FS=15)/Ctrl_13_1 (CN=Linha Mensagem ONU 1; CI=192; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_14_1 (CN=; CI=8; SI=13; TP=RV; DT=N; AL=AmountTaxableICMSSubstiT; FS=15)/Ctrl_15_1 (CN=Variable 000085; CI=226; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_16_1 (CN=Carrier Ref 1; CI=83; SI=13; TP=RV; DT=S; AL=Reference; FS=15)/Ctrl_17_1 (CN=Linha Mensagem ONU 3; CI=194; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_18_1 (CN=; CI=159; SI=13; TP=RV; DT=S; AL=ReasonCode; FS=3)/Ctrl_19_1 (CN=NumberAtivo; CI=197; SI=13; TP=RV; DT=S; AL=GenericTextWindowLine; FS\=80)/Ctrl_20_1 (CN=Variable 000086; CI=227; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_21_1 (CN=STRING_IPI Tax; CI=202; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_22_1 (CN=STRING_Expenses; CI=204; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_23_1 (CN=STRING_Insurance; CI=206; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_24_1 (CN=STRING_Freight; CI=209; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_25_1 (CN=; CI=23; SI=13; TP=RV; DT=N; AL=AmountFinancialExpenses; FS=15)/Ctrl_26_1 (CN=; CI=20; SI=13; TP=RV; DT=N; AL=AmountNotaFiscalInsuranc; FS=15)/Ctrl_27_1 (CN=IPI Tax A; CI=26; SI=13; TP=RV; DT=N; AL=AmountIPITax; FS=15)/Ctrl_28_1 (CN=; CI=17; SI=13; TP=RV; DT=N; AL=AmountNotaFiscalFreight; FS=15)/Ctrl_29_1 (CN=; CI=29; SI=13; TP=RV; DT=N; AL=AmountNotaFiscalTotals; FS=15)/Ctrl_30_1 (CN=Linha Mensagem ONU 4; CI=195; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_31_1 (CN=Variable 000087; CI=228; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_32_1 (CN=Linha Mensagem 6; CI=185; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_33_1 (CN=Linha Mensagem 1; CI=144; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_34_1 (CN=; CI=44; SI=13; TP=RV; DT=S; AL=StateCode; FS=3)/Ctrl_35_1 (CN=; CI=103; SI=13; TP=RV; DT=N; AL=UserReservedAmount; FS=15)/Ctrl_36_1 (CN=; CI=100; SI=13; TP=RV; DT=S; AL=PaymentTermsCode01; FS=3)/Ctrl_37_1 (CN=Carrier Mailing Name; CI=170; SI=13; TP=RV; DT=S; AL=NameMailing; FS=\40)/Ctrl_38_1 (CN=Description Payment Terms; CI=101; SI=13; TP=AD; DT=S; AL=Description\; FS=30)/Ctrl_39_1 (CN=AA_String_NF_Number_AA_2; CI=219; SI=13; TP=RV; DT=S; AL=RptVarObj; F\S=7)/Ctrl_40_1 (CN=Variable 000088; CI=229; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_41_1 (CN=Linha Mensagem 7; CI=184; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_42_1 (CN=Linha Mensagem 2; CI=145; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_43_1 (CN=TotalNFParaDesconto; CI=242; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=13)/Ctrl_44_1 (CN=Frete Por Conta; CI=139; SI=13; TP=RV; DT=S; AL=AlphaSpecData10; FS=1\)/Ctrl_45_1 (CN=Variable 000089; CI=230; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_46_1 (CN=Issue Date Venda Origem; CI=107; SI=13; TP=RV; DT=D; AL=IssueDate; FS\=6)/Ctrl_47_1 (CN=N.F. Number Venda Origem; CI=105; SI=13; TP=RV; DT=N; AL=NotaFiscalNu\mber; FS=6)/Ctrl_48_1 (CN=Serie Fiscal NF Origem; CI=176; SI=13; TP=RV; DT=S; AL=ALTERNATE_CONV\ERSN_SR; FS=3)/Ctrl_49_1 (CN=Order Type Venda Origem; CI=109; SI=13; TP=RV; DT=S; AL=OrderType; FS\=2)/Ctrl_50_1 (CN=; CI=95; SI=13; TP=RV; DT=S; AL=FreightHandlingCode; FS=3)/Ctrl_51_1 (CN=Vencimento; CI=162; SI=13; TP=RV; DT=D; AL=DateFuture1; FS=6)/Ctrl_52_1 (CN=Remark 04 Rodap\3512; CI=222; SI=13; TP=RV; DT=S; AL=CategoryCodeFisc\alRem004; FS=3)/Ctrl_53_1 (CN=Carrier Mailing Name; CI=93; SI=13; TP=RV; DT=S; AL=NameMailing; FS=4\0)/Ctrl_54_1 (CN=Carrier State_2; CI=198; SI=13; TP=RV; DT=S; AL=State; FS=3)/Ctrl_55_1 (CN=; CI=41; SI=13; TP=RV; DT=S; AL=LICENSE_PLATE_NUMBER; FS=10)/Ctrl_56_1 (CN=N.F. Series Rodape; CI=221; SI=13; TP=RV; DT=S; AL=NotaFiscalSeries; \FS=2)/Ctrl_57_1 (CN=Carrier CGC Tax ID; CI=91; SI=13; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_58_1 (CN=Linha Mensagem 3; CI=146; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_59_1 (CN=Linha Mensagem 8; CI=183; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_60_1 (CN=TotalDescontoParaDesconto; CI=243; SI=13; TP=RV; DT=S; AL=RptVarObj; \FS=13)/Ctrl_61_1 (CN=; CI=38; SI=13; TP=RV; DT=S; AL=CarrierType; FS=3)/Ctrl_62_1 (CN=Variable 000090; CI=231; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_63_1 (CN=Linha Mensagem 4; CI=147; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_64_1 (CN=Linha Mensagem 9; CI=186; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_65_1 (CN=Motivo Devolu\347\343o; CI=114; SI=13; TP=RV; DT=S; AL=Description001\; FS=30)/Ctrl_66_1 (CN=BarradeAte; CI=216; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=1)/Ctrl_67_1 (CN=NumPaginadeAte; CI=215; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_68_1 (CN=TotPaginadeAte; CI=217; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_69_1 (CN=LabelContinuadeAte; CI=218; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=11)/Ctrl_70_1 (CN=LabelFolhadeAte; CI=213; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=6)/Ctrl_71_1 (CN=Carrier Address Line 1; CI=32; SI=13; TP=RV; DT=S; AL=AddSoldToAddLin\e1; FS=40)/Ctrl_72_1 (CN=Carrier County; CI=97; SI=13; TP=RV; DT=S; AL=CountyAddress; FS=25)/Ctrl_73_1 (CN=Carrier Add'l Co Tax ID; CI=59; SI=13; TP=RV; DT=S; AL=TaxId1; FS=16)/Ctrl_74_1 (CN=Carrier State; CI=56; SI=13; TP=RV; DT=S; AL=State; FS=3)/Ctrl_75_1 (CN=Carrier Address Line 2; CI=35; SI=13; TP=RV; DT=S; AL=AddSoldToAddLin\e2; FS=40)/Ctrl_76_1 (CN=Variable 000090; CI=232; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_77_1 (CN=Order Number Rodape; CI=128; SI=13; TP=RV; DT=N; AL=DocumentOrderInvo\iceE; FS=8)/Ctrl_78_1 (CN=Order Type CPD Rodape; CI=118; SI=13; TP=RV; DT=S; AL=OrderType; FS=2\)/Ctrl_79_1 (CN=Linha Mensagem 5; CI=148; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_80_1 (CN=Carrier Ref 2; CI=68; SI=13; TP=RV; DT=S; AL=Reference2; FS=8)/Ctrl_81_1 (CN=Business Unit Rodape; CI=116; SI=13; TP=RV; DT=S; AL=CostCenter; FS=1\2)/Ctrl_82_1 (CN=Header Business Unit Rodape; CI=120; SI=13; TP=RV; DT=S; AL=CostCente\rHeader; FS=12)/Ctrl_83_1 (CN=Linha Mensagem 10; CI=187; SI=13; TP=RV; DT=S; AL=GenericTextWindowLi\ne; FS=43)/Ctrl_84_1 (CN=Carrier City; CI=50; SI=13; TP=RV; DT=S; AL=CityC; FS=3)/Ctrl_85_1 (CN=Variable 000090; CI=233; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_86_1 (CN=; CI=65; SI=13; TP=RV; DT=S; AL=EquipmentType; FS=15)/Ctrl_87_1 (CN=; CI=62; SI=13; TP=RV; DT=N; AL=TotalQuantity; FS=15)/Ctrl_88_1 (CN=STRING_Unit Weight; CI=211; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=11)/Ctrl_89_1 (CN=StringWhiteMartins; CI=237; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_90_1 (CN=Carrier Postal Code; CI=86; SI=13; TP=RV; DT=S; AL=ZipCodePostal; FS=\12)/Ctrl_91_1 (CN=; CI=71; SI=13; TP=RV; DT=N; AL=TotalWeight; FS=10)/Ctrl_92_1 (CN=STRING_Total Sales Wt; CI=210; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=1\0)/Ctrl_93_1 (CN=; CI=74; SI=13; TP=RV; DT=N; AL=AmountUnitWeight; FS=10)/Ctrl_94_1 (CN=Variable 000090; CI=234; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_95_1 (CN=Variable 000090; CI=236; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Sect_2 (SN=Detail 3 Taxes;TP=GRP|CD;BV=None;SI=23;PI=0)/Ctrl_0_2 (CN=Summary ICMS Tax Situation; CI=2; SI=23; TP=RV; DT=S; AL=CodeICMSTaxS\tatus; FS=2)/Ctrl_1_2 (CN=Summary ICMS Taxable; CI=4; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_2_2 (CN=Summary ICMS Tax; CI=8; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_3_2 (CN=Summary ICMS Tax Rate; CI=12; SI=23; TP=RV; DT=N; AL=TaxRate1; FS=9)/Ctrl_4_2 (CN=Summary IPI Tax Situation; CI=14; SI=23; TP=RV; DT=S; AL=CodeICMSTaxS\tatus; FS=2)/Ctrl_5_2 (CN=Summary IPI Taxable; CI=16; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_6_2 (CN=Summary IPI Tax; CI=18; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_7_2 (CN=Summary IPI Tax Rate; CI=22; SI=23; TP=RV; DT=N; AL=TaxRate2; FS=9)/Ctrl_8_2 (CN=; CI=24; SI=23; TP=RV; DT=S; AL=testing; FS=1)/Sect_3 (SN=Page Break;TP=GRP|CD;BV=None;SI=27;PI=0)/Sect_4 (SN=Detail 4 Blank Lines;TP=GRP|CD;BV=None;SI=29;PI=0)/Ctrl_0_4 (CN=Print Blank Lines; CI=2; SI=29; TP=RV; DT=S; AL=Description; FS=30)/Sect_5 (SN=Nota Fiscal Generic Text Revis;TP=GRP|CD;BV=V7612B;SI=33;PI=0)/Sect_6 (SN=Update Nota Fiscal Header F7601B;TP=GRP|CD;BV=V7601B;SI=34;PI=0)/Sect_7 (SN=Tax Header;TP=GRP|CD;BV=None;SI=36;PI=0)/Ctrl_0_7 (CN=---------------- ICMS --------; CI=6; SI=36; TP=RC; DT=S; AL=RptConst\Obj; FS=107)/Ctrl_1_7 (CN=--------------------- IPI ----; CI=7; SI=36; TP=RC; DT=S; AL=RptConst\Obj; FS=107)/Ctrl_2_7 (CN=CST; CI=8; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_3_7 (CN=Valor da opera\347\343o; CI=9; SI=36; TP=RC; DT=S; AL=RptConstObj; FS\=17)/Ctrl_4_7 (CN=Al\355quota; CI=10; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_5_7 (CN=Valor; CI=11; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_6_7 (CN=CST; CI=12; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_7_7 (CN=Valor da opera\347\343o; CI=13; SI=36; TP=RC; DT=S; AL=RptConstObj; F\S=17)/Ctrl_8_7 (CN=Al\355quota; CI=14; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_9_7 (CN=Valor; CI=15; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=5)/Sect_8 (SN=Detail 5 Print All Sections;TP=GRP|CD;BV=None;SI=37;PI=0)/Sect_9 (SN=itens de Servi\347o;TP=GRP|CD;BV=None;SI=38;PI=0)/Ctrl_0_9 (CN=Item Number Servico; CI=2; SI=38; TP=RV; DT=S; AL=Identifier2ndItem; \FS=8)/Ctrl_1_9 (CN=Description Servico; CI=4; SI=38; TP=RV; DT=S; AL=Description001; FS=\50)/Ctrl_2_9 (CN=Qtd_Item; CI=21; SI=38; TP=RV; DT=S; AL=RptVarObj; FS=9)/Ctrl_3_9 (CN=STRING_ISS Tax Servico; CI=20; SI=38; TP=RV; DT=S; AL=RptVarObj; FS=1\0)/Ctrl_4_9 (CN=STRING_Extended Price Servico; CI=19; SI=38; TP=RV; DT=S; AL=RptVarOb\j; FS=10)/Ctrl_5_9 (CN=STRING_Unit Price Servico; CI=18; SI=38; TP=RV; DT=S; AL=RptVarObj; F\S=10)/Ctrl_6_9 (CN=Taxpayer ID - Municipality Ser; CI=14; SI=38; TP=RV; DT=S; AL=Municip\alityTaxpayerID; FS=12)/Ctrl_7_9 (CN=NumeroListaServico; CI=16; SI=38; TP=RV; DT=S; AL=PurchReportingCode6\; FS=4)/Ctrl_8_9 (CN=STRING_Tax Rate 3 Servico; CI=17; SI=38; TP=RV; DT=S; AL=RptVarObj; F\S=7)/Ctrl_9_9 (CN=Extended Price Servico_OCULTO; CI=10; SI=38; TP=RV; DT=N; AL=AmountEx\tendedPrice; FS=10)/Ctrl_10_9 (CN=ISS Tax Servico_OCULTO; CI=12; SI=38; TP=RV; DT=N; AL=AmountISSTax; F\S=10)/Ctrl_11_9 (CN=Unit Price Servico_OCULTO; CI=8; SI=38; TP=RV; DT=N; AL=AmtPricePerUn\it2; FS=10)/Ctrl_12_9 (CN=Tax Rate 3 Servico_OCULTO; CI=6; SI=38; TP=RV; DT=N; AL=TaxRate3; FS=\7)/Sect_10 (SN=Linha de Desconto;TP=GRP|CD;BV=None;SI=39;PI=0)/Ctrl_0_10 (CN=Item Number Desconto_OCULTO; CI=2; SI=39; TP=RV; DT=S; AL=Identifier2\ndItem; FS=8)/Ctrl_1_10 (CN=Description Desconto; CI=3; SI=39; TP=RV; DT=S; AL=Description001; FS\=30)/Ctrl_2_10 (CN=Fiscal Class Desconto_OCULTO; CI=4; SI=39; TP=RV; DT=S; AL=FiscalClas\sification; FS=10)/Ctrl_3_10 (CN=ICMS Tax Situation Desconto_OC; CI=5; SI=39; TP=RV; DT=S; AL=CodeICMS\TaxStatus; FS=3)/Ctrl_4_10 (CN=U/M Desconto_OCULTO; CI=6; SI=39; TP=RV; DT=S; AL=UnitOfMeasureAsInpu\t; FS=2)/Ctrl_5_10 (CN=Quantity Desconto_OCULTO; CI=7; SI=39; TP=RV; DT=N; AL=UnitsTransacti\onQty; FS=10)/Ctrl_6_10 (CN=Unit Price Desconto_OCULTO; CI=8; SI=39; TP=RV; DT=N; AL=AmtPricePerU\nit2; FS=10)/Ctrl_7_10 (CN=Tax Rate 1 Desconto_OCULTO; CI=10; SI=39; TP=RV; DT=N; AL=TaxRate1; F\S=7)/Ctrl_8_10 (CN=STRING_Porcentaje; CI=14; SI=39; TP=RV; DT=S; AL=RptVarObj; FS=13)/Ctrl_9_10 (CN=CodigoONUDesconto_OCULTO; CI=12; SI=39; TP=RV; DT=S; AL=Description01\002; FS=10)/Ctrl_10_10 (CN=STRING_Extended Price Desconto; CI=13; SI=39; TP=RV; DT=S; AL=RptVarO\bj; FS=13)/Ctrl_11_10 (CN=Extended Price Desconto_OCULTO; CI=11; SI=39; TP=RV; DT=N; AL=AmountE\xtendedPrice; FS=10)/Sect_11 (SN=Segunda Descri\347\343o;TP=GRP|CD;BV=None;SI=40;PI=0)/Ctrl_0_11 (CN=Description Segunda Descricao; CI=1; SI=40; TP=RV; DT=S; AL=Descripti\on001; FS=30)/Ctrl_1_11 (CN=Codigo ONU_NOVO; CI=2; SI=40; TP=RV; DT=S; AL=RptVarObj; FS=30)/Sect_12 (SN=N\372mero Nota Rodap\351;TP=GRP|CD;BV=None;SI=43;PI=0)/Sect_13 (SN=ASTERISCOS;TP=GRP|CD;BV=None;SI=45;PI=0)/Ctrl_0_13 (CN=XXXXXXXXXXXXXXXXXXXXXXXX; CI=5; SI=45; TP=RC; DT=S; AL=RptConstObj; F\S=24)/Ctrl_1_13 (CN=LabelFolhadeAte; CI=11; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=6)/Ctrl_2_13 (CN=NumPaginadeAte; CI=12; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_3_13 (CN=BarradeAte; CI=13; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=1)/Ctrl_4_13 (CN=TotPaginadeAte; CI=14; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_5_13 (CN=LabelContinuadeAte; CI=15; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=11)/Ctrl_6_13 (CN=BBB_StringSello_BBB; CI=21; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=12)/Ctrl_7_13 (CN=AA_String_NF_Number_AA; CI=16; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=7\)/Ctrl_8_13 (CN=N.F. Series Rodape; CI=18; SI=45; TP=RV; DT=S; AL=NotaFiscalSeries; F\S=2)/Ctrl_9_13 (CN=Remark 04 Rodap\351; CI=19; SI=45; TP=RV; DT=S; AL=CategoryCodeFiscal\Rem004; FS=3)/Ctrl_10_13 (CN=S\351rie; CI=17; SI=45; TP=RC; DT=S; AL=RptConstObj; FS=5)/Sect_14 (SN=Conta Paginas;TP=GRP|CD;BV=V7611BB;SI=47;PI=0)/Ctrl_0_14 (CN=; CI=2; SI=47; TP=RC; DT=S; AL=FDN001; FS=15)/Ctrl_1_14 (CN=; CI=3; SI=47; TP=RV; DT=N; AL=FDN001; FS=8)/Sect_15 (SN=On Next Number 001;TP=GRP|LH;BV=V7611BB;SI=60;PI=47)/Sect_16 (SN=StrinPiePagina;TP=GRP|CD;BV=None;SI=49;PI=0)/Ctrl_0_16 (CN=AAStringMensajePiePaginaAA; CI=1; SI=49; TP=RV; DT=S; AL=RptVarObj; F\S=100)/Ctrl_1_16 (CN=AAA_StringSello_AAA; CI=2; SI=49; TP=RV; DT=S; AL=RptVarObj; FS=12)/Sect_17 (SN=SERIR/NUMERO-NF;TP=GRP|CD;BV=None;SI=50;PI=0)/Ctrl_0_17 (CN=AA_String_NF_Number_AA_PIE; CI=1; SI=50; TP=RV; DT=S; AL=RptVarObj; F\S=7)/Ctrl_1_17 (CN=S\351rie; CI=2; SI=50; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_2_17 (CN=N.F. Series Rodape; CI=3; SI=50; TP=RV; DT=S; AL=NotaFiscalSeries; FS\=2)/Ctrl_3_17 (CN=Remark 04 Rodap\351PIE; CI=4; SI=50; TP=RV; DT=S; AL=CategoryCodeFisc\alRem004; FS=3)/Sect_18 (SN=NF Reservada;TP=GRP|CD;BV=None;SI=51;PI=0)/Ctrl_0_18 (CN=NOTA FISCAL RESERVADA - VERIFI; CI=1; SI=51; TP=RC; DT=S; AL=RptConst\Obj; FS=98)/Sect_19 (SN=Update Detail;TP=GRP|CD;BV=None;SI=55;PI=0)/Sect_20 (SN=Error en la coneccion;TP=GRP|CD;BV=None;SI=56;PI=0)/Ctrl_0_20 (CN=MensajeErrorIntegridadCommit1; CI=3; SI=56; TP=RV; DT=S; AL=RptVarObj\; FS=100)/Ctrl_1_20 (CN=MensajeErrorIntegridadCommit2; CI=4; SI=56; TP=RV; DT=S; AL=RptVarObj\; FS=100)/Sect_21 (SN=ReterYN;TP=GRP|CD;BV=None;SI=57;PI=0)/Sect_22 (SN=REPASSE IMP RETIDO;TP=GRP|CD;BV=None;SI=59;PI=0)/Ctrl_0_22 (CN=\(  *  \); CI=1; SI=59; TP=RC; DT=S; AL=RptConstObj; FS=7)/Ctrl_1_22 (CN=REPASSE IMP RETIDO NA FASE ANT; CI=2; SI=59; TP=RC; DT=S; AL=RptConst\Obj; FS=30)/Ctrl_2_22 (CN=SUBSTITUICAO LINHA PRODUTO; CI=3; SI=59; TP=RV; DT=S; AL=RptVarObj; F\S=12)/Sect_23 (SN=Msg de Reducao na Base ICMS;TP=GRP|CD;BV=None;SI=61;PI=0)/Ctrl_0_23 (CN=MsgRedICMS_ColA; CI=1; SI=61; TP=RV; DT=S; AL=RptVarObj; FS=200)/Ctrl_1_23 (CN=MsgRedICMS_ColB; CI=2; SI=61; TP=RV; DT=S; AL=RptVarObj; FS=200)/Sect_24 (SN=Erro;TP=GRP|CD;BV=None;SI=62;PI=0)/Ctrl_0_24 (CN=szMsgErro; CI=1; SI=62; TP=RV; DT=S; AL=RptVarObj; FS=130)/Sect_25 (SN=NEW Dados Adicionais;TP=GRP|CD;BV=None;SI=63;PI=0)/Ctrl_0_25 (CN=INFORMA\307\325ES ADICIONAIS; CI=1; SI=63; TP=RC; DT=S; AL=RptConstOb\j; FS=22)/Ctrl_1_25 (CN=                    ; CI=2; SI=63; TP=RC; DT=S; AL=RptConstObj; FS=20\)/Ctrl_2_25 (CN=MensagemCampo1; CI=3; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_3_25 (CN=MensagemCampo2; CI=4; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_4_25 (CN=MensagemCampo3; CI=5; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_5_25 (CN=; CI=14; SI=63; TP=RV; DT=N; AL=UserReservedAmount; FS=15)/Ctrl_6_25 (CN=MensagemCampo4; CI=6; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_7_25 (CN=MensagemCampo5; CI=7; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_8_25 (CN=MensagemCampo6; CI=8; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_9_25 (CN=MensagemCampo7; CI=9; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_10_25 (CN=MensagemCampo8; CI=10; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_11_25 (CN=                              ; CI=11; SI=63; TP=RC; DT=S; AL=RptCons\tObj; FS=185)/Ctrl_12_25 (CN=MensagemCampo9; CI=12; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_13_25 (CN=OPERA\307\303O N\303O SUJEITA AO I.S.S.; CI=13; SI=63; TP=RC; DT=S; A\L=RptConstObj; FS=70)/Sect_26 (SN=New Page Header;TP=GRP|CD;BV=None;SI=64;PI=0)/Ctrl_0_26 (CN=A             ; CI=27; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=14)/Ctrl_1_26 (CN=B   ; CI=28; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_2_26 (CN=Printed NF NumberNew; CI=3; SI=64; TP=RV; DT=N; AL=NotaFiscalNumber; \FS=6)/Ctrl_3_26 (CN=N\272; CI=2; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2)/Ctrl_4_26 (CN=NOTA DE COBRAN\307A; CI=1; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=16)/Ctrl_5_26 (CN=/; CI=6; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=1)/Ctrl_6_26 (CN=TotalPaginas; CI=7; SI=64; TP=RV; DT=N; AL=RptVarObj; FS=3)/Ctrl_7_26 (CN=Pagina; CI=5; SI=64; TP=RV; DT=N; AL=RptVarObj; FS=6)/Ctrl_8_26 (CN=PG; CI=4; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2)/Ctrl_9_26 (CN=VIA UNICA; CI=9; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_10_26 (CN=Inbound; CI=8; SI=64; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_11_26 (CN=NomedaCia; CI=10; SI=64; TP=RV; DT=S; AL=Name; FS=40)/Ctrl_12_26 (CN=                    ; CI=53; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2\0)/Ctrl_13_26 (CN=Outbound; CI=13; SI=64; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_14_26 (CN=UNIDADE:; CI=12; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_15_26 (CN=Nome Filial/F\341brica; CI=11; SI=64; TP=RV; DT=S; AL=NameMailing; FS\=40)/Ctrl_16_26 (CN=     ; CI=37; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_17_26 (CN=        ; CI=38; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_18_26 (CN=CNPJ; CI=29; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_19_26 (CN=Data da Emiss\343o; CI=31; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=15)/Ctrl_20_26 (CN=                        ; CI=30; SI=64; TP=RC; DT=S; AL=RptConstObj; \FS=24)/Ctrl_21_26 (CN=Bairro Emitente; CI=17; SI=64; TP=RV; DT=S; AL=AddSoldToAddLine2; FS=\20)/Ctrl_22_26 (CN=BAIRRO/DISTRITO:; CI=16; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=16)/Ctrl_23_26 (CN=Endereco EmitenteHeader; CI=15; SI=64; TP=RV; DT=S; AL=AddSoldToAddLi\ne1; FS=40)/Ctrl_24_26 (CN=ENDERE\307O:; CI=14; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_25_26 (CN=CGC Tax ID Emitente; CI=32; SI=64; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_26_26 (CN=                              ; CI=36; SI=64; TP=RC; DT=S; AL=RptCons\tObj; FS=38)/Ctrl_27_26 (CN=CountyEmitente; CI=18; SI=64; TP=RV; DT=S; AL=CountyAddress; FS=40)/Ctrl_28_26 (CN=MUNICIPIO:; CI=19; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=10)/Ctrl_29_26 (CN=State 1 EmitenteHeaderNew; CI=21; SI=64; TP=RV; DT=S; AL=State; FS=3)/Ctrl_30_26 (CN=UF:; CI=20; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_31_26 (CN=                    ; CI=55; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2\0)/Ctrl_32_26 (CN=Issue DateNew; CI=33; SI=64; TP=RV; DT=D; AL=IssueDate; FS=6)/Ctrl_33_26 (CN=INSCRI\307\303O ESTADUAL; CI=34; SI=64; TP=RC; DT=S; AL=RptConstObj; \FS=18)/Ctrl_34_26 (CN=Phone Number 1 EmitenteNew; CI=24; SI=64; TP=RV; DT=S; AL=PhoneNumber\; FS=20)/Ctrl_35_26 (CN=Postal Code 1 EmitenteNew; CI=26; SI=64; TP=RV; DT=S; AL=ZipCodePosta\l; FS=12)/Ctrl_36_26 (CN=FONE/FAX:; CI=22; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_37_26 (CN=Prefix 1 EmitenteNew; CI=23; SI=64; TP=RV; DT=S; AL=PhoneAreaCode1; F\S=6)/Ctrl_38_26 (CN=CEP:; CI=25; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_39_26 (CN=Inscricao Estadual Emitente; CI=35; SI=64; TP=RV; DT=S; AL=TaxId2; FS\=20)/Ctrl_40_26 (CN=DESTINAT\301RIO; CI=39; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=12)/Ctrl_41_26 (CN=   ; CI=57; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_42_26 (CN=                    ; CI=54; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2\0)/Ctrl_43_26 (CN=         ; CI=56; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_44_26 (CN=C.N.P.J /C.P.F; CI=58; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=14)/Ctrl_45_26 (CN=NOME /RAZ\303O SOCIAL; CI=40; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=\18)/Ctrl_46_26 (CN=Razao Social Remetente; CI=41; SI=64; TP=RV; DT=S; AL=NameMailing; FS\=40)/Ctrl_47_26 (CN=CGC Tax ID Remetente; CI=59; SI=64; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_48_26 (CN=BAIRRO /DISTRITO; CI=43; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=16)/Ctrl_49_26 (CN=CEP; CI=60; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_50_26 (CN=ENDERE\307O; CI=42; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_51_26 (CN=Postal Code RemetenteNew; CI=61; SI=64; TP=RV; DT=S; AL=ZipCodePostal\; FS=12)/Ctrl_52_26 (CN=Endereco RemetenteHeader; CI=44; SI=64; TP=RV; DT=S; AL=AddShipToAddL\ine1; FS=78)/Ctrl_53_26 (CN=Bairro RemetenteHeader; CI=45; SI=64; TP=RV; DT=S; AL=AddShipToAddLin\e2; FS=35)/Ctrl_54_26 (CN=MUNICIPIO; CI=46; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_55_26 (CN=FONE /FAX; CI=47; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_56_26 (CN=U.F.; CI=48; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_57_26 (CN=INSCRI\307\303O ESTADUAL; CI=62; SI=64; TP=RC; DT=S; AL=RptConstObj; \FS=18)/Ctrl_58_26 (CN=Codigo Area RemetenteHeader; CI=49; SI=64; TP=RV; DT=S; AL=PhoneAreaC\ode3; FS=6)/Ctrl_59_26 (CN=Telefone RemetenteHeader; CI=50; SI=64; TP=RV; DT=S; AL=PhoneNumber3;\ FS=20)/Ctrl_60_26 (CN=CountyRemetente; CI=51; SI=64; TP=RV; DT=S; AL=CountyAddress; FS=25)/Ctrl_61_26 (CN=State Remetente; CI=52; SI=64; TP=RV; DT=S; AL=State; FS=3)/Ctrl_62_26 (CN=Inscricao Estadual Remetente; CI=63; SI=64; TP=RV; DT=S; AL=TaxId2; F\S=20)/Sect_27 (SN=NEW Nota Fiscal Detail - Update - Brazil;TP=GRP|CD;BV=V7611BB;SI=65;P\I=0)/Ctrl_0_27 (CN=                              ; CI=1; SI=65; TP=RC; DT=S; AL=RptConst\Obj; FS=89)/Ctrl_1_27 (CN=                              ; CI=2; SI=65; TP=RC; DT=S; AL=RptConst\Obj; FS=58)/Ctrl_2_27 (CN=                              ; CI=3; SI=65; TP=RC; DT=S; AL=RptConst\Obj; FS=157)/Ctrl_3_27 (CN=; CI=6; SI=65; TP=RV; DT=N; AL=FDDOCO; FS=8)/Ctrl_4_27 (CN=; CI=5; SI=65; TP=RC; DT=S; AL=FDDOCO; FS=12)/Ctrl_5_27 (CN=; CI=15; SI=65; TP=RV; DT=N; AL=FDAEXP; FS=15)/Ctrl_6_27 (CN=; CI=14; SI=65; TP=RV; DT=N; AL=FDUPRC; FS=15)/Ctrl_7_27 (CN=; CI=11; SI=65; TP=RV; DT=S; AL=FDLITM; FS=8)/Ctrl_8_27 (CN=; CI=13; SI=65; TP=RV; DT=N; AL=FDUORG; FS=15)/Ctrl_9_27 (CN=; CI=12; SI=65; TP=RV; DT=S; AL=FDDSC1; FS=30)/Ctrl_10_27 (CN=; CI=8; SI=65; TP=RV; DT=S; AL=CategoryCodeAddressBk26; FS=3)/Ctrl_11_27 (CN=; CI=7; SI=65; TP=RC; DT=S; AL=CategoryCodeAddressBk26; FS=29)/Ctrl_12_27 (CN=; CI=9; SI=65; TP=RC; DT=S; AL=FDDCT; FS=13)/Ctrl_13_27 (CN=; CI=10; SI=65; TP=RV; DT=S; AL=FDDCT; FS=2)/Ctrl_14_27 (CN=\(*\); CI=4; SI=65; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_15_27 (CN=IPI Tax_OCULTO; CI=16; SI=65; TP=RV; DT=N; AL=FDBIPI; FS=10)/Sect_28 (SN=New On Document Type;TP=GRP|LH;BV=V7611BB;SI=69;PI=65)/Sect_29 (SN=NEW Cabe\347alhodadosdocumento;TP=GRP|CD;BV=None;SI=66;PI=0)/Ctrl_0_29 (CN=DADOS DO DOCUMENTO; CI=1; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=18)/Ctrl_1_29 (CN=\(*\); CI=2; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_2_29 (CN=                              ; CI=3; SI=66; TP=RC; DT=S; AL=RptConst\Obj; FS=157)/Ctrl_3_29 (CN=                              ; CI=4; SI=66; TP=RC; DT=S; AL=RptConst\Obj; FS=89)/Ctrl_4_29 (CN=                              ; CI=5; SI=66; TP=RC; DT=S; AL=RptConst\Obj; FS=58)/Ctrl_5_29 (CN=C\323DIGO; CI=6; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=6)/Ctrl_6_29 (CN=DESCRI\307\303O; CI=7; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_7_29 (CN=QUANTIDADE; CI=8; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=10)/Ctrl_8_29 (CN=VALOR UNIT\301RIO; CI=9; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=14)/Ctrl_9_29 (CN=VALOR TOTAL; CI=10; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=11)/Sect_30 (SN=NEW Dados de Seguran\347a;TP=GRP|CD;BV=None;SI=67;PI=0)/Ctrl_0_30 (CN=                       ; CI=1; SI=67; TP=RC; DT=S; AL=RptConstObj; FS\=23)/Ctrl_1_30 (CN=VALOR TOTAL DA NOTA DE COBRAN\307; CI=2; SI=67; TP=RC; DT=S; AL=RptCo\nstObj; FS=31)/Ctrl_2_30 (CN=xxxxxxxxxxxxxxxxx; CI=3; SI=67; TP=RC; DT=S; AL=RptConstObj; FS=17)/Ctrl_3_30 (CN=ValorTotalNCL; CI=4; SI=67; TP=RV; DT=N; AL=RptVarObj; FS=15)/Ctrl_4_30 (CN=DADOS DE SEGURAN\307A /MANUSEIO D; CI=5; SI=67; TP=RC; DT=S; AL=RptCo\nstObj; FS=63)/Ctrl_5_30 (CN=                    ; CI=6; SI=67; TP=RC; DT=S; AL=RptConstObj; FS=20\)/Ctrl_6_30 (CN=- SE  VOC\312  N\303O  RECEBEU  TODA; CI=7; SI=67; TP=RC; DT=S; AL=Rp\tConstObj; FS=114)/Ctrl_7_30 (CN=SEGURAN\307A  DE  PRODUTOS QU\315MIC; CI=8; SI=67; TP=RC; DT=S; AL=Rp\tConstObj; FS=114)/Ctrl_8_30 (CN=SOLICITE OS MESMOS IMEDIATAMEN; CI=10; SI=67; TP=RC; DT=S; AL=RptCons\tObj; FS=79)/Ctrl_9_30 (CN=DE CILINDROS,TANQUES,ETC.\),; CI=9; SI=67; TP=RC; DT=S; AL=RptConstOb\j; FS=27)/Ctrl_10_30 (CN=OU CONTACTE-NOS ATRAV\311S DO TEL; CI=11; SI=67; TP=RC; DT=S; AL=RptC\onstObj; FS=67)/Ctrl_11_30 (CN=- LEIA AS INSTRU\307\325ES  CONSTANT; CI=12; SI=67; TP=RC; DT=S; AL=R\ptConstObj; FS=114)/Ctrl_12_30 (CN=INFORMA\307\325ES ALI CONTIDAS,SOLIC; CI=13; SI=67; TP=RC; DT=S; AL=R\ptConstObj; FS=45)/Ctrl_13_30 (CN=- ANTES  DE  SEUS  FUNCION\301RIO; CI=14; SI=67; TP=RC; DT=S; AL=RptC\onstObj; FS=106)/Ctrl_14_30 (CN=REPASSE  A  ELES  AS   INFORMA; CI=15; SI=67; TP=RC; DT=S; AL=RptCons\tObj; FS=113)/Ctrl_15_30 (CN=EQUIPAMENTOS E PRODUTOS.; CI=16; SI=67; TP=RC; DT=S; AL=RptConstObj; \FS=24)/Sect_31 (SN=NEW Linha em branco;TP=GRP|CD;BV=None;SI=68;PI=0)/Ctrl_0_31 (CN=                              ; CI=1; SI=68; TP=RC; DT=S; AL=RptConst\Obj; FS=89)/Ctrl_1_31 (CN=                              ; CI=2; SI=68; TP=RC; DT=S; AL=RptConst\Obj; FS=58)/Ctrl_2_31 (CN=                              ; CI=3; SI=68; TP=RC; DT=S; AL=RptConst\Obj; FS=157)/Sect_32 (SN=NEW Page Footer;TP=GRP|CD;BV=None;SI=70;PI=0)/Ctrl_0_32 (CN=- - - - - - - - - - - - - - - ; CI=1; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=256)/Ctrl_1_32 (CN=                              ; CI=2; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=39)/Ctrl_2_32 (CN=                              ; CI=3; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=32)/Ctrl_3_32 (CN=NOTA DE COBRAN\307A N \272; CI=4; SI=70; TP=RC; DT=S; AL=RptConstObj;\ FS=20)/Ctrl_4_32 (CN=ATESTAMOS QUE OS DADOS ACIMA C; CI=5; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=69)/Ctrl_5_32 (CN=                            ; CI=7; SI=70; TP=RC; DT=S; AL=RptConstOb\j; FS=28)/Ctrl_6_32 (CN=                              ; CI=8; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=47)/Ctrl_7_32 (CN=DATA DO RECEBIMENTO; CI=9; SI=70; TP=RC; DT=S; AL=RptConstObj; FS=19)/Ctrl_8_32 (CN=IDENTIFICA\307\303O E ASSINATURA DO ; CI=10; SI=70; TP=RC; DT=S; AL=R\ptConstObj; FS=39)/Ctrl_9_32 (CN=NOME LEG\315VEL; CI=11; SI=70; TP=RC; DT=S; AL=RptConstObj; FS=12)/Ctrl_10_32 (CN=                      ; CI=12; SI=70; TP=RC; DT=S; AL=RptConstObj; FS\=22)/Ctrl_11_32 (CN=        /         /         ; CI=13; SI=70; TP=RC; DT=S; AL=RptConstO\bj; FS=28)/Ctrl_12_32 (CN=NF NumberFooterNew; CI=14; SI=70; TP=RV; DT=N; AL=NotaFiscalNumber; F\S=6)/Ctrl_13_32 (CN=                              ; CI=15; SI=70; TP=RC; DT=S; AL=RptCons\tObj; FS=73)/Ctrl_14_32 (CN=                              ; CI=16; SI=70; TP=RC; DT=S; AL=RptCons\tObj; FS=77)/Sect_33 (SN=Detail 1 Print Nota Fiscal Lines;TP=GRP|L1;BV=V7611BB;SI=18;PI=0)/Ctrl_0_33 (CN=\(*\); CI=73; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_1_33 (CN=; CI=71; SI=18; TP=RC; DT=S; AL=FDDOCO; FS=12)/Ctrl_2_33 (CN=STRING_BC_Quantity; CI=70; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_3_33 (CN=STRING_BC_Unit Price; CI=69; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_4_33 (CN=STRING_BC_Extended Price; CI=68; SI=18; TP=RV; DT=S; AL=RptVarObj; FS\=13)/Ctrl_5_33 (CN=; CI=72; SI=18; TP=RV; DT=N; AL=FDDOCO; FS=8)/Ctrl_6_33 (CN=STRING_BC_Tax Rate 1; CI=67; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=7)/Ctrl_7_33 (CN=; CI=47; SI=18; TP=RV; DT=S; AL=FDLITM; FS=8)/Ctrl_8_33 (CN=; CI=50; SI=18; TP=RV; DT=S; AL=FiscalClassification; FS=10)/Ctrl_9_33 (CN=; CI=52; SI=18; TP=RV; DT=N; AL=FDBDES; FS=10)/Ctrl_10_33 (CN=; CI=54; SI=18; TP=RV; DT=S; AL=Description001; FS=30)/Ctrl_11_33 (CN=; CI=56; SI=18; TP=RV; DT=S; AL=CodeICMSTaxStatus; FS=3)/Ctrl_12_33 (CN=CodigoONU; CI=58; SI=18; TP=RV; DT=S; AL=Description01002; FS=10)/Ctrl_13_33 (CN=; CI=62; SI=18; TP=RV; DT=S; AL=AlphaSpecData03; FS=3)/Ctrl_14_33 (CN=UOM_TRADUCCION; CI=64; SI=18; TP=RV; DT=S; AL=UnitOfMeasureAsInput; F\S=2)/Ctrl_15_33 (CN=STRING_BC_Amount - IPI Tax; CI=65; SI=18; TP=RV; DT=S; AL=RptVarObj; \FS=12)/Ctrl_16_33 (CN=STRING_BC_Tax Rate 2; CI=66; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=7)/Ctrl_17_33 (CN=Quantity_OCULTO; CI=17; SI=18; TP=RV; DT=N; AL=FDUORG; FS=10)/Ctrl_18_33 (CN=IPI Tax_OCULTO; CI=26; SI=18; TP=RV; DT=N; AL=FDBIPI; FS=10)/Ctrl_19_33 (CN=Unit Price_OCULTO; CI=20; SI=18; TP=RV; DT=N; AL=FDUPRC; FS=10)/Ctrl_20_33 (CN=Extended Price_OCULTO; CI=23; SI=18; TP=RV; DT=N; AL=FDAEXP; FS=10)/Ctrl_21_33 (CN=Tax Rate 2_OCULTO; CI=41; SI=18; TP=RV; DT=N; AL=FDTXR2; FS=7)/Ctrl_22_33 (CN=; CI=14; SI=18; TP=RV; DT=S; AL=FDUOM; FS=2)/Ctrl_23_33 (CN=Tax Rate 1_OCULTO; CI=38; SI=18; TP=RV; DT=N; AL=FDTXR1; FS=7)>> endobj4 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /ArialMT /FirstChar 0 /LastChar 255 /Widths [ 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 350 556 350 222 556 333 1000 556 556 333 1000 667 333 1000 350 350 350 350 222 222 333 333 350 556 1000 333 1000 500 333 944 350 350 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 333 400 584 333 333 333 556 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 556 584 611 556 556 556 556 500 556 500 ] /FontDescriptor 5 0 R /Encoding /WinAnsiEncoding >> endobj5 0 obj<< /Type /FontDescriptor /FontName /ArialMT /FontBBox [ -222 -250 1006 922 ] /Flags 32 /CapHeight 715 /Ascent 922 /Descent -250 /StemV 96 /ItalicAngle 0 /XHeight 517 /FontFile3 6 0 R >> endobj6 0 obj<< /Length 19331 /Length1 19331 /Subtype /Type1C >> stream
+  ArialMT *ø øøøøûrûŽú‚ú.  ­3÷º÷ÁÃKK ØàEuroCopyright (c) 1991, 1993, 1996, 1997, 1998, 1999 Adobe Systems Incorporated.  All Rights Reserved.Arial is a trademark of The Monotype Corporation, registered in the US Patent and Trademark Office and elsewhere.Arial MT   ã‡  æ    3 f Ïsÿ—¹ù9™¼Úîü\å_ãN{l„¬Òô|	D	‹	ý
+Z
+¨
+Í
+îQxŠÁô	Z’ì=Å2±ÍD´P… ¹Ö:¿"rÊ#`á%@³Å/vË'‚·OŸ×]©J£·f’&Ïç9©bÓò1gˆ©ûJ]~²Ãû  9 q ¬ â!
+!Ú"<"V"q"š"î##;#N#i# #Ý$$5$W$l$§%9%k%ã&i&¦'m''ª(-(½)P)w)‘)ã*0*Œ++:+’,,+,H,,Ò-„-Í.v.‹//@/£0700ð1K1¤2#2¯3J3€3¿3ú414S4~4¨4Ë5Q5½616£77²8K8—8ì9<9‰9Ô:':v;;°<T<ë=¤>|??{?õ@i@Ô@öA(ASAvBBsBéCVC½DeDßEAE¯FFzFïGgG¿HNww‹‹÷J‹w‹ïøüwà÷"ïÐäïï'à¢ÙÄ¤ø÷3ûû3Äøb÷’‹w´ïÓïp°÷øbÁ¡÷÷	'û	û(ûÁ¡÷÷	'û	”v÷dÓ÷FÓ÷fw–øª¾Õµ÷d÷.`ûdÕµ÷d÷+Óû¯÷FïÓ6µ÷fB`ûfû-µ÷fB`ûfû(C÷fûF*CÞ÷÷Ž÷.fûFû-$÷6Vv¡v±ãBã÷¿÷
+å.Ž÷$¿.ä÷‘Ñõô÷2û«J›‡Œ„Œ‰Œ÷’¥…Æš)æ˜z÷	>¾*”µWau‰l‡h|RsVL/p3ã\¹s¬¦†–û¬#•z÷	‡¨3{V˜ûQ÷'yÀ„øJŽ)©À´¾«ÃÙ˜¿ûèËvÁs6-Ce]…øãpÈ÷–Ç‡È÷–ÇÔ×÷-×÷×÷-×¿Ôø³û>ñr¼Éçµ÷'÷-.°Mûb*4÷,÷Ø‹'qg‹+>?‹ï¤¯‹ì×ß÷µü‡û>ñr¼Éçµ÷'÷-.°Mûb*4÷,÷Ø‹'qg‹+>?‹ï¤¯‹ì×¿üXûÑÔøù…DøÙMvøv÷ÂÓ¶ê†å÷8åº÷êø%ê½³ÅÍÝIÒ'¶"B?7_bÉCºûN_B;/Õû	÷-ÞÍ¬ÊÃz™|¶XÀhÆÑd§c³jµ¨·ž»›Ê0žˆ^v`ºX8\lObQ-dåºÏÆ¸É±¶Š÷)n­… ž¾·§²²µoTM]o_q?øúñ÷»Ëøú¹Šo‰ZXv¡iÛ¯‹Ð¼Û-®ûQvú>wÇæ÷~ùl~ysq`<ûbû	û$û÷ûM²ZÊ!÷>c÷1÷#÷mÚ÷Èô‘•®ûQvú>w÷Jæîûf•˜£¥¶Ú÷´÷	÷$÷û÷Md¼Lõû>³û1û#ûm=ûM#…æùlw÷3Ñ¬øÜµ€±ƒ³ƒƒ„„…rmbZÄa §™¡¨Â¤`™s§eÆµ†RÎtŸ±À—ª•tÑq‚XxexŒ“ŒŒ“ÅŒ§£Ejw“Fg Ut”÷²÷ÌÝ÷Ý÷÷Ý÷X÷XÝûX÷X9ûXûX9÷Xw‹ïåïå¼Ša„b\v£fÝ®‹Ó­ï'®÷kã«÷¡«÷k÷¡ãû¡w‹ïäïäïï'wˆvùxw‹÷ªsÒ÷cùxDÓøßÓ¸å÷²å¸÷õ6Œû¬÷|÷}‹÷´ØÚ‹÷³û}û}‹ûµ>å÷"Ÿ÷,÷÷˜û=ûû~û?ûû÷B÷ vùcw÷³ãøùcRgB4G7d6«—ã³ÃÁüÄ‹àøÆÓ»å÷§åøàûô—ž—¤ÚÊ•“¿·•”÷'÷§ÔÑãO÷û7Sû|û[}kˆm‰wå÷#Œ÷šÙÄVClƒbYShdhiU`9Iû'ŽûønÓ÷´Ï\v÷¿ÓøåQé´·÷Q'•Ô&÷%÷÷Þ÷ ¶}¸o®¸k³f“tà±˜Ð°ó3ÝûAûjû-pã{Ò•²ÆÛÃÈg?Ø#ûwY>œŸ¤´ßÃO<7JJ9ûvõ®„ v÷?Üødw÷Ùã÷Ùã÷?ìÜ*ødCûÚüd:÷ÊûtÜ÷r÷×û×Ó÷åÙ÷&àø:éµ÷Pû0™÷_ä÷3à÷÷÷2ûÕ%Z[ypd²÷S÷±àû÷EüÞ±£¹ªÇÝÑUû /T8,o1’÷wÓ÷ÛØ÷KÓµâ÷»åøŠø±÷y%´7ûŽ…û¸/"™K£YF¬ÖPñ÷*Õ÷÷÷!)åûBNiNe‰ÁŽ³—¶â¤ÁÁÑëž4p‘û£ûÁòÕ¿Ïâ¿E17[833RÝå vùà»øc»ù÷òû4ûJ3û¤‰û;å¡÷Ô÷K÷ŠÏÓÏücÓ÷¶Ó÷uÓµåNå÷}åNåê÷Føòv‡t…qvT_€Idûç*÷$÷#çì÷ïSÆ=£ì«–Ô­íë@æûû?6'ê ×oªz÷(Ã¸ÁÒìÍ¾YJKX]JêRO¯ÚònûßÔ¿ÒçÙÐS12IT<3QÍÛÓ÷KØ÷ÛÓ¶å÷¹âÃ÷:û> ÷!ƒ²÷”‹÷ÆÚ÷+mËg¸Ã_J©Eû.'û"û)ñ6÷áÆÁ³£FŒ~ûdû/){à§†÷¨÷È7]>-=JÇééÈÚßßÁ@0w‹ï÷Òïåïåïï'÷Òïï'w‹ï÷Òïåïå¼Ša„b\v£fÝ®‹Ó­ï'÷Òïï'÷²øvÂønÂ÷Íønû^âü÷0ø÷.âünû\÷²÷_Ý÷ÝÂønø¥ø9Ýün9ønûnÝün9÷²ø	vÂønø¥øün÷^4øû0üû.4øn÷\‹ïø9w÷/Ó÷wï-ßðåô÷ø“à™¶ÇáÛÆLIYmnafì5@kgûßí—šÐÈÉÂ¹ºÜ÷,ÞûWû~û
+\}kˆr‰xô÷Iüïï'ùaûfÓ÷Ü;ÓøÓ÷ÒÃÓ÷å÷è÷sÓ¿€ùøKßXE‘pûûû8û'ûÖ)ñÒÃÁ¦¢ß€lŽXá÷"÷,÷4÷R÷Nû÷Wû«üûûÆûVû{÷"ûd÷ô÷Íô÷U¥˜3Zi*)ûiû_ûnã÷³÷t÷/÷Y÷÷V÷0ûûKû<û$V~v•¢”•¡£ŒÑ÷Ü4¿€ûÜûÃàÄ÷4÷ÇÀ\.û0û4[R·ìø v÷nÖ÷ðÖ‹wŠù1ØŠïÚ÷n÷¿ßûnöû¸ù`%•ûhèœ¸—¸”ºšQ›_\Öû[û‡ø‹à÷Šà÷kàÕê÷ÒèLíôÕ÷¦´¾‹¤ÉÏ¦¸ÖÜÃsßû¬øèº‘Ú¥Àr¿^®´VE_û¡êü÷:ôÅ÷‹ûûûŒYûFø¶÷#øÚë‹û!'ŒLû/ø<ÜøÖÜ¾íøá÷4xT,ûOK¡¿_OÑ‰÷ª÷´÷<÷Y÷³/Qžè¡÷'aûÉûûCû6ûû;Ÿû	Ô7W¸Õa÷Ø÷8£÷kÂø<‹àø¶àÛêø#íÛ÷–àâ›ÃÆÉÆ´í÷÷$]×bºâ@%‹:û‹ê6÷*ÉÇ‹^½ÌR˜2Š?û¬û6Œ7û-ø‹à÷†à÷oàÚêÚø«àüL÷†ø àü ÷oø;àüš÷Í v÷Øà÷ràÛêÛê÷Ø÷äàûä÷røàüwøtà÷cà÷®Ü¿íølçø/÷¬÷gû}z8OûE>£ÃXYÃ|××Ñž÷l÷†÷7ªû^˜à£¾~c÷5ûƒû·Gû|û!ûv÷)û!÷m÷/òÜª±÷ûÃø< v÷åà÷ºwÛêøêÛê÷åøûåêù`,ûºü÷º,w vù`wçêçêù`,÷^àùw¦à÷iê¦÷`}Š|pû(£õÆ÷]‹÷CÍø{,ü€PŒ/ '†é¼‰ø vù`wÔêÔê÷Œ÷
+÷÷’ûþ÷ûÍø>÷À÷¶ûûøû÷÷÷,‹àùwÖêÖøTàûõù,ø«‹ò9vøë÷	 ö×åø‰å\×åøõŽ÷aüõàl÷bøëüëåœù`ûû?ü†tGˆƒd‰† ‡™sÒû=øû"ø<‹÷.ûvøÆ÷.‹wÚåøå\ÚåløÆø
+üÆìù`1œüÆ‰ü
+øÆ*øtÜøÖÜºíø}íº÷ñûK÷ûF÷t÷S÷+÷÷|÷zû'÷!ûWûNû1ûû’í‰¢‹÷¾ÓÊ¶×¬×÷÷6ûaûYû0ûû%(÷÷:ø v÷¶à÷”àØê÷õíØê÷¶÷K²Á¥ÊÓ©³ÙÞÃwÊZ³»Q6‹Kû¢ê6÷JÆ³‹m¬©p”emûû	†WûLøtÜOvù'Üºíø}í¸xù}•`œc¢e¦ãàŸ÷ß÷uû%÷$ûYûkûû5ûe¸ûn÷!û,÷\ÈÇ™©Â‡x¸h½nÀw¸ûÙ÷M­ƒ©}©x†€i}Xû
+û×÷i÷{÷$Åð÷÷
+3û]G}*EKs¡f¥A ø< v÷Ðà÷€ÚÛêøíÛê÷Ð÷Ú¬„û5ñéû(÷û÷WSâ`¥gœ÷›ÚÉ÷ÖdÕB§\]ŒYûÑê<÷v°ª‡{©©{¤g^`r`f{zdk‹`û_øàøÎà¸åMå÷çæFæÔä¸÷zŒxŒm›d3°ÙI÷@÷7ñê÷÷1û*­û¨Øû¨c¢ÉäòÉ÷( 6Wæ’÷!†ûÕû.û3/4ûû#÷!jèuä÷%hÓy7;<a(V(šØc}¦‡©Š›÷Í vùà÷•ê÷•êù÷àüË6÷ø<àùwÚêø	êø·ù`ü1ûz&ûDûH‹÷#âø1,ü2û—ûO÷£÷¬‹÷oêø2ø‹ÚQvù`w‘ù"p÷¯ì÷¬ù`+ûVüœ°~f}bd‰|Åˆ“}²†—ûNøœ%ù‹ïø¦á—ú-÷_ë÷,øµŸào‹‹–e÷0üÈæ÷Yù`,ûü`‚f|NQ‰‚Îs÷uÙ%÷þûûüw‰„„s‡y†s…p„j‰Ž‰˜‚½¼…¨ûøj*ø vù`wù$÷÷G÷–›–œ’—Œ‘Œ’~’~›u÷Hû“÷	û£ø÷÷å$û$ûR„‚€z‚xoˆˆƒ~{ªv§w¨û÷Lû÷‰ûëø vù`w÷­ê÷­ê÷Ã÷±ø1ûûûg‡…^FnXs¶¡fÃû!÷lû÷¨ü1÷Í‹àø¶àøÊøÊàü]—™•—Ÿ¢Œø&øƒàü•6ø$hhdZŠüü]wû[Ôù•ÔÏãÏû[÷VÔ!ù•õÔûVwˆvùxw‹÷ª÷csÒûcùxDwû[Ôù•Ô÷ã÷fù`ûVBõý•!B÷V÷?øýî‹w¥ø5`÷÷Ù ÷
+÷¸÷û¸äûAøDûAüû½…ø”…ûø”½ü”?ø‚ñ÷wË»÷2øè]Œ§¼¾ u­;g‹FZ;éÐgvøvîÓ±é÷ ã¼÷÷û¶–™Ã÷÷ŠBS‰Yy,~‰R„û'zû5ÊL÷ÃÈ˜ÊÕ|~s™pço½‹­÷÷
+å‹ôû]û\sû]÷ïû"¼`‡bhe_bP†r<r¸°ÑÐ•Á“¹’Ì˜­˜Ódvø^Ó÷NwÎã÷¤å¼|÷)¼ÌA»Óˆ¡Þ÷!Ç÷o÷);÷û 5aWy‰÷”3|ý`Ü÷›ô½åææº7û¼û"DQEZg§³p|}¨ã÷^Ó÷ÎvôÓ²åø(÷Rqˆ|#ûû%‹÷;¬È˜÷÷Á¹m@à˜‡¡…©uªÎ];™Z$ûSûlûÌû÷?·÷$›÷C§Ódvø^Ó÷Nw¯å÷¤ã¼|ø(Ýù`3û•‰´pZ©Jû2%û=¼û:ï"÷žØ‹Ùºûª÷U±‘÷5÷ö®!&ûFû~oX0¯÷7Ó÷EÓ÷)Ó²ê÷¹åø<÷;m€p>(=BÀ÷„ø÷¬“û[˜_û26û	û2û4â ÷5÷ÔÑí¥ü÷-Ï¸ÜíÊ½d_•ruxw vøVÏ÷Ü‚wáãèáãøVïÏ'¼µŽ±Ðžœ‰ˆ›Ø˜Øèwrfû#‹#YS=GÙûfÓ÷ÓøÓw­å÷±Ýì¿`û(‡÷$xÌ×Þ¢Ò¶©½è¶ÜøT:ìM‰ÒTJŽnû6Lû!ûû Úû÷%´Á•Å¼$Œ$û'$Â¦‡~÷Ø÷ÊÌÙÈÞ_û([†ZodkteqZ^c¢¯rk¹‹Ø™ vøZ×÷NwÎã÷‹ãÎã÷¯­¯Ÿ±¯ž»¦¼÷‹*mûÛã÷Ü²Š¼t´ÀmEŸTfM…JR÷•3? vøšw÷
+ïÎãÎãøš3íãï3?ûe×]vùbw÷
+ïÎã¸x^û\¸‚­§‹’÷Œ÷Òø¶3ü´D…g[~}Ž}êùzãï3÷^ vøšw÷nwÍãÍã÷bÉÆ÷@û÷ ûn÷Ú÷Z÷Tûûdûfø,3? vù`wÎãÎãù`3ø« vøZ×wÌã÷pã÷pãÜÌã÷¡¸Ž±žµ®›·¤ºáGZûåã÷Á²‘ªœ¨® ¸ž±è‹>YûÛã÷ø°Š÷û4*^LoyÇvWªA@We]o‰¼Ó< vøZ×wÏã÷ŠãØÏã÷¯ªŒ±œ°²ž¾¥½÷ ‹-^ûÏã÷ÓÂ‹°t¶ÃmDŸUh>„=X‰¸Ô<Óø"Ó®å÷Æå®÷—dŽ7»ON¼ÔpÑÐÔ§Ç¼£¨§¾÷÷ZûÌûG@qO\_S‚BSå÷<íªÂÚÕQû9oûûW&©÷=ûFv÷OÓø%ÐwÏã÷¤åìÏû[ã÷‘h¥¹lÉ÷÷æ÷L÷%B÷û'-dTs|‰ÜÎ;Úûšì÷ÆßßÍÓWû&û>1jWÜO<³÷0ûFv÷OÓø%Ðw±å÷¤ãìø|û[Üùa;ìH‰£|dÂ-û'Bûû%ûL÷0÷É¹ª®¥û‘”ø[û0<cOW1¬÷>÷&Ó¿ÍßÆ7û® vøLÙ=åËã°Ëã÷¤À”÷æ¢¡ƒ€ž©Ü”|mž^LpYcw‰ÐÙ;÷^Óø"Ó¸à÷…åª÷/W”¤û÷P÷ÔÙáöB û®6¡f•·ÆØ“®®Ï…<–á—³„zôûJûIF;û ñpÚxÅ}¿~®|aho[08a²Ð‚w„ÝøÏÜã÷•Ú‰}‰|Z‹©µ÷ÃãÏ3÷J3VûKGËû¾5‹B÷¨¡Žš×`vøšwÍã÷‰ã¸xø,Úøš3û©¸f‰h{gaxWpZ_`¡µƒ¦‹¡Á÷³3ûÕ\Œ`¢`W§ÐsÃ¦ÚŽàÄ÷^‹ò9vøšw˜øop÷fÝ÷Xøš1°ûûÐ‚t~gc‰…£ƒªy½û÷Ê.ø<‹÷ û ÷)vø#÷‹wù\,÷8ç4òø#‰Œ…Œ‡~Ž™LŒÝûËæ÷7øš5L2û¿‰„†x†{kˆ€‡|‰ˆ›‰•¯Š‘†‡˜>÷À18ûÃŒŠˆ‰ˆ‚‰‚yCŠ‰ƒ§~¼ˆ”…¤8÷¿0÷^ vøšw’øz’ö÷÷ap„ƒ‰õû5÷ ûU÷§÷G÷‡"4ûxq‰ˆxoƒš†“t®;÷û÷CûŒ÷^ûfàUvùbw›øp°pÉû\°‡™…¤ï«àò±Ž‘ŒŒ÷Zø£2ûûÁ|c€f‚a‰…£²vÄû ÷À,÷Yü›Šˆ‡€ˆ„GshIv{~÷^‹×øÓŸø_Ÿø_×û„c[‰‰tŒ‘’š›¤§Ž÷­÷ÜÄü<C÷h´›ŒµûÞü¯ûf×ù¦×÷Ý÷¯ùlfX‹_jk`ŠY$Š)‹2'‰;ï‰‹1Œ*$ŒZ«__¬¾‹°¦×|7‹š÷1÷	zÏ6¯ñ¼‹Ê÷HäŸ—Ëš×eûŽú|ç×çù‚þ|×ú|¯ûf×ù¦×÷Ý¾ûf°¾‹·¬«¶‹½ŒòŒí‹äïÛ'Šåìò‹¼j··jX‹fp?šß‹|û1û	œGàg%Z‹LûH2wK|?÷²÷¥çpè¶ø‡ `¶÷¤©ª±¯Å¯±|„™ Š¡‰x¶¬€¶Î²¨¦¨ò‚URLpq•`†o—…Ž©CesaU}^d®ûEvøüï÷÷#ïÐ÷møš''ïàt=Rrüû3÷÷3ûGv÷OÒ_vøvõÓwŸ‡w÷ewÂåÕ€øøH­o“hwá˜„¬}Ô2²Á÷QV›Ó€SûQµ€l‹…Rû@oû‹û¿7ÖgSûVÂ{Ä÷UÙ€ˆ˜™ˆ¢Í÷­÷3§4•/~NcP}„‚W£n ~«„§µŠ­Õ÷÷+~ßcÓ÷oÓ÷™ÓÕébéx÷Xø~±|Ì±ÆºÈÚÊÄ`8•ã˜ˆœ‡£~¨Øh<±9ûûKû f’mM@C´ê{|mû5Sq}­6x§¶Ã¼§¤…… ´Ôu†œ¢†§¶­˜œµnÜƒzbxgmG›|t•akyls…†~‰¼½²ËÒ †•†—÷Óû‡vûrøûûrrØø®ù‰? v÷9ÏãÏ÷Ûw÷ã÷ã÷9÷]Ïû]ã÷]Ïû/÷N÷Û#ûûŒyi€x€q¥~¤}£û!÷)÷OûÛû0G÷_3û_G÷_ûfØ_vùÏ÷Ý‹w¤øt¤ûZ´Ê²‹’Ú¬³âšèøŸï—Ï'•¾¿•’¥º ‡ƒ¯lœÖ‚´“ql”dûz8M€I(€Gí4ü†e……fY{vŽ“eûfÕù¬ÓµÚiã÷lãYßØÓiû›æYõ÷	ØÑåØO¹y™ÔµœÑ©èèD·'ÇJ²m n¢i¦‚ ¢²²²Èá—Fe’æ•‰›ˆ¡§åd,˜VûW1KO°g§rè?tiOS)âUÚ[ÛZ±n¢y¯o‘vwlrU:'{Õ³‚ä÷Y÷!x™oŸJ±;º_­¿Àº¦¦š£w«v¶pÙ[ÄbWpyfUp÷(Û÷‘ÛÒÛ÷’Ûõøim]†`qr`©\GIÃQÏÏr°µ°°µ•¤°ÏGÃÅGÍ©º¶¤¥†¶m¹ÏÎSÅGG¤fa•ffarfGÏSQ÷„TÌÉUCERREERÄÑÑÄÃÑ øb÷’‹w¸ï` ÐøbÁ¡÷÷	'û	®ø‚ñ÷w¶»ó»÷µøè]Œ§¼¾ u­;g‹FZ;éû,ñ]Œ§¼¾ u­;g‹FZ;é®øRÐø6÷=÷–÷÷sCû/ûs÷/ûsÓË÷s÷÷sCû/ûs÷/ûsÓ®®øR·÷w÷$÷–÷÷sCû/ûs÷/ûsÓ®®øRÉ÷w÷Q÷–ûûsÓ÷/÷sû/÷sC÷^ vøVÏíïFÜäã÷;ãìäãøVðÏ&Ü­Ï•¦Ð šˆ‰–™Ö–ca‹„û‹ûeX=GÙ÷“üVãøš3ìíãï3÷^ vøVÏ÷ÐFÜäã÷:ãÜäãøVðÏ&­Ï•¦Ð šˆ‰–ì™ÖÜ–ca‹„û‹ûeX=GÙ÷’üVãìù`3÷sÓ…øÌ…÷søÌÓüÌø;Ù÷~ã÷~û=ãøä÷WÙûW÷Z3ûZûW=÷W—Ù÷÷Ù÷Kw÷~ã÷~û=ã÷I÷WÙûW÷÷÷VÙûV÷K3ûKûW=÷Wû÷ûW=÷Ww÷Âïäïä÷Âïï'÷ƒûFvùÒà÷XÝ÷Ý÷Xû[ÝùÒ÷ýÒÝùÒÑàûÉgi‹tVAki@?'É0÷ƒ¿÷w÷‹¾÷Œ¾÷òGÃTÏÏÃÂÏÐSÂGGSTF?‹ñö»È¹Šo‰ZXv¡iÛ¯‹Ð¼Û-®‹ñå»ó»·¹Šo‰ZXv¡iÛ¯‹Ð¼Û-÷,%¹Šo‰ZXv¡iÛ¯‹Ð¼Û-®øúñå»ó»·øú¹Šo‰ZXv¡iÛ¯‹Ð¼Û-÷,%¹Šo‰ZXv¡iÛ¯‹Ð¼Û-®øRÐø6ø÷–ûûsÓ÷/÷sû/÷sCKûsûûsÓ÷/÷sû/÷sCùR‹ï÷	ï÷}ï÷}ïp÷	ïï'÷á'ïï'÷á'ïï'ùRpÈ÷“È†É÷“Ç‘wÓ÷ÓÖÓ÷Ó¼Ó÷Ó×à6 ø¬h‹û0÷ ÷ ‹÷&º´†÷#ûûƒûZÓˆ³‹äÏÃ—NH[‡<MI‡ÚºÁ€÷¯üh‹û0÷ ÷ ‹÷&º´†÷#ûûƒûZÓ‡³‹äÏÃ—NH[‡<MI‡ÚºÀ`÷•h‹û0÷ ÷ ‹÷&º´†÷#ûûƒûZÓ‡³‹äÏÃ—NH[‡<MI‡ÚºŒ üýûMÌ÷¸ù…K÷ÍûfÓ÷0vø9ïÖåæï1ßøøS’6}`O5;PÊÍ½©¨µ°ôáÖ«¯†÷7‰)|FNMT]\:ûê8÷¿÷š÷¾™«Ž¤žøûIø''ï®øã÷µ÷H÷1ùlû÷ ûÓ®øã÷÷÷H÷øãÓ÷ ÷û®øã÷UÁ—÷É `÷<ù6 À8ïû÷.!ûï®øñÑE÷IÌŽÌ÷ZË8X÷žùa˜i‡€ƒw†ŒŸ`8›h}wZXh>ŒÌºŠ­‹“•Š Xzª¢… Ò‘õ®ùÔ™÷Å™ù÷ÅÔûÅ®øçÈÍw¡÷µ÷ùfl„|hJG»‡O}z”vR¥Çy¹®·–«©¨ªŽ©Ž¢®ø÷ï÷å÷ø÷åï1®ø÷ïªåæåªø÷åï1÷I'åï1®øÒ¯õ¯Ú¯ó¯÷:ù„ZecZZ±c¼¼³³¼¼c³ZX3¥¡¥©©¡rontsnpr¡«®ûaÇiv÷á÷JÜ°ô@¥¾ŠkfL‹{|yŒŒ~p†R°‡¡¥Š¡ì·¸º¶d£_›¿J®øã÷§÷í÷UøãÓ÷ ÷ûûzûÓ÷ ÷û®ûdÌäÉ÷—zOˆlvD¼fÅ¬·™›©Åt_l‹„bnª¶‘‹ªž·®øã÷—÷É÷9ùVÞ'÷ûèõ÷'ùR÷sÓ…úˆ…÷súˆÓþˆùR‹ß÷ß¯ß÷pàøqê‹òí÷c÷¨ûcøhßü	÷‡÷ãßûã÷p÷üàüßÈ6Òûèû€Óø Æ÷ŒÄ ÔOÎ÷2ÑèØðøö¿“²”­×Œajƒ‰„Š{‡‰ˆŠ‡‚‰€‰ˆŠ†m‡Š…èZ…627Õt¸¿¸¦¤¨y‘~Óx£‹¬Ê÷	ô<˜GØû	qHi†÷t3bŠƒzèkygygjm›«²¨Ì•Ø·“”Œœ‹à÷¹v÷ûwÖêÖ÷¨û¨øTàûõ÷¤÷5÷Ýû5û÷ª,ûúDN:øtÜøÖÜºíø}íø÷ù¬`P¸û
+ûeûû+ûqû²P´K5+¼bÝçk¶Å`÷÷I÷3÷÷„÷`Ìj¼áëZ´üŒüÉv³t·ì÷y÷"ÇóÞ±mk³´X¤\›QAûK#$û!4^°¡pùR×Kà÷‡à÷nàK×Êíøãvú\àûà÷‡÷¸àû¸÷n÷Ñàü**‰®âYD¡Cûf<ûBûWû;Ìû`÷tµæ‘÷Èn$ø8üýù ÃÃpL°´FŒû v®Iƒ3iSSiUiN%3á÷^Í”ä­Än¿ªÃ¯ÇÎ÷ýÌ÷Ì¡Ô÷CÔ÷Jùlûe!;)Á8ö÷°÷ÖÔg÷ûJã‹(zn‹/34‹îž¬áÞøãÑEÔ÷DÓÑvïÓ­é÷˜â÷±ä¿÷÷úº•—À÷ö•X;‡ds‡Pƒ`…T„cx8d‚Erc¤û÷-íÎº½½=ÇÍxÎ÷Ìßâ¤0—e‚kC.YY£´qx©‰¨Š¿ø
+÷)’I÷$û>%^Zvw¡~n»ûûNpûY÷çû ¿IŠq~nWsOnN3~Å£ÏÏ–¯‘¿“Í•±œâ¼Õ´Öí÷•û	kŽw vøšwêãêãøš3? vøv÷ûwÎãÎ÷®û®ã÷ùËÁØKU÷®3ûùKT>÷ÍÓ`vøbÓÊå÷Æå¸øUø|›o_¥BFCoP\aV€EGx*¨V«fVF¸¹h¾Î|¢°rØÐ×¦Æº²¼˜ÍÑ÷j·s¬¿Î\­ûÒü1x°„·´÷@õ¦º¼¦v}¯\™k”uLû;)kQ[wœ™yùÔ÷CÓ÷*Ó±å÷Åä÷¶çú÷€Œ¦‹¿wÇ÷d,³5=GhK_¶sOÃû û)+)ûGûG÷5÷©æŽêÓ=¿àwÊÈ÷œ÷+³3˜w…r3$.OÕðŠü£ö¿æïÎá[û)û@L=cû÷Iø!»÷”×±È¦ñƒû"—÷ÍÓdvù$ÓÓã÷å€à¥åºvÓãøxÎŽô÷Ãµj_mxjs`ºtb~sjs’jàK“…³p’†¡| wg]bdZni—Ðf?ggœ¿:÷÷ ÑÙáÑa°P²G¸v™«•¡˜ ¶Ž‘«‘”›œ³±ÒKÐû	\I~]_ec~U4®øvøw÷5Ò÷5÷úÒøVh^Rhh€N±•´ ©¤÷²ø9ÝøRÞø¥÷_÷Àün9øûnûFv÷OÚ]vøšwÎã÷‰ãÜø|øš3ûp2‹YwjZm\pZh§±xz®ŠÃÖ÷o3ýaä÷oŸ¨gÔÝ©¹¦›¼NÙùR÷ÒÛ÷—Æ÷yÍ÷CÈ÷¡È÷y÷ÒÍ÷ç÷ÆûÙP÷÷…ûçÈ÷çôûçÇï÷âûâÈø"++ûÒ‰(÷Ò)ø<‹à÷{à÷zàÛêø#íÛ÷–¼ö‹Ô×ÈÆ´í÷÷$]×bºâ@%‹:û‹ûÏ<6Úê÷WàûW÷z÷*ÒÖŠ@Á n§Yûû«û6Œ7û-ø¬|Æ[v÷ÓÅ¦vøw÷?ÒøyØž÷?÷úÒøVh^Rhh€N±•´ ©¤nOý"Øø­ù‰?Lü§”•¦Â´¥xhjsy@U®J\TZ…U÷ÄÆûQ••’“¥ª¡Ð¼·²ÊìûuûxCi‚÷²‹Ý÷Ý÷Ý÷÷Ý÷X÷XÝûX÷X9ûXûX9÷X÷ªûáÝün9ø v÷%à÷”à÷%wØê÷õíØê÷%÷K²ÁŒ¥ÊÓ©³ÙÞÖhÞ6©žVXŒWûC÷%,êûz÷J·§‹¦¸z¦\WûûˆZûLø¬|÷û	vàÀ÷žvøw÷?Òø>Ñžù0|Ñ>Ö¾žÀX÷‚O>ûYû{O÷OžûÀ÷÷ûü…÷‰ÒøVh^Rhh€N±•´ ©¤^[ý"Øø®ù‰?÷²÷&ïÍÝÍï÷†ïàø¥÷ÌÝün9÷O÷(ïï'ü2ïï'eûCùæç×÷<ù7?ûò×üˆ÷ò?ûòñøZÀ÷9ÀÌÀ÷8ÀÌøâ?ÈOÕÕÈÇ×ÕOÈ@@OO@À¸¯°¹¹¯f^]ff^^f°¹ûFv÷OÔø$Ð÷NwÏã÷¤åÏû[ã÷‘l¨¬hÖ÷÷ä÷N÷%B÷û'<kjjl÷3Úü`÷ÆßßÍÓVû%û>1kWO<²÷0ø¬|÷û	vàÀ÷€Ä÷¿èÂ÷|×P×÷ëÑ€ù0|Ñ=€Ö¾€ÀX÷‚O=€ûYû{O÷O€ûÀ÷÷ûý÷éO—³^îï»ÃÄ¿h¨Z–ž€»˜ž«¬æû‹x1ogRuÑ€§–™ ·µœvuaYƒpV]€¦Œ¦Œ½†Ydiq`S~°…¥üzØø®ù‰?®÷úÆ÷ŽÅ÷Øëøø§”•¦Â´¥xhjsz@TJ\TZ…U÷ÄÆûQ••“’¤žª¡Ð½·±ÊìûuûxCi‚øK‚È÷¤Â÷Á÷È‹È÷&Ë÷BÏ÷7È÷c÷0Ë÷<±¾žw5»®MÙ[ØZÚw—t“ÝªÉ·«|§tž§jW‹]ûËUÔ²É‹POI‹m=í÷ñû^û;û7ûaû`÷9û9÷`÷`÷8÷:÷_÷`û:÷8û^ŠN÷>÷ûû>û>ûûû>û>û÷÷>÷>÷÷÷>÷²÷ÌÝÂønø¥÷ÌÝün9ÓøÎ÷
+Û‹w±å÷¿åÜ÷,ù`ìµn´d"[¤\÷Â¯b—w¡`‰‰šqq˜Y1ûRûeûj÷%Yé÷%êõ÷4÷#P÷
+*÷ãµrº"ZvŸƒk£÷=ü^û+7\Ilû
+˜÷E÷ÊËÞÉæbû,÷²ø
+v¡vÚø>`Ú÷\ÆP÷.÷.÷.û.ÆÇû-÷-÷,÷-QÆû-û-û.÷.PO ÷-û.®÷ñÄ÷¿èÂ÷r×P×è›øZO—³^îï»ÃÄ¿h¨Z–ð»˜ž«¬æû‹x1ogRuÑ€§–™ ·µœvuaYƒpVè¦Œ¦½‡Ydiq`S~°…øK‚ÈëÅ÷ÆÁðÈ‹È÷ÎøEÈø{÷À7vAqHSºóÔ­ÝéœÌŠA¨Å™ÛsH®?ûA;ûûÜ=÷ØÙµç¡ûFøRû^û;û7ûaû`÷9û9÷`÷`÷8÷:÷_÷`û:÷8û^ŠN÷>÷ûû>û>ûûû>û>û÷÷>÷>÷÷÷>ø v÷nÖ÷ðÖ‹wÌ÷Šù1ÜŠïÚ÷n÷¿ßûnöû¸ù`%•ûhìœ¸—¸”ºšQ›_\Öû[û‡ÊøhÓ÷ ÷ûø v÷nÖ÷ðÖ‹wÌ÷Šù1ÜŠïÚ÷n÷¿ßûnöû¸ù`%•ûhìœ¸—¸”ºšQ›_\Öû[û‡÷ø»À8ïû÷.!ûïø v÷nÖ÷ðÖ‹wàï÷ZåæåÞŠïÚ÷n÷¿ßûnöû¸ù`%•ûhîœ¸—¸”ºšQ›_\Öû[û‡„ø|åï1÷I'åï1ø v÷nÖ÷ðÖ‹wÌ÷Šù1ÜŠïÚ÷n÷¿ßûnöû¸ù`%•ûhìœ¸—¸”ºšQ›_\Öû[û‡÷øñû÷ ûÓø v÷nÖ÷ðÖ‹w»¯õ¯÷Š¯ó¯×ŠïÚ÷n÷¿ßûnöû¸ù`%•ûhçœ¸—¸”ºšQ›_\Öû[û‡÷ù	ZecZßZ±c¼¼³³¼ç¼c³ZßX3¥¡¥©©¡rontsnpr¡«ø v÷nÖ÷ðÖ‹wÚÑsÌ÷>Ì÷ZË×ŠïÚ÷n÷¿ßûnöû¸ù`%•ûhëœ¸—¸”ºšQ›_\Öû[û‡÷xøæi‡€ƒw†ŒŸ`×›h}wZXh>ŒÌºŠ­‹“•Š Ûzª¢… Ò‘õø<ûeÆÔ÷&:ÜOv£vù$Ü¾í÷„àŽ–ø"÷÷Òµ÷7,£¦†v…mvh_qRW-.:¿ÛltÇˆÉ±÷¼÷.÷Q÷´/Qè¡÷)`ûÇûû0ûI-û¦Žû5ÐûK÷grÇrG¿Šª‚pgN‹xn}Œ‡MÔ‰÷)…ñ—­u°O’ø‹à÷†à÷oà¸÷ÚêÚø«àüL÷†ø àü ÷oø;àüš÷[¸Ó÷ ÷ûø‹à÷†à÷oà¸÷ÚêÚø«àüL÷†ø àü ÷oø;àüš÷ž÷À8ïû÷.!ûïø‹à÷†à÷oàÌïÚê­åæåÚø«àüL÷†ø àü ÷oø;àüš÷Ìåï1÷I'åï1ø‹à÷†à÷oà¸÷ÚêÚø«àüL÷†ø àü ÷oø;àüš÷“÷Jû÷ ûÓw vù`wÌ÷çêçêù`,ƒ¸Ó÷ ÷ûw vù`wÌ÷çêçêù`,¼÷À8ïû÷.!ûïw vù`wàïå‰ê‰åèçêù`,ô3Ìåï1÷I'åï1w vù`wÌ÷çêçêù`,±÷Jû÷ ûÓø<‹÷.ûvøÆ÷.‹wÚÑsÌÚå²Ì÷ZËœåV@Úåf@øÆø
+üÆìù`1–@üÆ‰ü
+øÆ*ZÀø÷?i‡€ƒw†ŒŸ`W@›h}wZXh>ŒÌºŠ­‹“•Š ZÀzª¢… Ò‘õøtÜøÖÜ¬÷ºíø}íº÷ñûK÷ûF÷t÷S÷+÷÷|÷zû'÷!ûWûNû1ûû’í‰¢‹÷¾ÓÊ¶×¬×÷÷6ûaûYû0ûû%(÷÷:÷Qø2Ó÷ ÷ûøtÜøÖÜ¬÷ºíø}íº÷ñûK÷ûF÷t÷S÷+÷÷|÷zû'÷!ûWûNû1ûû’í‰¢‹÷¾ÓÊ¶×¬×÷÷6ûaûYû0ûû%(÷÷:÷Šø…À8ïû÷.!ûïøtÜøÖÜÀïºí÷åæå÷íº÷ñûK÷ûF÷t÷S÷+÷÷|÷zû'÷!ûWûNû1ûû’í‰¢‹÷¾ÓÊ¶×¬×÷÷6ûaûYû0ûû%(÷÷:÷øFåï1÷I'åï1øtÜøÖÜ¬÷ºíø}íº÷ñûK÷ûF÷t÷S÷+÷÷|÷zû'÷!ûWûNû1ûû’í‰¢‹÷¾ÓÊ¶×¬×÷÷6ûaûYû0ûû%(÷÷:÷‰ø»û÷ ûÓøtÜøÖÜºÑsÌºíÜÌ÷ZËÜíÙº÷ñûK÷ûF÷t÷S÷+÷÷|÷zû'÷!ûWûNû1ûû’í‰¢‹÷¾ÓÊ¶×¬×÷÷6ûaûYû0ûû%(÷÷:ë÷ìø°i‡€ƒw†ŒŸ`Ý›h}wZXh>ŒÌºŠ­‹“•Š ëzª¢… Ò‘õøàøÎà¬÷¸åMå÷çæFæêò¸÷zŒxŒm›d3°ÙI÷@÷7ñê÷÷1û*­û¨ìû¨c¢ÉäòÉ÷( 6Wæ’÷!†ûÕû.û3/4ûû#÷!jèuò÷%hÓy7;<a(V(šØc}¦‡©Š›÷YøÕVÞ'÷ûèõ÷'ø<àùwÌ÷Úêø	êø·ù`ü1ûz&ûDûH‹÷#âø1,ü2û—ûO÷£÷¬‹÷oêø2ûä¸Ó÷ ÷ûø<àùwÌ÷Úêø	êø·ù`ü1ûz&ûDûH‹÷#âø1,ü2û—ûO÷£÷¬‹÷oêø2û«÷À8ïû÷.!ûïø<àùwàïÚê¿åæå½êø·ù`ü1ûz&ûDûH‹÷#âø1,ü2û—ûO÷£÷¬‹÷oêø2ü4Ìåï1÷I'åï1ø<àùwÌ÷Úêø	êø·ù`ü1ûz&ûDûH‹÷#âø1,ü2û—ûO÷£÷¬‹÷oêø2û¶÷Jû÷ ûÓø vù`wÌ÷÷­ê÷­ê÷Ã÷±ø1ûûûg‡…^FnXs¶¡fÃû!÷lû÷¨ü1ˆø^Ó÷ ÷ûø vù`wàï÷Zå„êŽåè÷­ê÷Ã÷±ø1ûûûg‡…^FnXs¶¡fÃû!÷lû÷¨ü1ô8øråï1÷I'åï1÷Í‹àø¶à¸÷øÊøÊàü]—™•—Ÿ¢Œø&øƒàü•6ø$hhdZŠüü]÷²ùjVÞ'÷ûèõ÷'ÐgvøvîÓÈ÷±é÷ ã¾÷÷û¶–™Ã÷÷ŠBS‰Yy,~‰R„û'zû5ÊL÷ÃÈ˜ÊÕ~~s™pço½‹­÷÷
+å‹ôû]û\sû]÷ïû"¾`‡bhe_bP†r<r¸°ÑÐ•Á“¹’Ì˜­˜ûE÷ßÓ÷ ÷ûÐgvøvîÓÈ÷UÁ±é÷ ã»÷÷û¶–™Ã÷÷ŠBS‰Yy,~‰R„û'zû5ÊL÷ÃÈ˜ÊÕ{~s™pço½‹­÷÷
+å‹ôû]û\sû]÷ïû"·`‡bhe_bP†r<r¸°ÑÐ•Á“¹’Ì˜­˜ûø2»À8ïû÷.!ûïÐgvøvîÓÜï±é–åæå}ãº€÷÷û¶–™Ã÷÷ŠBS‰Yy,~‰¾€R„û'zû5ÊL÷ÃÈ˜ÊÕz€~s™pço½‹­÷÷
+å‹ôû]û\sû]÷ïû"¾€`‡bhe_bP†r<r¸°ÑÐ•Á“¹’Ì˜­˜» û•÷óåï1÷I'åï1ÐgvøvîÓÈ÷±é÷ ã¾÷÷û¶–™Ã÷÷ŠBS‰Yy,~‰R„û'zû5ÊL÷ÃÈ˜ÊÕ~~s™pço½‹­÷÷
+å‹ôû]û\sû]÷ïû"¾`‡bhe_bP†r<r¸°ÑÐ•Á“¹’Ì˜­˜ûøhû÷ ûÓÐgvøvîÓ·¯õ¯±éÆ¯ó¯¬ã¿À÷÷û¶–™Ã÷÷ŠBS‰Yy,~‰R„û'zû5ÊL÷ÃÈ˜ÊÕÀ~s™pço½‹­÷÷
+å‹ôû]û\sû]÷ïû"¿À`‡bhe_bP†r<r¸°ÑÐ•Á“¹’Ì˜­˜ûø€ZecZZ±c¼¼³³¼¼c³ZX3¥¡¥©©¡rontsnpr¡«ÐgvøvîÓÖÑE÷IÌ±ézÌ÷ZËaã³ ÷÷û¶–™Ã÷÷ŠBS‰Yy,~‰R„û'zû5ÊL÷ÃÈ˜ÊÕs ~s™pço½‹­÷÷
+å‹ôû]û\sû]÷ïû"³ `‡bhe_bP†r<r¸°ÑÐ•Á“¹’Ì˜­˜µ@uø]¹@i‡€ƒw†ŒŸ`² ›h}wZXh>ŒÌºŠ­‹“•Š µ@zª¢… Ò‘õ÷^ûXÅÍ÷GÏXv¤vøvõÓ²å÷*Ü€—€÷²Ûñµ¢÷#5–§€r‡|#ûû%‹÷:¬ÖŸ÷÷Ã¹l@œá™†¡†©uªÎ\<™ZRGyX\TP1Qû&Ò,÷vÇ€{K›Ã‹kog…l|ŒŽy‰Qˆ¢•Š¿å—Ö‘‹Ç;’Ó÷EÓ÷)ÓÈ÷²ê÷¹åø<÷;m€p>(=BÀ÷„ø÷¬“û[˜_û26û	û2û4â ÷5÷ÔÑí¥ü÷-Ï¸ÜíÊ½d_•ruxû`÷®Ó÷ ÷ûÓ÷EÓ÷)ÓÈ÷UÁ²ê÷¹åöø<÷;m€p>(=BÀ÷„ø÷¬“û[˜_û26û	û2û4â ÷5÷ÔÑí¥ü÷-Ï¸ÜíÊ½d_•ruxîû'øöÀ8ïû÷.!ûïÓ÷EÓ÷)ÓÜï²ê”åæå˜åúø<÷;m€p>(=BÀ÷„ûø÷¬“û[˜_û26û	û2û4â ÷5÷ÔÑí¥ü÷-Ï¸ÜíÊ½d_•ruxþû°÷Âåï1÷I'åï1Ó÷EÓ÷)ÓÈ÷²ê÷¹åø<÷;m€p>(=BÀ÷„ø÷¬“û[˜_û26û	û2û4â ÷5÷ÔÑí¥ü÷-Ï¸ÜíÊ½d_•ruxû2ø7û÷ ûÓw vøšwè÷êãêãøš3€ÔÓ÷ ÷ûw vøšwè÷UÁêãèêãøš3Ø¹÷0èÀ8ïû÷.!ûïw vøšw÷ïåŒãåèêãøš3ô0èåï1÷I'åï1w vøšwè÷êãêãøš3®÷fû÷ ûÓ vøZ×wöÑE÷IÌÏãbÌ÷ZËcãÆ@Ïã÷¯ªŒ±œ°²ž¾¥½÷ ‹-^ûÏã÷ÓÂ‹°t¶ÃmDŸUh>„=X‰ª€Ô<÷Ê÷[Ò€i‡€ƒw†ŒŸ`Å@›h}wZXh>ŒÌºŠ­‹“•Š Ê€zª¢… Ò‘õÓø"ÓÈ÷®å÷Æå®÷—dŽ7»ON¼ÔpÑÐÔ§Ç¼£¨§¾÷÷ZûÌûG@qO\_S‚BSå÷<íªÂÚÕQû9oûûW&©÷=í÷àÓ÷ ÷ûÓø"ÓÈ÷UÁ®å÷Æåì®÷—dŽ7»ON¼ÔpÑÐÔ§Ç¼£¨§¾÷÷ZûÌûG@qO\_S‚BSå÷<íªÂÚÕQû9oûûW&©÷=Ü÷/ø3ìÀ8ïû÷.!ûïÓø"ÓÜï®ååæåœåò®÷—dŽ7»ON¼ÔpÑÐÔ§Ç¼£¨§¾÷÷ZûÌûG@qO\_S‚BSå÷<íªÂÚÕQû9oûûW&©÷=þ÷ôåï1÷I'åï1Óø"ÓÈ÷®å÷Æå®÷—dŽ7»ON¼ÔpÑÐÔ§Ç¼£¨§¾÷÷ZûÌûG@qO\_S‚BSå÷<íªÂÚÕQû9oûûW&©÷=÷$øiû÷ ûÓÓø"ÓÖÑE÷IÌ®åÌ÷ZË€åÌ€®÷—dŽ7»ON¼ÔpÑÐÔ§Ç¼£¨§¾÷÷ZûÌûG@qO\_S‚BSå÷<íªÂÚÕQû9oûûW&©÷=Õ ÷‘ø^å i‡€ƒw†ŒŸ`Ê€›h}wZXh>ŒÌºŠ­‹“•Š Õ zª¢… Ò‘õ÷^Óø"ÓÈ÷¸à÷…åª÷/W”¤û÷P÷ÔÙáöB û®6¡f•·ÆØ“®®Ï…<–á—³„zôûJûIF;û ñpÚxÅ}¿~®|aho[08a²Ð‚÷øqVÞ'÷ûèõ÷'×`vøšwè÷Íã÷‰ã¼|ø,Úøš3û©¼f‰h{gaxWpZ_`¡µƒ¦‹¡Á÷³3ûÕ\Œ`¢`W§ÐsÃ¦ÚŽàÄûMø—Ó÷ ÷û×`vøšwè÷UÁÍã÷‰ã¶vø,Úøš3û©®f‰h{gaxWpZ_`¡µƒ¦‹¡Á÷³3ûÕ\Œ`¢`W§ÐsÃ¦ÚŽàÄûøê¶À8ïû÷.!ûï×`vøšw÷ïÍã€åæå|ã¹yø,Úøš3û©¹f‰h{gaxWpZ_`¡µƒ¦‹¡Á÷³3ûÕ\Œ`¢`W§ÐsÃ¦ÚŽàÄ¶ûø«åï1÷I'åï1×`vøšwè÷Íã÷‰ã¼|ø,Úøš3û©¼f‰h{gaxWpZ_`¡µƒ¦‹¡Á÷³3ûÕ\Œ`¢`W§ÐsÃ¦ÚŽàÄûù û÷ ûÓ÷^ûfàUvùbwè÷›øp¸xÉû\¸‡™…¤ï«àò±Ž‘ŒŒ÷Zø£2ûûÁ|c€f‚a‰…£²vÄû ÷À,÷Yü›Šˆ‡€ˆ„GshIv{~÷"ùXÓ÷ ÷û÷^ûfàUvùbw÷ï÷åæå¼|Éû\¼‡™…¤ï«àò±Ž‘ŒŒ÷Zø£2ûûÁ|c€f‚a‰…£²vÄû ÷À,÷Yü›Šˆ‡€ˆ„GshIv{~Éùlåï1÷I'åï1÷^‹×øÓÔ÷Ÿø_Ÿø_×û„c[‰‰tŒ‘’š›¤§Ž÷­÷ÜÄü<C÷h´›ŒµûÞü÷yøÒVÞ'÷ûèõ÷'Ü÷TÍËÍ÷RÜÿ 2€ ÿ `€ øù½¹zk²Ÿå¨]U–Vû@û%û=kR}IËŠvŒuŒvX}IÖûE±ð+÷Nº¹”žµðgdWWû=Ø÷v÷·˜ÍûÎŠš‹ššŒž÷Ü˜ÍûáŽ©˜§›¥Õ¹Ì«âr¤ù`—ûf—÷D‹÷ñ”üÌ–r¤ù`—ûf—÷D‹÷ñ”üÌ–	Ó
+ãÓ˜ã’øÀ÷¾endstreamendobj8 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Arial-BoldMT /FirstChar 0 /LastChar 255 /Widths [ 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 350 278 333 474 556 556 889 722 238 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 333 333 584 584 584 611 975 722 722 722 722 667 611 778 722 278 556 722 611 833 722 778 667 778 722 667 611 722 667 944 667 667 611 333 278 333 584 556 333 556 611 556 611 556 333 611 611 278 278 556 278 889 611 611 611 611 389 556 333 611 556 778 556 556 500 389 280 389 584 350 556 350 278 556 500 1000 556 556 333 1000 667 333 1000 350 350 350 350 278 278 500 500 350 556 1000 333 1000 556 333 944 350 350 667 278 333 556 556 556 556 280 556 333 737 370 556 584 333 737 333 400 584 333 333 333 611 556 278 333 333 365 556 834 834 834 611 722 722 722 722 722 722 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 556 556 556 556 556 278 278 278 278 611 611 611 611 611 611 611 584 611 611 611 611 611 556 611 556 ] /FontDescriptor 9 0 R /Encoding /WinAnsiEncoding >> endobj9 0 obj<< /Type /FontDescriptor /FontName /Arial-BoldMT /FontBBox [ -167 -250 1006 939 ] /Flags 32 /CapHeight 715 /Ascent 939 /Descent -250 /StemV 144 /ItalicAngle 0 /XHeight 517 /FontFile3 10 0 R >> endobj10 0 obj<< /Length 19855 /Length1 19855 /Subtype /Type1C >> stream
+  Arial-BoldMT *ø øøøøû;ûŽú‚ú?  ­5÷Í÷ÔÊMP ØåíEuroCopyright (c) 1991, 1993, 1996, 1997, 1998, 1999 Adobe Systems Incorporated.  All Rights Reserved.Arial is a trademark of The Monotype Corporation. registered in the US Patent and Trademark Office and elsewhere.Arial MT BoldArial MT   ã‡  æ    @ s èqÿ¥Ë	Gà,CWoÑûVÇÿUÊŒ "W¡Ç	#	ß
+
+›
+óAl’÷$:w¬Æ5Œáa×Ii±Ú![‰³Öð8Kua©m¬1w™Ý(Ÿð:¢C±ûP€ÈýQ–êV Ö`"€õ¸-JÊîpÄ×  > U ‘ ³ Ø!!]!•!Ë" "û##0#Z#¹#Î#þ$$<$s$·$à%%2%G%—&&C&À'G'„(D(Z(Š(ü)—**M*i*¾++l+ú,-,ˆ--8-Y-”-ð.«.ö/œ/²0.0g0Ë1_1«1ÿ2X2£33“484t4·55A5g5•5Ù6 66è7X7Î878Þ9j9Â:"::ê;);z;¾<_==À>`?$@@¦AA–BBˆB®BäCCCC÷DRD½E+E‡F0F¸GG•HHrHÖIGI¦J@ü1ü1‹‹÷J‹ûú‹÷ø×wä÷)û#÷Ðê÷÷ûà÷#ø×û)û<¯ûÿÙ®÷ÿûmøa÷“º÷*Ü÷*÷Äøað¢÷÷û*ûûaûð¢÷÷û*û”v÷Q÷÷$÷÷Qw•ø¬÷N÷E÷eûQ÷²÷Q÷!÷û¨÷$å÷G²÷QûeûQ ±÷QûdûQûû÷	nû$3ûÍeûQ÷÷YøNnû$û ¨÷$•v¢vùrwÆ÷ËÒÝ÷|÷ˆõu–aª~Îû}¼›&À,÷{|2Òæ÷?¤«÷Ï÷1û­AŸ÷Sºw“cŽy÷›q÷+ûšj¼DZ'6Gûû0÷]Ä{Òw …ÈyF`o^UD÷óL¦Š»”¬ °¶™÷ZpØ÷rØŽØ÷rØ¸öïö÷=öïö¿÷,ø°Õ˜°°±—eB@gee±Ô ˆ*¯3÷÷"˜÷É÷`Ùûû"|ûM÷šüÈøù‡)üý‡ß÷×÷M*¯3÷÷!™÷Ë÷`Ùûû#|ûKöŽÖ—¯±±—eBAfee±Ôª~÷(vùì¸÷!X÷÷#÷´ùWãu•P³kª¡œ§¦ìû§‡zh{m'÷Ü¾½¹Õæ@Óû¬û@G4V¨V¸X´gyûKûS­û-÷p÷Ãµ®±t¦r¶hºt´û`÷BvqcjNAj½½µ¤¼Ð¯¬Ÿ÷O‰Žn­¤¥¢§¹À hot|xz}y|w€€„ü1ø×÷Ï÷Ïù`ûÍ‰=Y{q‚¦R÷·‹èÉíûúûQvú>w¿÷÷¿ûfŒ‰ŠŒh×>÷;÷m÷Qº÷Ð÷-.=û>û4ûXû:Èû9çûûúûQvú>w÷)÷­ùlŠ‡ŒŠ®?Øû;ûmûQ\ûFû-èÙ÷Ø÷4÷X÷:N÷9/÷ûÂùlw÷(â÷øŒ‘ŒŒ ­Žš¥ŽŒŒŽ•’’„˜všr„œp‘Õ½„”ˆv£„’w¢ˆŽ{ˆŠˆ‰µ’µ“µ”qäu‚Ssˆ‰ax”Ì­«4mŽ^”Td£N¦|‘o5”ˆ–ˆ¢…šˆš‡”ˆ¥…‘Š•‰^`ut{z‚€ ÷¶÷÷x÷÷xò÷÷O÷P÷ûP÷OûûOûOû÷Oü1‹÷Ï÷Ï÷ûÍ‰=Y{q‚¦R÷·‹èÉíûú÷S÷«÷¡«÷S÷¡÷û¡ü1‹÷Ò÷Ò÷÷ûü1ˆvùxw‹÷ªsð÷Eùx$÷ø‹÷¸÷$÷E÷$÷©ùcûQH<mn<Š0[Y‹0©;<¨ÆH÷÷ÅÏÛ¨©ÛŒæ¹½‰ænÛÚmQÍûûÍ¢MûRûQtMIJtÈ÷R÷S¢ÈÌ vùcw÷–÷ø ùcû`ûû&S}†ûã¨Æº©§ü™‹÷øq÷¶÷÷S÷ø÷û¥ž«¢ ÑÌÑËæß÷åN÷û:ZF~bZRZ@‡i÷}Ô¨²Ë¤Îƒ4ŒŠF]`+2ûûV@€!øu÷ø‹÷÷í÷û ÷!à²÷R$—Ù(÷&Ð÷öë÷áWÍ8œà¤—Ø¶éàAîûûJnû"^÷uÕ”¸ ¯»ªl\CMuWŒ|ûÐ˜¢‘¦É¬UQTmKEImÀ¾… v÷$÷øYw÷Î÷÷Î÷÷$ä÷2øYûûËüZû÷ºû9÷÷7÷ˆûˆ÷÷ ÷î÷ø÷!¹÷NûœèB÷÷;Ù÷÷÷#)ëû\o~y ÷÷—÷ûÿEü	÷{¶²¯•ªÛ¦OG%VeY]^¦Ò÷÷šï÷!÷¸÷.÷Q÷ø‘ø±ˆ ƒ´p±ÁdM£Kû™‹ûÅJHI¡Lû"½÷ tÊ÷èî÷#÷"+çûqT†U_‰Õ”÷ëÐ”MzûFû°÷×’ê‹û	zw‹û 3IhÐÒ vøÖ÷(î÷ ÷Ð·øÖ÷Íûû'ûm…ûs÷°Š÷s÷÷š÷÷Ðîüj÷÷y÷÷@÷µ÷û	÷÷@÷û÷òê÷6øò>j`K6û"÷A÷÷ïÞ÷ ÇsÖ)³ìÎ©ªÃÉçMèû,û-N./ê6¾a¼vì§÷´¤·Éº±nT<J‚vxH’Ûò€ûÆ©›ÚÝÑ©QV+Nuf[W®à÷÷!ï÷š÷¬÷÷Q÷.º÷:Žv“b¦eU²ÉsË÷™‹÷ÅÌÎ†ÍuÊ÷"Yû ¢Lû.(û#û"ë/÷¥ÂÁ·‰A†‚û+F‚Éœ‰÷F÷°û?„y,‹÷	œŸ‹÷ ãÍ®FDûú‹÷÷ˆ÷í÷í÷÷û÷ˆ÷÷ûûú‹÷÷ˆ÷í÷í÷ûÍ‰=Y{q‚¦R÷·‹èÉíû÷ˆ÷÷û øv¹ø€ø®ùü€ûjû	ø€ûh÷ûë÷÷ë÷ ÷J÷æ÷´ø‰´÷Jø‰÷ü‰æø‰÷ü‰ øv¹ø€¹Üø€÷j÷	ü€÷hû÷ëûûëû;‹÷øuô÷„÷À÷÷Dø†×›··ÖÆÇkJ`uyFS*=‡^+÷Š’‹“¿‘ÅºìÛ²ºÑ÷!çû,û=:û)…÷Rü–÷÷û÷°ûfä÷ä÷óä÷ä§äê÷ø™äùö”ck<1ûuûÔ.÷W÷/÷Ñ÷£÷ç÷•Óû?ûû/û%[Šy‹£‘‹’¬Ô÷òûUÇeN‘mûB1ûOûûÐ.÷
+×·¶˜˜w•gÕ÷[÷÷M÷;÷cû*÷=ûžûùû#û ûtO–6¹6ûNð÷mm÷÷-÷R¹÷Aàý÷]Ñ¯÷4÷Û–8mIeû@ûGxÌÃª v÷6÷øEwŒùcùdû³ù`û-û«ý`÷.Æ÷6÷²Éû6ûÄ÷¯ì÷žîûžª‹÷÷Q÷÷8÷Ö÷$÷¬÷!û÷)ôÖù`ý`÷ˆ÷,¹ŽµØ­²ÝÒ³~ìû¯øÍ¨®ÊÊËh¼a©¬]R(Qûóœ‹… °œik?A…Zû1÷8÷	û±ôðä‹)u…aVxƒuN‹lû÷Qª÷ø€÷¼÷)ø¨÷›=y_B+K[©³qm¹ƒÎÎ¹‹÷X÷FÕÆa=÷#­}½yµg¯Ù<'cû}&ûEû[ûs÷û!÷V÷~»÷CÃšª‹÷øn÷Ö÷$÷Ç÷)Öù`ý`÷£¹÷‹ÛÔæî‹÷¶÷ gÍs±÷>û
+‹:Tû÷ ñ‹û‚ûz3…ûû øns‹÷÷V÷÷3÷Ö÷$Öø´÷ü$÷V÷ü÷ûü÷3ø÷ü§; v÷Ä÷÷>÷Ö÷$Ö÷$÷Ä÷À÷ûÀ÷>÷ï÷üâ÷÷+÷÷p÷µ÷)ø
+÷&ø$÷›÷91}yH\7û<f÷(õÂ“Äª¹ÈµÌžÈ¶ä}(§÷$¦÷Ddû*­ûû—+ûUûCûPôûL÷–÷%÷Ñ´µ÷±ûËª v÷Í÷÷®wÖ÷$÷¯÷$Ö÷$÷Í÷¯ûÍ÷$ù`û$û®û¯÷®û$ü1 vù`wÎ÷$Î÷$ù`û$÷øðw÷÷F÷$÷áù`übE‹C36ŠÞ¸‡ûyû1Ö>÷#ßÑ£Í·²Å‹×¿øXª vù`wÖ÷$Ö÷$÷l÷
+÷÷Yûä÷Oû°øI÷¡÷«ûVû¹ûÒ÷Òû$;‹÷øçwÖ÷$ÖøŒ÷ûüøçû$÷" vøÈ÷,Ò÷ø;÷Ò÷øÈ÷!üÈ÷÷øÈüÈ÷ù`ûmûü|‰ûø|ûlª vù`wÙ÷÷¿÷Ù÷øg÷²üg÷%ù`ûür‰û·ørû â÷ø€÷¶÷)ø÷)¶÷öû9Úû]÷¡÷é÷J÷O÷eû÷6û~ûrûû%ûy÷)ô­÷!÷8÷D û7:ûcûb?4X»µsz¨x¹Üs v÷¢÷÷`÷Ö÷$÷“÷)Ö÷$÷¢êËØŒ£¾¸ ÓÁ÷÷HÂ]¡edûû|÷jûá­‹o«¤w“pq$&‹A;÷`â÷ø€÷¶÷)ø÷)ù©M¢f¦{–§¬ÇÒ÷7÷jû÷0û|ûsûû$ûvûVèûD÷–ÖÄŸ•£‰™”…Âe¦y¾{û÷÷¬³u›€‰‡lCû¯÷f¿“÷V÷Q÷8­û$%ûc[|yi¤[©Tžª v÷¿÷÷J÷Ö÷$÷¸÷)Ö÷$÷¿¨ì”}ûâóû0÷A4÷ C÷o¥O­§Ž¦“¤–Ñ¨²ÐÙÑiÝ8ª’uh– ûÄ÷$û÷ì‹{¦¦{•onv†]Yz‚rN‹_ s÷øˆ÷Ð÷÷¥÷$¶÷}û‚§÷R„Ø¬Ó©ËÉ§ÂÔâ÷Dû(®û¥û¦^Ÿ¹ÅÙ˜¶÷–Hf‘÷%‘÷6…ûÂû ûfXû=û2÷2dÒy÷k½~O]cV&ûxï°„; vøç÷÷~÷$÷~÷$øç÷h÷üÌû÷hª÷øðwÖ÷$÷¯÷$Öù`üû9‹ûI÷¹Ûò™àÂ®ÁÒ÷øû$üû‹4û_S—¾py­‹®àøs vù`w‹ù.÷“÷/÷”ù`û-ûCü¦‰ûGø¦û1÷‘ vù`wú@÷A÷1÷!ø«÷!ü«÷.÷Bù`û&û üˆ‰ûøˆû@ûü€‰ ø€û(s vù`w‹ù.‹÷B÷3÷‹÷3û‹÷Bû‰ø÷s÷ðû<û ûzû$÷zû=÷rûês vù`w÷™÷$÷™÷$÷À÷›ø4û:û:û¯û<÷¯û=÷šü3;‹÷øn÷šøÙšøÙ÷ü+øøv÷ü û÷âüüeûúû^÷ ùR÷ Ò÷Òû^÷‡÷ ûùR÷÷ û‡ü1ˆvùxw‹÷ªòù`$÷Eýxðûúû^÷ ùR÷ ÷÷÷šù`û‡û ÷ýRûû ÷‡ ù`wÃølÃ÷Ú÷ ë÷ƒìûƒ÷ûGøûû½…ø”…ûø”½ü”ü1ø>÷÷4wÔ÷÷fø>÷IÙ½›¥”pÄû_‹.M)ìKvø=ô±÷÷M÷¸÷D÷ü¥”™²Îé‹di}p€nƒ>}C}û	tû1ÏLóß½µ¦¦x“o|Ž„Ž„÷w¶„¢ˆÏŠ¨÷ «èŠñûnû.\K8t÷Èû5¸\‹jnryvp}kVtµ¨»Â™¤‘­’’Œ«’—™;÷?vø=ô÷NwÏ÷÷x÷!|Ï÷¼×>ÀÖ€ª÷ôå÷N÷K$Þû7\Ztw÷–û÷üQô¾¼Ëð˜ûQûMj\xm£rj«~±Ö÷÷×ö¶÷!ø¢øÐw]ëû9ûYTû+û4®ûL÷j÷ÜÇ÷¨û¢m…~F;<gÆ÷«‹÷÷ÎŸ]g’;÷?vø=ô÷Nwµ÷!÷x÷|ø¸ù`ûû–¢w\¼7û$8ûK¼ûNô1÷ªÖ–ØÀ|?ƒ÷£¼@~ejksrm†x\M¬÷Å˜÷ð|Ë¾Z"ô÷ß÷ô­÷#÷a÷ø
+÷9s„{[K=jÌÉ‰÷ì÷-ŽU÷1ûWû8Aûû `“X¢Yû
+Â÷…¸÷@¶÷«–ûâ÷6ÏŠ²ÀÌ ÙƒûŽûú vø-÷ôôã÷—øšû×ü-÷ø-ò÷$°©‹±Ã”¨‰…¤ë˜`_pû4‹ûNc;ûfôô÷÷Íè.ô²÷!û÷1÷V÷ÚæÄiû'…÷n÷÷vŸ÷÷$øeûÚC‰¢|]È+6ûUûjû'Ýû÷ÉÃ­½®?O‹VûÖhx“Ž‡wšŠ ŠÚi÷×²”÷óé£/Iû7wg3tâÒ; vø=ô÷NwÑ÷÷Y÷÷cù`ûý`÷÷˜Ä‹÷ ÷à‹L3û¦÷÷ÄŠÇßS·ªcY’lnIˆ@Lü1 vøšwæ÷Ò÷Ò÷øšûÒ÷÷ûü1ûf÷øìwæ÷Ï÷÷aøšûü‚C‹iR|ŽŒ„sû	ˆ™´´÷0‹÷÷ûøÑ÷÷û vøšw÷nwÏ÷Ï÷÷:ËÎ÷û}÷(ûQ÷Ý÷E÷Qû=û5ûJøûü1 vù`wÒ÷Ò÷ù`û÷Z vø=ôwÊ÷÷D÷÷D÷Ü¼Êøšüš÷÷Ü×’£–¢©™°Ÿ¯ÓŠV3û°÷÷Ë¥—¨­˜°¢¯Ô‹GNû¼÷÷àÄ‹÷!û>6YUot¡~iÇ'fM…?O‰¼Ñ; vø=ôwÐ÷÷Z÷¸ø(÷÷ÖØŠ¾ØTµ­`VtVJyEX‰¸×ûüš÷÷ØµŒÄ™©±œ²¢¶ß‹@6;÷÷Ò÷±÷!÷‘÷!±÷žû„÷NeÝ÷;ï÷÷#÷3÷ûHûL8û!û÷!„÷Ç½ÍÑÄU#ûJ^MJN¼÷;ûDv÷Mô÷Ü÷wÏ÷÷x÷!ÜÏøšý_÷÷•tŸºZß÷òÞ÷Kì÷N"åûl@€>V‰Ü×“û£ìÖ˜±¬«£¤©žºÉjûQ~û&ÜKX¼ô;ûDv÷Mô÷Ü÷w³÷!÷x÷Üø¶øšûì?‰ØV@–lû"1ûNûKò8÷ßº¼¢Ÿû•÷ûøP"XZK&~÷Å÷É¬ºž©†s¤¬k˜e@ûÂ vø+÷û÷Ï÷Ð÷a÷4÷$Žòä¥¦|„–°¶÷™sg–mPnhYn‰ÐÔûüší÷îíÂ÷÷]÷¯÷(w–a²hUÇÞ‚½÷?ÌèÜ÷#¦/¡i“S™q•|‘€–šµÒŒ¢£Ã‰Nœ÷£òm>­ûûûcûû÷p÷1i«„£„mS4Š_X™Ð{ûú÷÷Ç÷Ù÷÷Éøš.÷Lû:$LûÊûv<lœkdŸÁ}µ™¼ž¸õ‡Š„z{†ye‹£Õ÷eè;ôCvøšwÑ÷÷Y÷xø2÷øšûûn¸&‡mxewdxern”¤{~ ˆ÷÷‚ûûÛPf£d^§ÈtÁÎÍ¬Ä° vøšw“ø¯÷m÷÷bøšû!(ûœ|_ˆ€„vˆ‰pã)÷œû$â‹÷Gû2vøšwŽù™p÷<÷â÷âãûâ÷÷:øšû°)ûç‰6÷çû3ûç‰+÷çû vøšw“ø±“÷4ö÷5õû5÷<ûT÷¥÷D÷‰û5*û"0÷"û<÷Gûûf÷;vùdw”ø©°”øš÷Yü›+p[‡lv~Œsp— °‡ž¢‡¯÷&§Ú÷³‘šš÷Kø‡û"ûü‰ûøûS‹÷÷¯÷øcøc÷ûi~r‰‰j­°š›œ÷Z÷xìü@û÷K°Œ¤ttƒc]ûVûrûÂûf÷	ùT÷	÷÷ª÷\õ†ŒBûEQªfV¹Ð‹À¥÷	CoÍ÷Sw½D´Î¶£¬÷aÌŸ‘Û÷	qû]‹0û&û{Y0‡ü/ûŽú|à÷àûŽ÷ú|ûûÂûf÷	ùT÷	÷÷÷ú÷Ò!ŠÔ÷Ñ‰Ål°À]F‹Vqû	Ó§‡IûSŸYÒbH`sjûaJw…;û	¥÷]‹æ÷&÷›½æ ÷“÷O÷¬øš`¬÷’ÇÅ¸’©¯¬€v¼ vº©~·ÙÅÁ–•÷GLP‰€~zŸ[`¬7q–VsP‹HNûúûEvø×÷ê÷)û#÷Ð÷‚øšûû÷àû#ü×÷)÷<g÷ÿ=hûÿûDv÷M÷4vøB÷ ˆw¶÷!Ìøø xt~÷£pêX®\Â÷IOœTûL´Œ}uûa]û8"_‘U¦V§T±m´zSûPÆzÄ÷QÔ‰”›‰£÷ÛÊ÷§û¢m†}F;€„ŒŒ‡T¨g´Š×Ÿ¬‹÷÷€÷9÷ ÷8÷÷d÷Ì÷¸ø~÷sezevr‘ƒx›K„qƒj‹}r‰Œ‘‘ŒŒ­²µ¾Ú÷÷û-‚¥|Â®³§¿Ê×™Br÷ž÷ArûšNû"6-!~ŒZžT?ûðŒ„Œ„~F]PRb¸¿û
+x›£±¥Æ¦ ‡zÉ¸yË¥ˆ¥¾¿œ«ü ‡vù…wû;øŠ1rø=ù…>ü=ý… v÷-÷ Ò÷ ÷¨w÷d÷÷d÷-û-÷÷-÷L÷ ûLÒ÷L÷ û÷÷¨û*(ûdyf‰ƒ…s‰‡Ÿˆ•y²)÷dû*÷û¨ûû ÷IDûIû ûf÷,vøúòè÷
+‹wƒøÌ´÷ø(íBü3P‡s]vx”atoû ´}¸Ç†«÷Ó×™ßøfïò&§°’‘§ºª«‚‡™¬¦÷´žMRûI&yƒ_)ûfôùlôª÷7÷÷÷û÷1÷ÒØøxøÈÇƒ_óû8ûBG2R®f™{äx€r}ucxj†jr6¶W÷ 3­uÕ\y™}€{dgyiKs¹µƒû{û
+›çP÷
+÷.ÃæÙ°~¸]¶Ò©ŸÆ¸ãÒgÁ"Ï~“H·~“Q°uŸªŸœ¤»è»£p\ûûË`©u©­°ª£–‘Ò÷*¹i¦wjrztqs÷÷
+÷Y÷
+É÷
+÷Y÷
+ãø`zl‚ffsd£`KKÞ8ËËz«¯°³±–œ§ÎIÜÞJÌœ«–°±¨„±v²ÌÌ9ÞII”zižTTgx‚{IÍ:4÷’FÁ¸_UU^^UU_¸ÁÁ··ÁüYøa÷“·÷*Ñøað¢÷÷û*ûûSø>÷÷4wË÷è÷÷]ø>÷IÙ½›¥”pÄû_‹.M)ø÷IÙ½›¥”pÄû_‹.M)­øRµøgø‘øtû û.ûp÷.ûv÷ û÷v=÷pû û.ûp÷.ûv÷ û÷vûú­øR°÷š÷¿øtû û.ûp÷.ûv÷ û÷vûú­øR­÷š­­÷ ÷.÷pû.÷vû ÷ûv; vø-÷Ò÷.ôæ÷÷@÷ìšøšû×ü-÷ø-ò÷$Ü°©‹±Ã”¨‰…¤žë˜`_oû4‹ûNc÷Éüš÷øšûìÒ÷÷û; vø-÷ôôwæ÷÷A÷ìšøšû×ü-÷ø-ò÷$°©‹±Ã”¨‰…¤žë˜`_oû4‹ûNc÷Êüš÷Üù`û÷dñ…øÌ…÷døÌñüÌø(÷÷Qw÷k÷÷kû?÷øÓ÷D÷ûD÷QûûQûGû÷Gƒ÷÷Ô÷÷;w÷k÷÷kû?÷÷7÷D÷ûD÷Ô÷D÷ûD÷;ûû;ûGû÷GûÔûGû÷Gü1÷¬÷Ò÷Ò÷¬÷÷ûûDvù¥÷÷U÷Ô÷÷ÉûYù¥Ôý¥÷ù¥Â÷û·:`ŠgRThrEOY™û÷F~ü“ûé÷e÷µª÷µ÷Ô÷õÜIË<;KJ;<ÌJÚÚÍËÛü1‹÷Ï÷Ï÷ûÍ‰=Y{q‚¦R÷·‹èÉíûS‹÷Î÷è÷÷½÷ûÍ‰=Y{q‚¦R÷·‹èÉíüûÍ‰=Y{q‚¦R÷·‹èÉíûSø×÷Ð÷è÷÷¿ù`ûÍ‰=Y{q‚¦R÷·‹èÉíüûÍ‰=Y{q‚¦R÷·‹èÉí­øRºøgº­÷ ÷.÷pû.÷vû ÷ûvÙûp÷ ÷.÷pû.÷vû ÷ûv÷É‹÷í÷÷X÷÷X÷pù÷÷ûý.û÷÷û÷áû÷÷û÷Én×Wv÷¼×“×÷r×Œêæê÷ êæê¹êæê_à ëø°Ï“·°¯–`FŠGŠ‚agfƒ¶Î,‘O’û÷÷•÷ÇÔs÷ûûyûOI ÷üÐë÷¿ù†+¡€]üÇO’û÷÷‘÷#¾Ót÷ûûxûPê…Ï”¶¯°”`GG‚`fg‚¶Ï `÷|‘O“û÷÷÷#¾ŒÓŒt÷û	ûxûPê…Ï”¶°¯”`GL„Zd^‹ÆÀ;ûaôøu÷º÷À÷øGŸ?{__@PO«Ì¶¡ÐÃìÙ¸‰ëûŒ„‹ƒ‡W…yQ\*;d\Eûõ/÷,÷=Ü÷í‘ûRø–ûû÷ûúøÚ÷&Ÿ÷q÷Aùlû-÷û&âûúøÚ÷&ç÷qçøÚâ÷÷&û-ûúøÜ÷$DÒŒ÷ß ŒøÜ÷`ÀÔ ÄB÷&÷$ûûúøä÷ûÛ;÷9Ü‰É÷hÊ,ŒÇøä—Œ‹ª¬¨‚¢,z¸—†§á‹í¤LL}‰‡ni|Žœeœd|qxs†yyŒyylWûúøöæ”÷Ï”øö÷ÏæûÏûúøáÓ™Î÷ùoyŠ†W<dv˜š€›ŠœŠ”H%”ÑcÔÒÓ²ò”ûúøê÷
+ö÷
+÷uù`û
+û
+÷
+ûúøê÷
+÷
+è÷
+øê÷
+÷
+û
+÷gû
+÷
+÷
+û
+ûúøË¿â¿Ò¿â¿÷šù*Á`µWUa`VW¶`À¾·´ÁWswxtswž££žŸ¤¢ŸxrûúûaÇlv÷¿÷Tè°pžûY°…£¼‰¡Ýä¨ÙÉQ©Hxf‡‚q~[š¦¡¿–q|mj{[cnŽŽtûúøÚ÷&¯ø0¯øÚâ÷÷&û-÷û&â÷÷&û-ûúûfÖÙÜë˜€b„kg7ÉmÈ›±Žœ³Î‡rƒlWy¬·¢Ž¦’ ûúøÜ÷$Œ÷ß÷àùlûVBRÔûðû$÷÷É÷dñ…úˆ…÷dúˆñþˆ÷É‹÷º÷ ÷÷4÷û÷øL÷$´a÷4ôÕ÷<÷Œû<ø”÷ü´÷U÷Û÷ûÛ÷4÷÷÷ýìèûÃûÎûXûÕ÷ÿÔ÷l×›ð÷î÷ø÷ŒŽŒ ““™²ºŒ}dx…s†x‡5yI~6Pµ]×Â¯§šš‚Ž~‘è|§‹œÄ÷Û‹Åû+:YrBz÷\ûCZ„{i}¤šªª’¾•ŸŽ’;‹÷øçwÖ÷$Ö÷ú?Kû×Êû…øŒ÷ûü÷„÷5÷÷û5û÷û$â÷ø€÷¶÷)ø÷)øñù+ŸqL¸ûû‹(ûGûOû²E«`8-ÐOÚäYÎÜ€Î÷è÷O÷G¬‰÷IãÝæGÇühü }®ƒ·ÁÅ”È«»Ç³ÇÅ¸¸n­À>•q”[SûK)N&nb¯[÷É÷û÷÷U÷÷4÷û÷®÷)÷Ð÷vú]÷ûã÷U÷º÷ûº÷4÷Õ÷üR®<‰ÁdF°6ûJ*û-ûlû®@¡d%ÅäsÝÁá™Ý¹n7ø`ýøð÷¼;û1¶ûWKO-(PÏ÷Rn÷´ë÷	ûÚ÷ýÞ÷_Ü˜ò÷ò˜øµ!Å=÷÷ÆØöïTÞûûP>!òŠ±“ÌÄÃ—VY_€SRS‚Æ´÷Zì*ô÷á÷ô¸÷÷J÷÷b÷~ùS÷9{…xSD/~î¦ˆ÷íÍ‹÷‰ûŒbl‚tt|ƒ„™{b­%û'Q[)k÷tœ™º×à‹Uv~{†y†Z€ûsq‡ernxk`OE¹8÷íÖ¸¦©SÆÎ{Æ÷A¶÷±˜ünõ¾E‹dmrzwqnWs°ª·³™·–“Ž·–“÷CÎ›Š“óéì‘2lü1 vøšwÒ÷Ò÷øšûü1 vø¡w÷gwÒ÷Ò÷ôHR.ÎÄû—÷øÎÄèHR÷Œû;÷÷Ò÷±÷!÷‘÷!ø_ø{•{[¬4û=&ûû$BH¹WTLÁ\ÁÊr¸Ç}º÷7ò÷÷&ÔoÏj³ÁÉT·ûÒü|±Œ¬“÷Ë¸É´ |‚–µN‘{‘mp8e>2b|™“÷‘ô"÷÷á÷÷'ï´÷!÷†÷÷d÷w·ù÷;pz\JLb¹Û†÷é®ØiÔ÷ Y"U!XTz{ÎG9lûH6ûûwûåû÷AíÄº¤¦CÒê‹œâï°÷±ý\õ÷À¾ÑÍÀU&û'1{n.mð½øÁo¦“íæî’#vŒ;÷?vùöÍ÷Ð÷%;÷!b÷rÍ÷øeâ‹ÐÖt®£tns…}pTzoR‡wyi«b¾Z²ÏJ™~mnutqt{›¢+ThžÀQáìØÏíÀv´JÍzPÇ—¤˜‘˜¤¹t¤¹¥¤Çcãû2ûj‹û;+ûúøvøw÷)è÷†÷÷ø@qL6qˆ@Œ‘ŒŒ–Ž¯•¹ªûŽ ø#÷ø4÷ø4÷J÷÷ëü‰ûø;ûDv÷M÷*ìø9wÑ÷÷Y÷ÜÑøšý_÷÷˜i›¡bÊ»®­´Ÿ¼L÷øšûû€ÜaŠPykhwmzl.‡÷Ö÷~÷É÷Ð÷÷bÑ÷eÜ÷<Ø÷ŠØ÷e÷ÐÜ÷Þ÷ÑûØE÷÷ûÞØ÷ÓßûÓÔà÷ÓûÓØø$ûCû¨‰C÷¨ûª‹÷÷Nï÷P÷Ö÷$÷Å÷+÷°øç÷!î‹û…ûy0‡!û ÷N÷-ïû-÷Pû$÷ûÉA'ÕûÇ÷£¹÷‹ÛÔæî‹÷¶÷ gÍs±÷>û
+‹:÷#wØNv÷ÅÑ¥vøw¢w÷)èønç–V÷‡rø=ù…>ü=ý…×ø›ø@qL6qˆ@Œ‘ŒŒ–Ž¯•¹ªûŽù'û¾û-””‘‘”‘ôÖ£¶¼§¶iÉ"û€4l‡çƒ¤ª¸’¶‹cltzO\.Avj„Q÷¼ ‹÷÷‰÷÷x÷´ø‰÷ü‰÷OÅ÷÷O÷P÷ûP÷OûûOûOû÷Os v÷÷÷`÷÷wÖ÷$÷“÷)Ö÷$÷êËØŒ£¾¸ ÓÁ÷÷HÃ] œffû3÷û$÷jû”á¬Šp¬¤w“pq$&‹A;÷`÷#y÷!ûvÙÑ÷÷	øw w÷)èø1â‡ù#yâ'Ò¿—ÑW÷x>'ûNûyF÷D—2Ñâ÷ûGü0û(ø=ù…>ü=ý…×ø‹ø@qL6qˆ@Œ‘ŒŒ–Ž¯•¹ªûŽ Û÷Ô÷Ô÷÷s÷à´÷¶ø‰÷ü‰÷JÔ÷÷ûü¶÷÷ûü/ûCùæá÷áûC÷÷òû÷*÷÷òûû·ø,Ü÷)Ü·Ü÷*Ü÷[ùc5FF55ÐEááÒÑááDÐ5Aû0´­­´´­jabijbbi¬´;ûDv÷M÷÷Üô÷NwÏ÷÷x÷!Ïù`þ%÷÷™m§·]Û÷êò÷@÷F#äû;eeii÷–ŠüQô¾¼Ëð˜ûQûMj\xm£rj«~±Ö÷#w÷!ûv×Ñ÷÷	‹ÑðËÒÑŽw÷]ç@ê÷êâŽ ù#wâ. Ò¿– ÑW÷x>. ûNûyF÷D– 2Ñâ÷ûM`ü$û&ø=ù…>ü>ý…û2ø{"™ñƒ¨âÉÁË¶r©ašŽ «žš¤¥¿Y»:ûzCiƒâ©µ¢„rcUŒ~Ž`€Dž–™¬tqs{oe[‡¯›ˆûú÷÷Ø÷sÑ÷lç÷ÈøDû-””‘‘”‘ôÖ£¶¼¶iÉ"û€4l‡çƒ¤ª¸’¶‹cltzO\.Avj„Q÷¼¹wÕ÷›Ê÷ ÊòÕ…Õ÷Û÷0á÷(Õ÷[÷.Û÷7 ³¤…/º¬Jï\ÛhÇžf™Ü–¥Ã·¬}­o ¢lt‹û&;ÛL¬ÑÀ‹VTX‹Cjå÷¦÷:÷ûû:û:ûûû:û:û÷÷:÷:÷÷÷:Õûcû<û;ûcûc÷<û;÷c÷c÷;÷;÷c÷cû;÷;ûc ÷µ÷´ø‰´÷µø‰÷ü‰;÷÷Ëö÷ß‹w°÷$÷‹÷$Ü÷4ù`ì½gš´e;f¢[ê·¯\•|£a‰‰›qkœ[ û*û5û"êû÷>÷.÷ó÷C÷!?÷(ïÑ¬u»2au…sŸûü]÷ Ë·ÄÌÈT%*SRFRJµ÷	 ø	v¢vÀøq`Á÷aä2÷'÷(÷)û)ææû)÷(÷'÷(3äû(û(û(÷(01 ÷)û)ûú÷ñÑðËÒÑ÷]ç@êèžøb"™ñƒ¨âÉÁË¶r©ašð«žš¤¥¿Y»:ûzCiƒâ©µ¢„rcUŒ~è€Dž–™¬tqs{oe[‡¯›ˆ¹wÕæÑ÷©ÑçÕ…Õ÷	áø"Õøù"÷:÷ûû:û:ûûû:û:û÷÷:÷:÷÷÷:æû÷v„yLF^Y­ô¼™äâÉ[w’Úž¯~jÞû	ûG4ûû-òVáËÒ©ì¨û=ø\ûcû<û;ûcûc÷<û;÷c÷c÷;÷;÷c÷cû;÷;ûcª v÷6÷øEwÎ÷&Œùcùdû³ù`û-û«ý`÷.Æ÷6÷²Éû6ûÄ÷¯ì÷žîûžû;øtâ÷÷&û-ª v÷6÷øEwÐ÷$Œùcùdû³ù`û-û«ý`÷.Æ÷6÷²Éû6ûÄ÷¯ì÷žîûžû–øv÷ÀÔÄB÷&÷$ûª v÷6÷øEwÞ÷
+÷Y÷
+è÷
+ùdû³ù`û-û«ý`÷.Æ÷6÷²Éû6ûÄ÷¯ì÷žîûžû•ø„÷
+÷
+û
+÷gû
+÷
+÷
+û
+ª v÷6÷øEwÎ÷&Œùcùdû³ù`û-û«ý`÷.Æ÷6÷²Éû6ûÄ÷¯ì÷žîûž5ùû-÷û&âª v÷6÷øEw¿¿â¿÷ž¿â¿ùdû³ù`û-û«ý`÷.Æ÷6÷²Éû6ûÄ÷¯ì÷žîûžŽøÄÁ`µWUa`VW¶`À¾·´ÁWswxtswž££žŸ¤¢Ÿxrª v÷6÷øEwÚ÷9Ü÷UÉ÷hÊöùdû³ù`û-û«ý`÷.Æ÷6÷²Éû6ûÄ÷¯ì÷žîûžû[ø~î—Œ‹ª¬¨‚¢öz¸—†§á‹í¤L}‰‡ni|Žœeîœd|qxs†yyöyylWªûfÇkv÷ ½Œ÷ø€÷¼÷)÷bèžø÷_È÷;Ëû ·=y_B+K[©³qm¹ƒÎÎ¹‹÷X÷FÕÆa=÷#­}½yµg¯Ù<'cû}&ûEû[ût÷û ÷A‰Œ®uŠwˆrƒ~[š¦‘¡¿•p}bV†dn†‹]^Q®…¦ÆŠóÒ°Ð¯x¹3“žs‹÷÷V÷÷3÷º÷&Ö÷$Öø´÷ü$÷V÷ü÷ûü÷3ø÷ü§÷Lºâ÷÷&û-s‹÷÷V÷÷3÷¼÷$Ö÷$Öø´÷ü$÷V÷ü÷ûü÷3ø÷ü§è¼÷ÀÔÄB÷&÷$ûs‹÷÷V÷÷3÷Ê÷
+Ö÷$Y÷
+è÷
+úÖø´÷ü$÷V÷ü÷ûü÷3ø÷ü§öéÊ÷
+÷
+û
+÷gû
+÷
+÷
+û
+s‹÷÷V÷÷3÷º÷&Ö÷$Öø´÷ü$÷V÷ü÷ûü÷3ø÷ü§÷÷Uû-÷û&âü1 vù`wÎ÷&Î÷$Î÷$ù`û$‰ºâ÷÷&û-ü1 vù`wÐ÷$Î÷$Î÷$ù`û$.¼÷ÀÔÄB÷&÷$ûü1 vù`wÞ÷
+r÷
+q÷$r÷
+èÎ÷$ù`û$ð/Êè÷
+÷
+ðû
+è÷gû
+ä÷
+÷
+èû
+ü1 vù`wÎ÷&Î÷$Î÷$ù`û$Ú÷Uû-÷û&âª vù`wÚ÷9ÜÙ÷xÉ÷hÊx÷éÙ÷øg÷²üg÷%ù`ûür‰û·ørû å÷EÄÕ—Œ‹ª¬¨‚¢êz¸—†§á‹í¤L}‰‡ni|ŽœeÕœd|qxs†yyåyylWâ÷ø€÷®÷&¶÷)ø÷)¶÷öû9Úû]÷¡÷é÷J÷O÷eû÷6û~ûrûû%ûy÷)ô­÷!÷8÷D û7:ûcûb?4X»µsz¨x¹Ü÷ø)â÷÷&û-â÷ø€÷°÷$¶÷)ø÷)¶÷öû9Úû]÷¡÷é÷J÷O÷eû÷6û~ûrûû%ûy÷)ô­÷!÷8÷D û7:ûcûb?4X»µsz¨x¹Ü«ø+÷ÀÔÄB÷&÷$ûâ÷ø€÷¾÷
+¶÷)¬÷
+è÷
+¬÷)¶÷öû9Úû]÷¡÷é÷J÷O÷eû÷6û~ûrûû%ûy÷)ô­÷!÷8÷D û7:ûcûb?4X»µsz¨x¹Ü¬ø9÷
+÷
+û
+÷gû
+÷
+÷
+û
+â÷ø€÷®÷&¶÷)ø÷)¶÷öû9Úû]÷¡÷é÷J÷O÷eû÷6û~ûrûû%ûy÷)ô­÷!÷8÷D û7:ûcûb?4X»µsz¨x¹Ü÷`ø»û-÷û&ââ÷ø€÷º÷9Ü¶÷)¨É÷hÊ¨÷)é¶÷öû9Úû]÷¡÷é÷J÷O÷eû÷6û~ûrûû%ûy÷)ô­÷!÷8÷D û7:ûcûb?4X»µsz¨x¹Üíæø3Ý—Œ‹ª¬¨‚¢ëz¸—†§á‹í¤L}‰‡ni|ŽœeÝœd|qxs†yyíyylWs÷øˆ÷°÷$Ð÷÷¥÷$¶÷}û‚§÷R„Ø¬Ó©ËÉ§ÂÔâ÷Dû(®û¥û¦^Ÿ¹ÅÙ˜¶÷–Hf‘÷%‘÷6…ûÂû ûfXû=û2÷2dÒy÷k½~O]cV&ûxï°„÷Ðù+ûVBRÔûðû$÷ª÷øðwÎ÷&Ö÷$÷¯÷$Öù`üû9‹ûI÷¹Ûò™àÂ®ÁÒ÷øû$üû‹4û_S—¾py­‹®àøÏºâ÷÷&û-ª÷øðwÐ÷$Ö÷$÷¯÷$Öù`üû9‹ûI÷¹Ûò™àÂ®ÁÒ÷øû$üû‹4û_S—¾py­‹®àøt¼÷ÀÔÄB÷&÷$ûª÷øðwÞ÷
+Ö÷$u÷
+è÷
+s÷$òÖù`üû9‹ûI÷¹Ûò™àÂ®ÁÒ÷øû$üû‹4û_S—¾py­‹®àøìuÊ÷
+÷
+û
+÷gû
+ò÷
+÷
+ôû
+ª÷øðwÎ÷&Ö÷$÷¯÷$Öù`üû9‹ûI÷¹Ûò™àÂ®ÁÒ÷øû$üû‹4û_S—¾py­‹®àø÷)÷Uû-÷û&âs vù`wÎ÷&÷™÷$÷™÷$÷À÷›ø4û:û:û¯û<÷¯û=÷šü3‰øbâ÷÷&û-s vù`wÞ÷
+÷=÷
+q÷$r÷
+è÷™÷$÷À÷›ø4û:û:û¯û<÷¯û=÷šü3ô/ør÷
+÷
+û
+÷gû
+÷
+÷
+û
+;‹÷øn÷¼÷$šøÙšøÙ÷ü+øøv÷ü û÷âüüeø\ùŸûVBRÔûðû$÷ìKvø=ô¿÷&±÷÷M÷¼÷D÷ü¥”™²Îé‹di}p€nƒ>}C}û	tû1ÏLóß½µ¦¦|“o|Ž„Ž„÷w¶„¢ˆÏŠ¨÷ «èŠñûnû.\K8t÷Èû5¼\‹jnryvp}kVtµ¨»Â™¤‘­’’Œ«’—™û0÷áâ÷÷&û-ìKvø=ôÁ÷$DÒ±÷÷M÷¶÷D÷ü¥”™²Îé‹di}p€nƒ>}C}û	tû1ÏLóß½µ¦¦v“o|Ž„Ž„÷w¶„¢ˆÏŠ¨÷ «èŠñûnû.\K8t÷Èû5¶\‹jnryvp}kVtµ¨»Â™¤‘­’’Œ«’—™û‹÷ã÷®ÀÔ¶ÄB÷&÷$ûìKvø=ôÏ÷
+±÷N÷
+è÷
+8÷¹÷D÷ü¥”™²Îé‹di}p€nƒ>}C}û	tû1ÏLóß½µ¦¦y“o|Ž„Ž„÷w¶„¢ˆÏŠ¨÷ «èŠñûnû.\K8t÷Èû5¹\‹jnryvp}kVtµ¨»Â™¤‘­’’Œ«’—™¶ûŠ÷ñ÷
+÷
+û
+÷gû
+÷
+÷
+û
+ìKvø=ô¿÷&±÷÷M÷¼÷D÷ü¥”™²Îé‹di}p€nƒ>}C}û	tû1ÏLóß½µ¦¦|“o|Ž„Ž„÷w¶„¢ˆÏŠ¨÷ «èŠñûnû.\K8t÷Èû5¼\‹jnryvp}kVtµ¨»Â™¤‘­’’Œ«’—™@øsû-÷û&âìKvø=ô°¿â¿±÷¿â¿s÷¼€÷D÷ü¥”™²Îé‹di}p€nƒ>}C}û	tû1ÏLóß½µ¦¦|€“o|Ž„Ž„÷w¶„¢ˆÏŠ¨÷ «èŠñûnû.\K8t÷Èû5¼€\‹jnryvp}kVtµ¨»Â™¤‘­’’Œ«’—™¿ £ø1Á`µWUa`VW¶`À¾·´ÁWswxtswž££žŸ¤¢ŸxrìKvø=ôÉ÷ûÛ;÷9Ü±÷JÉ÷P÷ûÊ¥@÷D÷ü¥”™²Îé‹di}p€nƒ>}C}û	tû1ÏLóß½µ¦¦e@“o|Ž„Ž„÷w¶„¢ˆÏŠ¨÷ «èŠñûnû.\K8t÷Èû5¥@\‹jnryvp}kVtµ¨»Â™¤‘­’’Œ«’—™°ÀûP÷ë¢À—Œ‹ª¬¨‚¢¥ z¸—†§á‹í¤L© }‰‡ni|Žœe¢Àœd|qxs†yy°ÀyylWûX¿Þ¼÷÷×ö¶÷!ã·•Ýºø¡øÏw^ìû:û]Yû1û¾?¥ûJ÷_‰Ú|Š~Šu…|[‘ªœŒ’Ã“o`F‹ljyŒƒZ…²µ‹÷­Ã¶Þ¾[¨_º÷?¯÷"”²û¢k…~H:7nÒí«‹÷÷Ú—KyŽô÷ß÷ô¿÷&­÷#÷a÷ø
+÷9s„{[K=jÌÉ‰÷ì÷-ŽU÷1ûWû8Aûû `“X¢Yû
+Â÷…¸÷@¶÷«–ûâ÷6ÏŠ²ÀÌ ÙƒûŽûF÷ªâ÷÷&û-ô÷ß÷ôÁ÷$DÒ­÷#÷a÷öø
+÷9s„{[K=jÌÉ‰÷ì÷-ŽU÷1ûWû8Aûû `“X¢Yû
+Â÷…¸÷@¶÷«–ûâ÷6ÏŠ²ÀÌ ÙƒûŽû¡÷¬÷îÀÔöÄB÷&÷$ûô÷ß÷ôÏ÷
+­÷#L÷
+è÷
+N÷öø
+÷9s„{[Kù=jÌÉ‰÷ì÷-ŽU÷1ûWû8Aûû `“X¢Yû
+Â÷…¸÷@¶÷«–ûâ÷6ÏŠ²ÀÌ ÙƒûŽöû ÷º÷
+÷
+û
+÷gû
+÷
+÷
+û
+ô÷ß÷ô¿÷&­÷#÷a÷ø
+÷9s„{[K=jÌÉ‰÷ì÷-ŽU÷1ûWû8Aûû `“X¢Yû
+Â÷…¸÷@¶÷«–ûâ÷6ÏŠ²ÀÌ ÙƒûŽ*ø<û-÷û&âü1 vøšwß÷&Ò÷Ò÷øšû…Ëâ÷÷&û-ü1 vøšwá÷$DÒÒ÷èÒ÷øšû*Í÷ØÀÔèÄB÷&÷$ûü1 vøšwï÷
+r÷
+u÷u÷
+èÒ÷øšûô+Û÷
+÷
+û
+÷gû
+÷
+÷
+û
+ü1 vøšwß÷&Ò÷Ò÷øšûÖ÷fû-÷û&â; vø=ôwé÷ûÛ;÷9ÜÐ÷FÉ÷a÷ûÊ¥@ø(÷÷ÖÅ@Š¾ØTµ­`VtVJyEX‰¥@×ûüš÷÷Å@µŒÄ™©±œ²¢¶ß‹@6°Àûa÷Û¢À—Œ‹ª¬¨‚¢¥ z¸—†§á‹í¤L© }‰‡ni|Žœe¢Àœd|qxs†yy°ÀyylW;÷÷Ò÷¿÷&±÷!÷‘÷!±÷žû„÷NeÝ÷;ï÷÷#÷3÷ûHûL8û!û÷!„÷Ç½ÍÑÄU#ûJ^MJN¼÷¿÷×â÷÷&û-;÷÷Ò÷Á÷$DÒ±÷!÷‘÷!ì±÷žû„÷NeÝ÷;ï÷÷#÷3÷ûHûL8û!û÷!„÷Ç½ÍÑÄU#ûJ^MJN¼÷d÷Ù÷ÜÀÔìÄB÷&÷$û;÷÷Ò÷Ï÷
+±÷!e÷
+è÷
+e÷!ìò±÷žû„÷NeÝ÷;ï÷÷#÷3÷ûHûL8û!û÷!„÷Ç½ÍÑÄU#ûJ^MJN¼÷ìe÷ç÷
+÷
+û
+÷gû
+÷
+÷
+û
+;÷÷Ò÷¿÷&±÷!÷‘÷!±÷žû„÷NeÝ÷;ï÷÷#÷3÷ûHûL8û!û÷!„÷Ç½ÍÑÄU#ûJ^MJN¼÷÷øiû-÷û&â;÷÷Ò÷É÷ûÛ;÷9Ü±÷!aÉ÷hÊa÷!Ê@±÷žû„÷NeÝ÷;ï÷÷#÷3÷ûHûL8û!û÷!„÷Ç½ÍÑÄU#ûJ^MJN¼÷á@Ÿ÷áÅ@—Œ‹ª¬¨‚¢Ê€z¸—†§á‹í¤LÒ€}‰‡ni|ŽœeÅ@œd|qxs†yyá@yylWí÷îíÁ÷$Â÷÷]÷¯÷(w–a²hUÇÞ‚½÷?ÌèÜ÷#¦/¡i“S™q•|‘€–šµÒŒ¢£Ã‰Nœ÷£òm>­ûûûcûû÷p÷1i«„£„mS4Š_X™Ð{÷£øÃûVBRÔûðû$÷;ôCvøšwß÷&Ñ÷÷Y÷|ø2÷øšûûn¼&‡mxewdxern”¤{~ ˆ÷÷‚ûûÛPf£d^§ÈtÁÎÍ¬Ä°ûKøŒâ÷÷&û-;ôCvøšwá÷$DÒÑ÷÷Y÷vø2÷øšûûn¶&‡mxewdxern”¤{~ ˆ÷÷‚ûûÛPf£d^§ÈtÁÎÍ¬Ä°û¦øŽ÷nÀÔvÄB÷&÷$û;ôCvøšwï÷
+Ñ÷I÷
+è÷
+I÷yø2÷øšûûn¹&‡mxewdxern”¤{~ ˆ÷÷‚ûûÛPf£d^§ÈtÁÎÍ¬Ä°vû¥øœ÷
+÷
+û
+÷gû
+÷
+÷
+û
+;ôCvøšwß÷&Ñ÷÷Y÷|ø2÷øšûûn¼&‡mxewdxern”¤{~ ˆ÷÷‚ûûÛPf£d^§ÈtÁÎÍ¬Ä°%ùû-÷û&âûf÷;vùdwß÷&”ø©¸”øš÷Yü›+p[‡lv~Œsx— ¸‡ž¢‡¯÷&§Ú÷³‘šš÷Kø‡û"ûü‰ûø¼Ëâ÷÷&û-ûf÷;vùdwï÷
+÷÷
+è÷
+¼”øš÷Yü›+p[‡lv~Œs|— ¼‡ž¢‡¯÷&§Ú÷³‘šš÷Kø‡û"ûü‰ûøbÛ÷
+÷
+û
+÷gû
+÷
+÷
+û
+ûS‹÷÷¯÷Í÷$øcøc÷ûi~r‰‰j­°š›œ÷Z÷xìü@û÷K°Œ¤ttƒc]ûVûrø"ùûVBRÔûðû$÷÷÷ ×Ë×÷÷º÷)ø¡ùNŸc[•T':jINb`pU}JQ{?Ë€Š~|‚Œ‚„[{?Ô˜I§T´^JÈÙkëÃ¼•¡µ÷)efZwLWaŸ±jzŸ¦ƒ®÷r›×û—Š—–—‹•Œ’÷š›×û ’«™¦ ±¬¶žÀÀ³~o§r¤ù`—ûf—÷D‹÷ñ‘üÉ˜r¤ù`—ûf—÷D‹÷ñ”üÌ–	÷
+÷÷—÷’ŒøÀùGendstreamendobj12 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /FirstChar 0 /LastChar 255 /Widths [ 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 ] /FontDescriptor 13 0 R /Encoding /WinAnsiEncoding >> endobj13 0 obj<< /Type /FontDescriptor /FontName /Courier-Bold /FontBBox [ -88 -249 697 811 ] /Flags 34 /CapHeight 571 /Ascent 811 /Descent -249 /StemV 68 /ItalicAngle 0 /XHeight 433 /FontFile3 14 0 R >> endobj14 0 obj<< /Length 19465 /Length1 19465 /Subtype /Type1C >> stream
+  Courier-Bold 3ø øøøøŒût¿3ûùMù¿  ¬÷q÷xÂKÒ t€‡Euro004.000Copyright (c) 1989, 1990, 1991, 1993, 1996, 1997, 1998 Adobe Systems Incorporated.  All Rights Reserved.Courier BoldCourier   ã‡  æ    B t þ®-¹ØEy¶ÊéIj·#U¨?º-d“·Õû`		F	¹
+
+S
+—
+ÞK…¦ïGm½ô=•|ü.x®ôQ˜ÇãüH[|õR›þV¤`Žæ4R¾T³_ë%p¥öO•Â5J½;ªC\¼7ê\{¥Üý’í   $ V w « Ì å!!2!f!³"i"Ñ"ê##%#x#‹#¸#Í#ì$"$f$Œ$¾$ã$ö%Y%Ê&&…&í'%'Ö'ô(,(¤)+)Û***c*·++œ+Í,6,£,å--<-•.E.“//-/­/ì0]0Û1/11ð2D2À3I4 4S4°55h5˜5Ò66@6º77r7Ó8*8¶9K9£::j:Â;;;Ä<M<ä={>>½?ˆ@@„@øArAÜB
+BEB…B¶CSC¦DDhD¾ENEþFYFÂG/GŽGâHKH˜I÷-øCw÷g÷Jÿÿo€ ÿ k€ àÐøøÐûœüåà¹û	²h°SOlahTÄv®½³ª¹÷¤÷À÷/ÿ z€ Ãÿ y€ øbøÐû˜ûÀ÷ û7÷Àû—ûÀ÷÷-çôç÷,ÿ S€ ÿÿ»€ ßÿÿº€ ÿ T€ ÿ C€ âÿÿ¸€ âCâÑÒø¦÷-ç*‘ôÉæç6—÷c4ûc)—÷c7~ûcÑ!/ð…"ä,/äûaÞ˜÷aí~ûaâ˜÷aÒ@÷Y…")‘ô‹÷û÷Dû3ç÷¨÷C#÷R÷ ç3çÆè»æ@æU€K@ø“÷;ñ+¤(§l”i‘pŸ~•„™š¿Ó“¨M€­­‚}ªU€[æ÷C0m‹@|“{‘zŽî.)K‚4hû#Øw÷j¯¶…¦s“ƒ€W-‡r•€hj‘™jU€º/ûDç5€¨„ž¤†žû!è÷ K@®’÷¡÷jÓ÷ ÓÝÓ÷ Ó½Ó÷ÓcÓ÷Óû÷ðøoÔPÐ24LG@AÅIåŠÝÏÇÝC[cud\o¬°¯¦­¼»©jfý÷žüÔQÐ24KG@AÆIåŠÝÎÇÝC[dud\n¬°¯§­¼»¨jfûÈ÷‰nËü;ûL©Mç;ç÷
+ç÷%çËèjç÷C÷!zø»çû{¡ž¨–¯˜ªÚçû!†tyR|qv4÷}Ÿg¼¢¢¥›¥´¯zt¬ÀÏ°_Q¦Q5NU@Z¯e“{Œ‰ºOn^OEGº1÷Ö¬­¢z§cº:÷txo~nVy´©¸¯¤£š÷Ç÷‹w÷-÷|`øøÐû' 6û÷5ùm÷›îøx5XäD÷÷$á§ð¨Ã¤»” ªÁ2A!Qû ûPŸû ÷ û75ùm÷ƒî÷æ÷­Æw÷ û ÷7.¾2Òûû$5o&nSr[‚vlUäÕõÅ÷ ÷øHw÷Šóø‹øiïûZ‘÷û‘ûû¼h&÷j=!ÞNÖ÷ÕûÞÈ>ô÷Bè÷?w÷’èø™÷Bèû>÷?.û?û>.÷>û?è÷?'÷›÷-÷|ø÷7û%4û›÷÷Rç÷!÷Óø`÷RçûÓ/÷9÷b÷QøÑ²k·MQfaaq¤TÓ¿³°¸ûùÑÔø\ø¥ù'<°üý¬ÙfçøLçîç÷pæøŠ÷¿õy÷cûIûY„ûƒ@4šûs÷O÷U“÷Õ0ˆ;}û-'÷Ø¤Å‘÷'ñõû:Q‹è÷Ÿèø¥èû=øžûšV0÷=­ü0ûA.‹éø>èæç÷gãøv÷43IûB÷÷ØÒÊ¼ï§ˆ§£ÁpOÀ,>HjNY3çžÍè‘ÅÁhIcxjX^ûûs=ç÷Nç÷5è÷þçLæèøv÷Aàaª]«ð¤¢®­Ð¬„¬x¤¾cS¢LDRhfR¸C²Ï¬—³²ÀxP?8„`}/Àè¬Þƒ:MShJZo•ª1i=y»ÑfèÖ÷·÷!‹èßè÷ëw÷Òèøƒè7ßÛè;÷ë'û‹ûø;÷’7&.ð÷¢û(÷(÷rç÷`v²ç÷è÷ç÷`æø÷UðKïûml…l÷÷£èûÿûÌ»q²Ç»‹˜ÏÆcCL]\<LPœ¡Rj;}®èfÝ÷(Ñîõæ÷dè÷ ç…wðà÷jæäÔøˆøòìŽvzŽi'(q5P\Fu54(¨ûòbƒŸ«ƒ£ôØæðíIñûYwud÷ ¢ÂÍ÷’’Š’Û†.ûßH`fUaa§³y‚Ÿˆ¢ˆ¡‹¬ÖÛØ£N` vøèÔçøyø©Ïü0û>çØ÷sûTüï€ç÷Gè÷;èêè8è÷`æ<æòø÷;Èn»W­ìµ«¦¶Æë9ÔûûC56U¥_¹hòZljWPû÷Qé÷&ÅóÕì$÷¤SYmXT[«¾º³°ÇÜ¢]hò—ûQQhYB^¸¹¾¾°ÆÚ°a_}èIv÷wç÷dè÷è÷jÞ¼øˆ÷Ýâ~äHÅªg`]û@.&!Ý.õ²»œ›£&rkCû:ptŽŒp|…0¼‡§³‰¸÷,÷÷÷k8Æ‡dB>T`³ÏÔÂ¦µ³¬wo›r‘om÷9à÷9÷b÷Qø÷Ô²k·MQfaaq¤TÓ¿³°¸ûŽ²k·MQfaaq¤TÓ¿³°¸÷‚÷9÷b÷Qø÷Ô²k·MQfaaq¤TÓ¿³°¸û1û%4û›÷˜vøZwÔøCøŒƒâûê÷!÷ê÷âüCû@ûßèÐèáøAø—÷ŠèüA.øAû6èüA.˜vøZw÷ øCø¯÷9÷üC÷@4÷éûûéû!4~÷,÷òè÷çu÷JûçÜæäø~ø0÷1ÇûWB}wYûçÍ¥¨¦Ê¾uTì@2z7}ûçÈä¼—÷¯÷Ôûûñ…Ò6Ried^³m¿Ï¡¶¬yÓÒÔ÷;ÕÒÐžßÌÐ÷›ÛøØ÷Ø½¼r³ÞW/¬0û-û#û]û¿ûK÷x÷ÔÄ¤±oÏT=Lt?û-g÷ãÉ¢÷?÷L÷ÒD#<iQc}w‘£‹‘¾÷RF…y£t~‹}/Oû:5¾r­¬«œ¤£j¡¯‚ÈðÀ÷&û†”pwû O{†ŸÃ¹Ô¨£t‚‹èÏè÷uè÷‚÷÷}øèèSûXøsû….÷û7üP.÷‚è5¨Ï÷|¨G8.œ÷’û0Ù÷M‹è÷0è÷è÷ç÷tæQçôø¿÷6¹yºb¤økŸ±©ž´¸Î]äû(û·.Ùü=.÷Ýô÷ÎÕãøû÷L@ƒvû÷÷Ï¢gmô¬û‰NK}nû8÷0÷°÷ ‹:çø0æ¿è÷ÛçøËØSÏukD`;ûVòô÷-÷¾Ò¿¾wp¶,ç÷}/a•~X«8û2ûûû>ûÌûN÷j²÷ŸÐ×‹èøèôç÷¦çøÇ÷½êjô,¼Ÿd^‘_û­.Úü<.÷•÷(÷Ï÷y/‡GxCQfvie‰`9ø÷÷	·7%‹èá©¯ç¢¶×è÷çõè³èïø»÷e.ûûƒ÷,õIèÿ÷t.ïI!÷"÷ƒÿûè÷hü‰.Øü<.‹è÷*è¤´Øè÷çöç¯èÞþøÂ÷ý÷gü‚.Õü@.÷¶èûÞ÷*öJçþ÷t/ÞI ÷#÷þû
+çõè÷iæ´é÷Îæ8èôøÝ÷Nèûª.ø÷"2iƒ„nn‰mTV™¶ej±~ÁÀ÷ âÑçôÇ­vm¼/è÷~.]¤dh Eû,ûûûLûQ÷&÷*øçï¶“Ÿ÷'‹è÷/è÷èðç÷nçø×è?ø×èûŠ.Ùûûn÷Úèû‹.×ü?.÷‹è<÷/÷nû/=.‹èøè÷“êø”èû6ø÷6èü:.÷9üû9.æø$èÂè÷yæøáøsèü.÷DûªH‡T2yxzQ˜s Å÷ .ûz{©ïXï¦¦Ž”¢ŒÕ°©¸ô÷·‹è÷Ov÷pè÷ç÷÷xøÓè&t·r±n¶x¨^Á}œ÷:÷5Ëèûx.´û5û/÷/Ùèû.Úü<.÷è=÷ÃÁ£p§eq°U¯M£W‹èøè÷&ç÷wèøÂ÷¡.ûDûwø÷èûÇ.êü,.‹èøèÕèÿ€ ÿ \€ øøøsèûWû û±$÷±û[.Ö{üT.÷‡è,›÷Óðû±Çô÷®šûÐ..÷‚èV}ø‹èøèåç÷’çøñøsèûš.èûÄû‡ø!ûG.×ü?.÷è*÷Ï÷–ü,ãøsæø/è¯é÷íæøÊ÷±÷!3÷1ûDû:'û%û/û\÷,÷î÷9Ó÷u08^ûûûRöïéÅ÷÷÷µûD‹èñè÷Sè÷ç÷rçøµø»~¸l¯¼`DšIû˜.Ùü<.÷¹èûñ÷	÷ÙÜò/Ž]rrx‚}mh‹i<÷Så¤ªˆ€£«|ŸkgûèV÷LDvø…è¯è÷ìç¼øÉJSËgg~ƒyss›¢k©“÷©È÷÷ÞZ÷pûkûû#ûXû"Î0Õl£\bWgk¶F«Ä¥˜®¼Á´cÃÂ§¦¹¹/÷ð\û.#`F</¼÷,÷/ô¼ÎÉÄfR§¼›j”cb‹è÷è÷3è÷ç÷iæøÖè@û÷,²—¿›µÇÒÆqÃV©Ÿh_Žbû¤.Öü<.÷‰èA÷Øãû£j¡f›h}ø'<<‡_1÷3÷¤ËˆB~çø0çÕç?è÷çDæèÔø¨÷8¨ƒ©|¢WÙ&€:—qI–Ç¶¹»ÝØ±±€{¬+ç÷k/tšjc“cû#A&9\ _³läÄ_ÙŒÕ…½‡ªz_Zdg*Y\›¤a×/ûeç¯‚Ÿ¸pÕÔ÷òÎ÷‹èøè³è÷è÷è8øÇ÷ö÷nüŸûnè÷÷üû.÷âèûø÷ûèø"èíç÷„çøêøsèûš.éûœ4t\'ûƒËÀ÷­çèûš.Ùû¤C’FÐ_n¹´†»¶´•œ±Ë¨¦ÕÏ÷¹ vøsèŠ÷Š÷÷‹øíøsèû‹.åûûúû ÷úØèûŠ.Õ÷Oüsè÷Iøs vøsè‰÷y÷+÷xøòøsèûx.èiû°&÷£I'û¥h÷²çèûy.ºËüsÚ÷÷Á÷ûÁÙÌøs‹èøè¤÷Šûy÷xÓ÷kûj÷|ØÔøÓèKû1÷bØ÷÷HÍèûk.·8û6÷¿èûx.Î÷ûHäû3ûbK.÷Šè?ô÷òûO.‹èøè¥÷zŒèŽ÷zÐèøÛøsèûz.Á%û=&÷=¿èûz.ÖÐ÷0û–ûû.÷áèû÷È÷0÷–‹èøèÛç÷›çø£÷~/û!û÷Åø1Íü=ûoç÷÷aûÁü,D5èø³è÷µèø‡5èû	ø³÷	èûfýmûùÐÙøWø¥(üù®;iøý®5èø³è÷pè÷Í5ùmûh.÷ü³û.øy÷ñø%ø‹øz¹,Û`³eíXj.\Y-?]Ö¦Ñ»ÃÃÅPÎ^Öqû¾‹øìøìû¾üìX÷Ç÷‹w÷f÷|` øN÷Ç5÷û&÷ûè:èòçÎèÅç÷‹å|øÈè>÷:°‹³|«Ûfû‹wB@rpK¯;¡ÂÅœÆ£Õ‰OidŽhûr‚ûx¼JÇ<÷·½™œ§|‹©žš”\¼÷2`]RiJcd«¼Õ›¾Ã°…‰¨ç;è÷šèÛèãç÷¬è|¼ø½÷o÷	+÷ûWXzie÷tû?.Ú|üG=.÷>¼±p°¯tÒ÷ ä÷÷.Œ>ML:a)¥÷ÔµÍïï´6Yç÷¨çÆç÷ æø³ÜWÒcTWk?<=¸çÚÈÇï±±|ª<æ÷X0x˜ig‘fûA;ûûû'÷8÷çà²ÁÍè:è÷šèÛè¸è÷°ç|øâè?ø¤ûg.÷û¬fU›Vû+ûû¼ûï!÷¿¾›«²|g‰÷l¼ûû{j>JÇÙÙÊÅÞ¾Ãmbœ|”wssçëèàèÌè÷¸çøÃÈa×lNEqBû
+kÉ­†øŒ•® ÷"Þûûû=û.û
+ßû÷8âãªµÒ ÷dû³ÅŸÊ¦ÅÃÇ|T¥‹è÷çêç‹w÷cçèØø¯øïè?–olŽl_`ƒuj`nˆYYo,/êû,.øèû^÷÷^çû^®±¡Ò·¸ƒµûLéðè÷‚è:è«é÷°æìøÖ÷êèû<Ül©fZ˜Yû#(*ûûí-÷!½¾™©±dPˆ\ûB/£–eu-xÞÒ{Õ÷M í÷ ì÷ÔÜ0û?S\6CD¾ÖÔÍ¾ÙÜÆ[<‹è÷šçÜè÷ç÷gçøàè>÷Q«‡ª~§˜…lÈ&R^vq]÷qû=.ØüG>.÷ˆè@÷`¼Ï¿”¦¿—jjûX?.‹è÷ŒèÆ÷)÷•è÷òø÷)!û)÷¢üèû8÷éû}.÷ ûŒû;.ûLèCvø¡èÅ÷)÷Àô>è´¸ø)ø€÷)"û)´÷ürø8ûä.÷‡ûÖsŠrƒvc{h‹k^a”–btu.´¼½¾÷LŒ÷Ç‹è÷èèè÷çÐ÷”û_÷„ôø×è&b½<Õb¬÷çøðèû”.ž3N÷èû<.×üG@.÷;÷Fô¬¢²kµf­dq.‹èøGè÷”èø—èû:ø¤û.÷2üGû9.‹è÷Œè;èÉç÷ç÷çÜøûèR÷o¼ÕZÈ:bbymq´qf’tlmtxÜ¡û=.ØûŒ>.÷‹è=¼÷xœ¢›£°“lwûÃ÷,èO÷p«£¦”œ¬”oûÐ‹è÷Œè<çñç÷kçØøÔè@÷i¸ª¨|¤µl[™WUSypbØ«û?.ÚûŒ>.÷‹è=¸÷c¶¼Ë—¨Î‘ldûT?.è÷¦è·é÷Øèø¿÷n÷9÷	û@ûû<û-û=÷-P÷÷÷Ï÷6.*;a=P ¥÷àÒÀä÷¸@OûKèÙç÷˜è<èåç÷°çìøÂ÷qÜ÷1ûÐ*VUzkeì®û>.ÙüB?.÷Êèû"÷|Ÿ¿hØ÷êó÷Ü/‰8GSB_$¦÷÷÷ Ÿ³ÕÍ[4ûKèÚç÷™è;ç¼é÷¯çìøæûKè?øDÖèû;Üe¯dX™Wû ,ûûûí ÷¿¾›«³ûû.÷ ø'ûûzj@IÃÜ×ÅÈâó®=R‹è÷Œè<è÷EèÐøÍ÷â°ž…œ…›¤‚m°FFO_cYÐÑû].÷ ûŒ .øèûJ÷3°¯©¯§´¢–Ÿ£–¡¤rŽè.÷Pí÷B.èâç<ã÷uçEäš•ø ÷ÔS·Kû•sH‘°´à¡š´·‚{¬ªSç–÷B/t™g]”_4'e(û÷ Ñ…™¯ˆ·ªz–…Ž€iLzVIZ›”rZÑ/šûPç¨z¶¾¾•÷äÃãç÷™è÷1èø·»{ç{g'_J@†·¶÷B÷‚èû‚÷.ûL.ÊûXûñwÑ×Ø«§Ìæ<è÷Œèïæ÷içxøÑè>÷éû<.×¸û]ljfmO;ˆÁ¢÷ªû=.ÙûKeu‘zI¢×pÊ½¸¤°xl v÷éè—÷‹í÷{øà÷éèû{.Åûûuû÷uËèû‹.Ý÷?ûé×÷:÷é‹÷2ûv÷é£sè…÷e÷]÷_\øó÷éèû_.Ð¬QûK9÷cL?ûc\P÷KÏèûe.º÷ûé×Ó÷[Ýû[Õõ÷é‹è÷Œè÷|ûn÷vÞ÷kûc÷|ØÔøÙè;û"÷Ø÷
+÷Úèûk.œQSMÃŸèûv.Ý÷ûäûû9.÷|ènØ×Ù?p.ûKèøCè’÷rûJ÷ª¹÷nèøá÷éèûn.·ûûbû÷bºèûr.Ô÷4ûº8ûØû.÷ªèJ÷”øC‹è÷çõç÷lçøŽ÷D/8ûF÷¢÷¦Îü$û:çÕ÷7û¡û£Dûxèùºè÷„èøsûxèce‡e—t’„¥¡÷(ÔhÞK®Ë®®ÜÔ÷(¡’¥¢’±—±‡³èY‰NZwTusS\û	û ‚Iû|-÷|”Iû û	\£SÂu¼wÈ½‰ûú{÷§¾÷Úûú{Xþ{ûxèùºè÷Ÿèøs÷qéûš‚Í÷ ÷	ºsÃT¡ZŸN‡Y.³‰±±¢„’quû(B®:ËhKhh8Bû(u„qt„eec‰.½È‡¼ŸÂ¡£Ãº÷	÷ ”Í÷š÷(çeè{vÛøO0øŸ÷–°PÀw~mXqPuûÂ^HeJYlËU¨žº²°¤÷U³0´À¬Ø­÷»÷,÷g÷Jû%ÿ k€ ÀøøÂRŸhYcm]d®fÃÇªµ® nüzø1yüW÷j÷-÷C-Ø>÷e‹wíçÕçÅåÏø£÷2`ÒaEbrMû ~è¡—É½Ä×¬®€|©ÏTå÷C1¯lx‘wxŽ÷/ûûrV91û#÷g¹~ûç÷ÏË•Â¥¿±èLä÷3è÷4è÷%ç^æ´ø·ÊUÊwsprituJ¥rx{„…¨›µ¯œ‹™„­÷Rè¸ûkƒ …£¤Æ»ªÄ®­r¢•~“€Ú°¡£~YÜûûE02rr‘t@.tñ‘yŽyy>jS\a¼K“—Ã°¹´±ÄmµÐ¸½¤ øÝwÐw¥øÑøëøÝC¼ü‰ý/ÒW‹è½ÄÃÄ÷Wè£÷yä‘÷uôúøÖøèûu.µ/û.÷¶èûy.Ø÷/ûWûRô÷SûR÷Yû .÷Åèû ½÷ÄûÃ÷Äûò÷-÷Wûèøèçç„’yøÓèØøÁø÷èauhZX†nffn‚`‚`„h)y.îZûª>}{TsruT0ˆ¤½†¹›¡Ž“©µ–»¯˜ÔÆ÷Ýñè#£¡Ž¥¡•“œ›š¢¨‡ˆžLèøaè÷è4ç;ç÷8æ7çFäÒÉø÷d¯v«m¢ûx÷@‹‡Ž–™Œ‘Ê÷+>ç÷>ûplo‰~qƒ‡auLnuŸxäu{iqQY¥q¶k÷Kûž}Žˆ‚‚Š‡Ôû4Ù/û?÷kßÇ¤Ô±~žxŸÉ¢–°«À2ql„{‰áû&÷’ƒ—— ¢•—’÷7ûÉ’†‘ƒ‚ñï÷®ïÊì÷®ìøË÷'GÌ¤°š¹»¼|¹r±ÏÌMËHI¨e[›XX[{pfIËJIÏJse|^[[š]¤eFIÍKÍËo±º|½½ºš¨±ÎJN÷š=LL==LÊÙÙÊÊÙÙÊL=÷¤÷À‹w÷‚÷`øøÐû —ûÀ÷÷Ç÷÷ øHø´÷Ç3÷û&÷û.3÷û&÷û£ø#´øøÆåû=÷÷;÷VÎû†ûZ÷‰û]û@Íû>÷÷<÷VÎû†ûZ÷‰û]£ø#÷÷Úø[åû[÷÷Y÷WÎû¤ûZ÷§û]£ø#÷%÷Úøk÷uû¤÷ZWH÷Yûû[û¾I‹ç÷ŽçÅ÷û÷*ûçˆwôæ÷hæËãø‡ø€Ó÷*$ãû*÷Zü€ç,÷êûC/ßûŽ-/ÇøýËvŒc_cojlq…dd_+/ëûŽ+/÷¯ç+÷Žëç+À®­‘¤¨ ‰Š™‹ç÷Žçéç0ç‡wñæ÷hæÖøäç+ø¥û/´üI,/Î£øýævsŒj_cojlq…dd_+/ëûŽ+/÷¯ç+÷Žëç+À®­‘¤¬¡‰Š™÷QèØøQøž÷QèüQ.÷ßè÷(w÷‘èøw÷ßèû÷(.û(û.÷üèø÷)èæè÷&w÷’èøw÷)èûæ÷èû÷&.û&û.÷0û.÷ûSè÷S÷q÷9÷b÷Qø÷Ã²k·MQfaaq¤TÓ¿³°¸ùSµ÷Ô²Ð±ø’ùSµû&!n2Rui__3»û÷@oüF²ùíÐýí±ùí÷÷þ÷÷üøt÷Áï;Ü'';:''Û:ïïÛÜï'÷›÷-÷|ø÷7û&5û›÷&÷œ¿øEøy÷7û&3ûœ÷@÷œû&3ûœ÷÷Ç÷¿øEøyøÐû&3û÷@÷û&3û÷£ø#±øøÃ÷rû‰÷]WI÷>ûû<ûÀH÷Zû‰÷]WI÷=ûû;ûÀH÷¢÷$Ì÷%Ì÷$pøÞ½ªq©]Ztiom¦l¹·¦ªªûeªq©]Zsiom§l¹·¦ªªûfªr©]Zsiom§l¹·¥ªªjÓ÷ ÓÝÓ÷ Ó3ÓîÒ|ÒîÓÒ÷/Óû@ÀÀùM÷ÔPÐ24LG@AÅIåŠÝÏÇÝC[cud\n¬°¯§­¼»©jf: ü3øÔQÐ24KG@AÆIåŠÝÎÇÝD[cud\n¬°¯§­¼»©jfÅ ÷†üÔPÐ24LG@AÅIåŠÝÏÇÝC[cud\n¬°¯§­¼»©jf! à÷‰nËü<ûL©Mû)è÷ò÷,÷ æ¯÷Jûç¢çäðø5ø¸c©WGu`j†‘DàÄ­±²äÑüz÷/I†qn‡pLX¡ÂìÖäœß™÷/NZûgûûåO÷ä¿Ô™Ÿ½øÐw÷-÷Úøsø¿û²÷c!÷Ä>øƒ÷K÷D÷ÚøŠøÐcõû²û¡OøîØïø*øŽø§û.÷(,û1û'Æf÷%ö÷% ø„àráuwïø?°ø£ù 9£ay‚vot]¯—qP“yyx-n<_zÞq•Ÿ£Ÿ˜‘’“¤šyv­°}¢¦„¤íªä®•øˆæåø8ø’øˆæü80øƒÙçøDø ù%/=tC…o<h»¯ƒ,D˜Ê0÷!÷1½÷¾“ø”÷÷Žö÷ùø”÷ ûø”÷÷4öÏöøNø”÷ ûG÷ ûø‘ÉßÉ÷]ÉßÉø-øùÄ\ºRR\\RRº\ÄÄººÄMtxxttxž¢¢žž¢¢žxtûcÐµë÷§ÙyÔÐø, àÉcš|¥B#ÐŽ˜˜™Ÿ‹vƒˆ~w}~“’€hSy¢¤§Å®¸Âøƒ÷k÷8øBøæù59°û?ûS¾s¥÷F9°û@ûS¾sûEÙ÷Öèø£¡#|ˆ5hB]°aÂ¬«™ £šÜ{unuuw“ µà®¦šøƒÙ‹wðø)`øŽùR±û$!û%õPf ÷1û'ê÷Qè‹øëøë÷Qèüë.‹çÑçƒç÷"ç›÷uÉå¥Ô©ÕÕøè÷CA8ûµ÷.·¥×YÔ·÷TBY½q÷"÷7Õ÷DüT/âû3üO/÷uçCÝ§Ñõû6÷’GÏ÷<÷èÆVÅËÄ©Ä÷DÆóÅ\øL÷îÅ`ð©Š®o¡—{r“igh‚€k¡R£”‘œŸŸ©›‚u…¼zxy2wTiY²]Ä¤£šŸ\n¼÷
+opflqœ˜¨©•ªœ¥‡‹‹èøè÷&ç÷wèøÂ÷¡.ûDûw÷0÷#´Êû#c÷:÷èûÇ.êûT;tJÛ¢û,.æø/è¯é÷íæøÊ÷±ÎxÑcÃ¹ÆO»cX©cYžNû:'û%û/8¢K°[[NÍ]´¿m¸¿|½î÷9Ó÷uû?÷Eû€û¼x©¼´éÅ÷÷±ª€z£ÛûA8^ûûhl•œs÷~÷¼ j“Zl‹èð÷Sûç÷!èŒç÷uè¥Ô£Õ½øô÷AA;û÷-¿¥ßWÔ÷SB¿\½q÷!÷6Õ÷Füûûû	ûFûF÷(ðé÷"\^‰z%NÔ÷÷ÜØæš±Šf÷èÆ÷.Æ÷;Æ÷)ÅøEøpÍ[Ñ66[BL@ÃNÚÐÉÀÞQ\kma[p¯²¯¤¶½½£^kçéè<éÓç–é÷#é-í÷&çÝøä¡låb{Û„xe‚u:}Ôž÷ŸŒžŸè`÷ûa]xio°po›KE7g‰‡¦/½œ´» µµ™€SsyŽhû^2EAÂNÝÑ¹¹¥ªqœ³]ãÝÁ¸™ŸÀ'÷‰û*Å²¨³Ã”Iv»ûˆûnpjsczq˜«”ŒÁà•¬Š‡™‹è÷Œè÷‘èø”èû:÷éû}.÷ ûŒû9.‹èøGè÷’èø“èû8÷g÷ªÍûk÷û.÷2ûNûjK÷«ûLû9.è÷¦è·é÷Øèø¿÷n½{¾j´´³T¿`a¢eYšOûû<û-MŸ\«h_`ÃX»ºq»Â€º÷÷Ï÷6.*;a=voŽ•p÷f÷]œt’pr6÷ûiû`{Ÿ¥­àÒÀäª¥†‚¡çéèáèé÷6é÷*èøò¡låb{„xd‚u:~ÓŸ÷ŸŒžŸè`÷û^axil°jZ›ZûQ$ûJšû1÷5Ï··¢j©¦iãÁ¶™ŸÀ&÷‰û*²§º¾ÌŒJvŒûˆn:‡>=J|ÃÛª‹õåÐŽFgè:è÷ŒèéèôæµçÓæ€çx½øÒ÷·s´eŸ[¤W—Y¡~x—›’“~´¬Ã‰®»™Ÿ“¢£Ó`¼û7û(iUûu=.ÙûŒ=.÷=øPµŸ™“–Ÿ¨Ž§Ó±‡q…Š‚…dqc†emsx~nl:ÐqÖo¹§¤„¥~›ƒ~i\tQgd’—oVHgÆ°‚¿½÷ÚÍß÷œÏ÷Šw¼w÷‰Î°ø ÷œÏ7÷§ðû&nGÚšûU1G÷èø;çø—é÷œüA.÷åû?ã?è÷Œèðé÷féxøÕè=÷éû@.Ù¸ûggehyRWo®»÷§û@.Ùüé÷N|› {±Ê°¢¬®x_øÍ‹w÷c·m©÷·÷ ¶÷F¶nžø¶ø÷½;Wû{®V÷{<û½¶÷ Êû ÂžÇ÷ŸûŸ®û“÷‘·ûT_Õû‘·÷‘‹è÷2Ð÷3èôç÷¦çøÇ÷½êjô,¼Ÿd^‘`û®.Úû3PFÆû2<.÷•÷(÷Ï÷y/‡GxCQfvie‰`9÷2÷Ðû÷3÷÷	·7%=Í÷eÏŠÏ÷‰w w¼w±wÌÎ÷š÷ƒûzÏêÍ«`«€ù=ÍûË`ä×¢ž ¬²ªtÚ.^cugoMÏ•šŒ¦·Ÿ©ƒhz„~|}³€û*ûR÷kù#C»üŠý-ÐX÷÷÷Ï8­`÷§«`û&nGÚšûU1Gûè÷eè÷>w÷’èø™÷Cèû>÷>.û>û>.÷>û>è÷>÷>ûÂèüE.‹è´ç÷çµè÷ç÷‘çøÐ÷·óFª6“Žic‹j7µ÷èûð.÷üû.÷ðèû´÷³¬’¨ÖŸµ³á/†adˆŠ…wqŠsû!÷÷£ž‹†¡§…¥g=Ä·Ê÷FÏ÷‰w w¼w±wíÍ÷áÎë€øñ=Äb·´Êb÷DKûûT\÷_RRÄ÷8TÂÚó€÷(ø0C»üŠý-ÐX÷ ÷÷Ï7í€÷§ë€û%nGÚšûU1G›óÁèÁó÷óà÷÷ø	¨t¢nnttnn¢t¨¨¢¢¨÷2û[èü9.÷›!¨t¢nnttnn¢t¨¨¢¢¨ûtúH÷§¾÷Ú÷ªøRXüR¾üŠøRXüR÷ÌÔ÷.Ô÷*Ô÷.ÓøUøbÞIÎ88HH88ÎHÞÞÍÎÞC`ii``i­¶¶­­¶¶­i`ûKèÙç÷¦èÙèåç÷°çøÂ÷q÷1ûÐ*VUzke÷pû>.Ùüû?.÷Êèû"÷|Ÿ¿hØ÷êó÷/‰8GSB_$¦÷÷÷ Ÿ³ÕÍ[4>Ä·Ê÷<ÎåÍÊÍmwÐw÷6ÎXÏ÷|ÎöÀøÞ>Äb·´Êb÷FKûûV\÷_RRÄ÷8TÂÚ÷&ø/C¼ü‹ý,ÑV÷ø`«}©q ù@–•— ¨¥€¥vœ”€rœe_ewrh°R›¥©Ÿ©™ž…srw‚t‰ŠŒŠöÀjI¹°˜vuqxvj‰gŒl™lšoLrÁ¬‚­Ú»ÀÈ÷œÍ÷eÏ÷ ÷ƒûzÏêÍØàø÷œÍûØä×¢ž ¬²ªtÚ.^cugoMÏ•šŒ¦·Ÿ©ƒhz„~|}àû*ûR÷¨®÷M°Ò¯Ð®Î®÷°ã¯÷®ø©ø’÷#ôûû#"ûûó"÷÷óô÷hû32ûû3ä÷÷ãä÷÷ã2ûûû`÷š¤š¸¡¥v—•zrŒlRû‰°ðµ³&‘÷@im‹weÒ°§¢ˆi÷BçáøAø—÷BçüA/è÷¥ç÷w¡w¿w¦wÁé÷Äç×ø´÷†÷Oû÷Y¬ëÂkÄûBëlžPŸc“`U®„­«|;]­S÷ÌÑ_·<Œ‡žmw—Lû<8ûû
+ûÝû÷;×÷;Õ÷÷/r+=cE==²éíÛµÔõ¸CJ vøJw¢wáøK°ø¡Èû1÷2Ð÷0÷2OÈû3û2°û2÷5NO÷3û5û2û3ÈN÷2÷3÷2û3÷“ÎåÍÊÍ÷¾ÎXÏèøø«}©q ð–•— ¨¥€¥vœ”€qœe_fwrh¯R›¥©Ÿ©™Ÿ…srv‚t‰ŠŒŠèjI¹°™vuqwvj‰gŒl™lšpLrÁ«‚­Ú¼ÀÈ÷¨®Ó¯÷W°Å®Î®Ü¯÷«®ø©ø’÷#ôûû#"ûûó"÷÷óô÷hû32ûû3ä÷÷ãä÷÷ã2û25m¨wyw}mUeº¾¿´¸½¦¡}zœ¨©¢rišhIMR?G¾HÛ¸±¤›—‹èÏè÷uè÷‚÷÷}øèèSûXøsû….÷û7üP.÷‚è5¨Ï÷|¨G8.œ÷’û0Ù÷M÷O÷œc÷ û±ûŸN‹èÏè÷uè÷‚÷÷}øèèSûXøsû….÷û7üP.÷‚è5¨Ï÷|¨G8.œ÷’û0Ù÷M÷T÷uû.÷'-û2û&Æe÷%õ÷%!‹èÏè÷uèã÷÷‚/öÏöF÷}öùøèèSûXøsû….÷û7üP.÷‚è5¨Ï÷|¨G8.œ÷’û0Ù÷Mö÷÷q÷ ûG÷ û‹èÏè÷uè÷‚÷÷}øèèSûXøsû….÷û7üP.÷‚è5¨Ï÷|¨G8.œ÷’û0Ù÷M÷9÷Œû±÷b ÷Á>‹èÏè÷uè§É×É÷‚XÉ×Éo÷}ã ä€øèèSûXøsû….÷û7üP.÷‚è5¨Ï÷|¨G8.œ÷’û0Ù÷Mû ä÷™Â^¸TT^^TT¸^ÂÂ¸¸ÂMvzzvvzœ  œœ  œzv‹èÏè÷uèÂàsà÷‚÷÷}öøèèSûXøsû….÷û7üP.÷‚è5¨Ï÷|¨G8.œ÷’û0Ù÷M÷l÷Ì9¥u„}`hsq¢œoî™ur’q<`GU|ßq¯™—¦¦››˜öt©²y±Õ»ÇËšû`Ðµ÷A0æIvø†ç¿è÷ÿ N€ ÿÿî€ ÕÉç¬€øËØTÏrcLc:û*j÷×÷.÷¾Ô¾»xp´,ç÷}/`¤kXPûû!*û^ž€ûÌûðaƒžˆž…Î€ƒ.Í€˜˜˜™—‡{‚†~|‚‚Ž„z”iRq«Ÿ‰ À·¬Ê­€˜‹ÄR™®€Œ˜£§‘’ž¬€¼ž½¢¶¬‹èá©¯ç¢¶×è÷çõè³èïø»÷e.ûûƒ÷,õIèÿ÷t.ïI!÷"÷ƒÿûè÷hü‰.Øü<.øYùSc÷ û±ûŸN‹èá©¯ç¢¶×è÷çõè³èïø»÷e.ûûƒ÷,õIèÿ÷t.ïI!÷"÷ƒÿûè÷hü‰.Øü<.ø^ù,û.÷'-û2û&Æe÷%õ÷%!‹èá©¯ç¢¶×èã÷÷çRöÃè:ö™èî ø»÷e.ûûƒ÷,õIèþ ÷t.î I!÷"÷ƒþ ûè÷hü‰.Øü<.í`ø ù(÷ ûG÷ û‹èá©¯ç¢¶×è÷çõè³èïø»÷e.ûûƒ÷,õIèÿ÷t.ïI!÷"÷ƒÿûè÷hü‰.Øü<.øCùCû±÷b ÷Á>‹èøè÷“êø”èû6ø÷6èü:.÷9üû9.ø/ùSc÷ û±ûŸN‹èøè÷“êø”èû6ø÷6èü:.÷9üû9.ø4ù,û.÷'-û2û&Æe÷%õ÷%!‹èøèã÷÷6ö}ê~öèø”èû6ø÷6èü:.÷9üû9.ô÷öù(÷ ûG÷ û‹èøè÷“êø”èû6ø÷6èü:.÷9üû9.øùCû±÷b ÷Á>‹èøèÂàsàåç÷’çìøñøsèûš.èûÄû‡ø!ûG.×ü?.÷è*÷Ï÷–ü,ãøs÷¤9¥u„}`hsq¢œoÜ™ur’q<`GU|ßq¯™—¦¦››˜ìt©²y±Õ»ÇËšæø/è¯é÷íæøÊ÷±÷!3÷1ûDû:'û%û/û\÷,÷î÷9Ó÷u08^ûûûRöïéÅ÷÷÷µûD¥ø2c÷ û±ûŸNæø/è¯é÷íæøÊ÷±÷!3÷1ûDû:'û%û/û\÷,÷î÷9Ó÷u08^ûûûRöïéÅ÷÷÷µûDªøû.÷'-û2û&Æe÷%õ÷%!æø/èØ÷¯é«öÏöªæøÊ÷±÷!3÷1ûDû:'û%û/û\÷,÷î÷9Ó÷u08^ûûûRöïéÅ÷÷÷µûDlø÷ ûG÷ ûæø/è¯é÷íæøÊ÷±÷!3÷1ûDû:'û%û/û\÷,÷î÷9Ó÷u08^ûûûRöïéÅ÷÷÷µûDø"û±÷b ÷Á>æø/è·àsà¯é÷íæìøÊ÷±÷!3÷1ûDû:'û%û/û\÷,÷î÷9Ó÷u08^ûûûRöïéÅ÷÷÷µûDÂøb9¥u„}`hsq¢œoÜ™ur’q<`GU|ßq¯™—¦¦››˜ìt©²y±Õ»ÇËš~çø0çÕç?è÷çDæèÔø¨÷8¨ƒ©|¢WÙ&€:—qI–Ç¶¹»ÝØ±±€{¬+ç÷k/tšjc“cû#A&9\ _³läÄ_ÙŒÕ…½‡ªz_Zdg*Y\›¤a×/ûeç¯‚Ÿ¸pÕÔ÷òÎ÷vøõS°û&"û#õOh÷0û)êèø"èíç÷„çøêøsèûš.éûœ4t\'ûƒËÀ÷­çèûš.Ùû¤C’FÐ_n¹´†»¶´•œ±Ë¨¦ÕÏ÷¹v÷tc÷ û±ûŸNèø"èíç÷„çøêøsèûš.éûœ4t\'ûƒËÀ÷­çèûš.Ùû¤C’FÐ_n¹´†»¶´•œ±Ë¨¦ÕÏ÷¹{÷Mû.÷'-û2û&Æe÷%õ÷%!èø"èã÷íçoöÏö}çòøêøsèûš.éûœ4t\'ûƒËÀ÷­çèûš.Ùû¤C’FÐ_n¹´†»¶´•œ±Ë¨¦ÕÏ÷¹ì=÷I÷ ûG÷ ûèø"èíç÷„çøêøsèûš.éûœ4t\'ûƒËÀ÷­çèûš.Ùû¤C’FÐ_n¹´†»¶´•œ±Ë¨¦ÕÏ÷¹`÷dû±÷b ÷Á>‹èøè¥÷zŒèŽ÷zÐèøÛøsèûz.Á%û=&÷=¿èûz.ÖÐ÷0û–ûû.÷áèû÷È÷0÷–†÷tc÷ û±ûŸN‹èøèã÷¥÷z-öè~ö0÷zäáøÛøsèêûz.Á%û=&÷=¿èðûz.Öä÷0û–ûû.÷áèû÷á÷0÷–êM÷I÷ ûG÷ û‹èøèÛç÷›çø£÷~/û!û÷Åø1Íü=ûoç÷÷aûÁü,Dø=ù™S°û&"û#õOh÷0û)êè:èòçÎèÅç÷‹å|ø…øÐcõû²û¡Oøüƒè>÷:°‹³|«Ûfû‹wB@rpK¯;¡ÂÅœÆ£Õ‰OidŽhûr‚ûx¼JÇ<÷·½™œ§|‹©žš”\¼÷2`]RiJcd«¼Õ›¾Ã°…‰¨è:èòçÎè÷.ØÅç÷‹å~ø‰ø§û.÷(,û1û'Æf÷%ö÷% ÷üƒè>÷:°‹³|«Ûfû‹wB@rpK¯;¡ÂÅœÆ£Õ‰OidŽhûr‚ûx¾JÇ<÷·½™œ§~‹©žš”\¾÷2`]RiJcd«¼Õ›¾Ã°…‰¨è:èòçÎèË÷ÅçöÏöcåz€øÈè>÷:°‹³|«Ûfû‹wB@rpK¯;¡ÂÅœÆ£Õ‰OidŽh¼€ûr‚ûxJÇ<÷·½™œ§z€‹©žš”\¼€÷2`]RiJcd«¼Õ›¾Ã°…‰¨{ ³÷Ø÷ ûG÷ ûè:èòçÎè÷wÅç÷‹å~ønø¿û²÷c!÷Ä>÷üƒè>÷:°‹³|«Ûfû‹wB@rpK¯;¡ÂÅœÆ£Õ‰OidŽhûr‚ûx¾JÇ<÷·½™œ§~‹©žš”\¾÷2`]RiJcd«¼Õ›¾Ã°…‰¨è:èòçÎèÈÉßÉÅç¹ÉßÉ„å@€ø(øùÄ\ºRR\\RRº\ÄÄººÄMtxxttxž¢¢žž¢¢žxt@÷rüùè>÷:°‹³|«Ûfû‹wB@rpK¯;¡ÂÅœÆ£Õ‰OidŽhûr‚ûx¿@JÇ<÷·½™œ§@‹©žš”\¿@÷2`]RiJcd«¼Õ›¾Ã°…‰¨è:èòçÎè»àráuwÅç÷‹å{€øžù 9£ay‚vot]¯—qu€“yyx-n<_zÞq•Ÿ£Ÿ˜‘’“¤šyv­{€}¢¦„¤íªä®•µý è>÷:°‹³|«Ûfû‹wB@rpK¯;¡ÂÅœÆ£Õ‰OidŽhûr‚ûx»€JÇ<÷·½™œ§{€‹©žš”\»€÷2`]RiJcd«¼Õ›¾Ã°…‰¨ûbÑ´÷C0æHvø çÆç÷ÚzÔ•æœ€¬€ø³ÜWÒcTWk?<=¸çÚÈÇï±±|ª<æ÷X0x˜ig‘fûA;ûûûõ:÷Î€…0Í€Œ˜™‘™•™ˆyƒ‡y}}“’iR{Ÿ¥©Éª½¼ž€¦ƒ¶[—œ¬€Ó—Ì­À¶çëèàèÌè÷¸çø‘øÐcõû²û¡O÷öüFa×lNEqBû
+kÉ­†øŒ•® ÷"Þûûû=û.û
+ßû÷8âãªµÒ ÷dû³ÅŸÊ¦ÅÃÇ|T¥çëèàè÷/ØÌè÷¸çø•ø§û.÷(,û1û'Æf÷%ö÷% òüFa×lNEqBû
+kÉ­†øŒ•® ÷"Þûûû=û.û
+ßû÷8âãªµÒ ÷dû³ÅŸÊ¦ÅÃÇ|T¥çëèàèÌ÷Ìè”öÏöŒçöøÃÈa×lNEqBýû
+kÉ­†øŒ•® ÷"Þûûû=û.û
+ßû÷8öâãªµÒõ ÷dû³ÅŸÊ¦ÅÃÇ|T¥öŒ÷x÷ ûG÷ ûçëèàè÷wÌè÷¸çøzø¿û²÷c!÷Ä>êüFa×lNEqBû
+kÉ­†øŒ•® ÷"Þûûû=û.û
+ßû÷8âãªµÒ ÷dû³ÅŸÊ¦ÅÃÇ|T¥‹è÷Œè÷‘èø}øÐcõû²û¡O÷Ûüƒèû:÷éû}.÷ ûŒû9.‹è÷Œè÷<Ø÷‘èøø§û.÷(,û1û'Æf÷%ö÷% ×üƒèû:÷éû}.÷ ûŒû9.‹è÷ŒèÙ÷÷'öŠèsöèôøAø”÷ ûG÷ ûøü”èèû:÷éû}.÷ ûŒû9.‹è÷Œè÷w÷‘èøfø¿û²÷c!÷Ä>Ïüƒèû:÷éû}.÷ ûŒû9.‹è÷Œè<ç¼àráuwñç÷kç×ø£ù 9£ay‚vot]¯—qË“yyx-n<_zÞq•Ÿ£Ÿ˜‘’“¤šyv­×}¢¦„¤íªä®•¼ý è@÷i·ª¨|¤µl[™WUSypb×«û?.ÚûŒ>.÷‹è=·÷c¶¼Ë—¨Î‘ldûT?.è÷¦è·é÷ØèøŠøÐcõû²û¡O÷ùû©÷9÷	û@ûû<û-û=÷-P÷÷÷Ï÷6.*;a=P ¥÷àÒÀä÷¸@Oè÷¦è÷.Ø·é÷ØèøŽø§û.÷(,û1û'Æf÷%ö÷% õû©÷9÷	û@ûû<û-û=÷-P÷÷÷Ï÷6.*;a=P ¥÷àÒÀä÷¸@Oè÷¦èË÷·é¡öÏöŸèìþø¿÷n÷9÷	û@ûû<û-û=÷-P÷÷÷Ï÷6.*;a=P ¥÷àÒÀä÷¸@Oìw÷¸÷ ûG÷ ûè÷¦è÷w·é÷Øèøsø¿û²÷c!÷Ä>íû©÷9÷	û@ûû<û-û=÷-P÷÷÷Ï÷6.*;a=P ¥÷àÒÀä÷¸@Oè÷¦è»àráuw·é÷Øèîø£ù 9£ay‚vot]¯—qÖ“yyx-n<_zÞq•Ÿ£Ÿ˜‘’“¤šyv­î}¢¦„¤íªä®•§ü&÷9÷	û@ûû<û-û=÷-P÷÷÷Ï÷6.*;a=P ¥÷àÒÀä÷¸@Oè.÷Pí÷B.èºÙ‹wâç<ã÷uçEä–€ø™ùR±û$!û%õPf™@÷1û'ê÷4ûÿÔS·Kû•sH‘°´à¡–€´·‚{¬¦€Sç•€÷B/t™g]”_4'e(û÷ Ñ…–@¯ˆ·ªz–…Ž€iLzVIZ›”rV€Ñ/–€ûPç¨z¶¾¾™@÷äÃãæ<è÷Œèïæ÷içxøvøÐcõû²û¡Oøüƒè>÷éû<.×¸û]ljfmO;ˆÁ¢÷ªû=.ÙûKeu‘zI¢×pÊ½¸¤°xlæ<è÷Œè÷<Øïæ÷iç|øzø§û.÷(,û1û'Æf÷%ö÷% ÷$üƒè>÷éû<.×¼û]ljfmO;ˆÁ¢÷ªû=.ÙûKeu‘zI¢×pÊ½¸¤°|læ<è÷ŒèÙ÷ïæXöÏöyçyvø:ø”÷ ûG÷ ûyøEü”è>÷ézû<.¹×û]ljfmO;ˆÁ¢÷ªû=.ÙûKeu‘zI¢×pÊ½¸¤°ylæ<è÷Œè÷wïæ÷iç|ø_ø¿û²÷c!÷Ä>÷üƒè>÷éû<.×¼û]ljfmO;ˆÁ¢÷ªû=.ÙûKeu‘zI¢×pÊ½¸¤°|lûKèøCè’÷rûJ÷ª¹÷nèøŠøÐcõû²û¡Oøû.èûn.·ûûbû÷bºèûr.Ô÷4ûº8ûØû.÷ªèJ÷”øCûKèøCèÙ÷’÷rûJ÷ªû9öÏöD÷næøNø”÷ ûG÷ ûåøAû?èæûn.·ûûbû÷bºèòûr.Ô÷4ûº8ûéû.÷ªèJ÷”øC‹è÷çÈÙ‹wõç÷lçÜøŽùR±û$!û%õPfì÷1û'ê÷-üƒ÷D/8ûF÷¢÷¦Îü$û:çÕ÷7û¡û£Dç÷Ü¼Ü÷çáè÷Èçø÷¦ûaŠ”‹••’‹‘Œ’÷n¤ÜûvÔ¡Á¶ß¿Ämg Jç÷s/W®eTœ^û/8ûkHr:Ûx‹ŒSr:èû©Ý2÷(²÷ŸÐ×SÏukN`;DQµÒn÷6~˜øÐ—û*™÷-—š÷”“üSŒ}™øÐ˜û+™÷â ûE‹÷€’ð‹ü¯	è
+èŒøìendstreamendobj16 0 obj<< /Type /Font /Subtype /TrueType /BaseFont /WM_LOGO2 /FirstChar 0 /LastChar 255 /Widths [ 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 248 328 328 652 495 786 821 168 370 370 500 495 271 327 271 277 495 495 495 495 495 495 495 495 495 495 271 271 495 495 495 365 985 666 666 683 741 562 526 722 770 320 320 674 550 877 758 788 546 788 626 529 659 732 710 991 659 602 548 370 277 370 495 500 500 450 485 441 507 443 272 438 539 250 249 500 254 766 541 493 493 500 337 342 329 517 484 690 493 423 354 495 495 495 495 500 495 500 271 500 444 1000 495 495 500 500 500 308 500 500 500 500 500 271 271 444 444 500 541 1000 500 730 500 308 500 500 500 500 248 328 556 495 495 616 495 495 500 817 316 460 495 327 817 327 329 495 500 500 500 576 500 248 500 500 350 460 833 958 833 365 751 751 751 751 751 751 1034 683 562 562 562 562 320 320 320 320 741 758 788 788 788 788 788 495 788 732 732 732 732 602 546 610 450 450 450 450 450 450 709 441 443 443 443 443 250 250 250 250 556 541 493 493 493 493 493 495 493 517 517 517 517 423 493 423 ] /FontDescriptor 17 0 R /Encoding /WinAnsiEncoding >> endobj17 0 obj<< /Type /FontDescriptor /FontName /WM_LOGO2 /FontBBox [ -167 -204 1283 904 ] /Flags 4 /CapHeight 0 /Ascent 904 /Descent -204 /StemV 25 /ItalicAngle 0 /FontFile2 18 0 R >> endobj18 0 obj<< /Length 16727 /Length1 16727 >> stream
+     €  0OS/2?úî   ¼   Vcmap¼˜»Ù    Vgaspÿÿ   h   glyf¾7é   p  /Èheadý'¿  48   6hhear,  4n   $hmtxØŽ/Š  4’  °locaT,GÂ  8B  Úmaxp´  :    nameû*  :<  Öpost¿¥J   ?  E 2  š3  š3  Ñ f          €  §P  J        HL   @  ûÓþQ3>²  A                 L      0   F @   ~   ¬ ­ ÿ1ÇÉÝ~    " & : D ¤ § ¬!!"""""""""+"H"eðûÿÿ       ¡ ­ ®1ÆÉØ~      & 9 D £ § ¬!!"""""""""+"H"dðûÿÿÿã  ÿÁ  ÿÀÿýûýúýìü à·à´à³à²à¯àà”à6à4à0ßÇß¼ÞÝÞÚÞÒÞÑÞÃ  ÞÇÞ»ÞŸÞ„éé    D   B                                                                w ä 
+                                                                       	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a   „ … ‡ ‰ ‘ – œ ¡   ¢ ¤ £ ¥ § © ¨ ª « ­ ¬ ® ¯ ± ³ ² ´ ¶ µ º ¹ » ¼ Ò p c d h Ô v Ÿ n j Þ t i   † ˜ å q è é f u ß â á   æ k z   ¦ ¸  b m ä   ç à l { Õ  € ƒ •     Ê Ë Ï Ð Ì Í ·   ¿   Ø e Ö × ê ë Ó w Î Ñ   ‚ Š  ‹ ˆ  Ž  Œ “ ”   ’ š › ™ À Á È o Ä Å Æ x É Ç Â   ÿÿ   d  œš   $ 8  3!%!!67632#&5454&#"7632#"/&54d8üúÔý,¯5;\p.@?H #£B:&@9	
+8	
+8	=šúf26ì_P1cPPh/&_a3LK9Büÿ:
+<	>
+G		
+  ÏÿûÉ°    46327632#"/&5491*)*)PRPP	X
+H....ûô¡TVXe   eT?)    #&54632#&54632Å>)''+ú>)''+Tg
+%('%þ™g
+%('%  u  Ãš    3333!!!!###!7!!7!TUòV¦]òŽ\þýSþèŒ\‹ðŽ\ŒþïVþÙ'[þÞ"?þ#Ýþ#aþÞbþ(Øþ(Øb"a   qÿ Õ . 6 ?  3273#&'&'#5&'&#"#33&'&547675>54'&ADI
+	2g1<lJ?ñ£ï¥I¼N
+	212ÍHÖU\}i¡I}­E>ðwPV74f-þæ†-	ýä]´®ÅÎïí#-K·V{CV[ž¦iXdüýžžŒtC;CImb76     >ÿã³  * . > X  2#".54>327>7654'.'&+3	2#".54>;>7654'.'&+Áb¹he¹ed¹fh¹‘U@99?hX?:9=h_¬TüV
+aºhe¹ee¸fh¹‘U@;9?hX?:9=h³bµdc³ee³cdµbþw\£+(dV69 !]¥*&bV:;ûšµúKÿcµcd³dd³dcµcþv\£+'dV69 !]¥*&bV:;     ˜ÿðy®  H  %"326"&'#" 5467.546323273#&'&#"67654+5!#";67ýÖv{GBHºeX¢ˆ8¦TCØ…åþÝ˜•*)šiDJ		.`.7dU8ARfb>Z»Z_2|m‹11gÄ«¬v[µJSXC‹2kJc-ë¡Ó.=n8i¸'-þç…-%[Hƒˆýb’bN4a22ã„ ˆoç  eT)   #&54632Å>)''+Tg
+%('%  üþŽ¼%   73#&üÃ«P¬:99:¬P«ÃYú½òÄÁþ¶þ¶ÀÄò½ù    :þŽú%   #6765'&'3
+ŠP¬:99:¬P«ÃÃþŽòÄÀJJÁÄò½þþëþëþ   Úò%+ d  &'&546326767632#"'&#"#"5"'&'&'#"'&'&5476767&#"#"'&'&54767632ò!%/'%1$!B/3
+
+3)(,=D
+
+%&		F=,)'6			6/G;B '$D=E27
+$	7 	MC::BK
+
+"5	#81   WŸ…   !5!73!!#µþ¢^‹]þ¢Œ‡ŒqþŽ‹þŽ    wþÑs   2#5674'5î,YŽDIƒVmë++“w**   t™*%   "=43!2#œ()d)(™SS     ÿû{	   ?632#"/&54‘RPP	X
+§TVXe    ÿÎzš   #3]PP2Ì    Mÿç©³  +  2#"&546327>7654'&'&#"ûlÎtqÍppÍqsÎ¡_GA@FsaGA?Dt³ÀþœÂÂþ ÄÄ`ÂÂdÀüþ´þÀTNÃ¨kq>@µDRL¿©ns>    Ú  š   353254+5$73;ê`gub$#2g`2ë2?qûƒë2   r  ¨®   4&#"#5>32!273!7 Ò¬dªi'˜m·÷ý¦‚O1gý1_”Âƒ12lò°þúýrpè2£    Sÿê® (  %2654&'5>54&'"#54632 #"&=3³—†Y„Q~noDo*“R›Ìz„]Ìþàµ˜¿1¬é¤hË/-—†nŸZBŸ¨¥Wž<ñž£þúN1dSd     +  æš    ;!532=!533273XþX1HLþFLQýÓ”"…<1g¶®ýRd«u22x¨#%ü„è   Mÿê£Î   !273!2 #"'&=332654&#"åŒg	2?þShâDþáµ˜`\.¬ƒ—…Ü¯(TF4¬þaù°êþú'%-jX_éçŸÔ  Mÿç©³    %2654#" 632#"5 .e|Èt[¿z±þÕT`ªlÎtq¯Ró÷¢Å•ËË•™þÏ¨0þ±þÔ]rÓttÑtEÒ@u  `  –š   !"#7! ;!5325áþq…;2gÏþŽCuþeCH"pè2üžþ­22ƒ(     Mÿç©®  + O  67654'.'&+;>7654'.'#".546767&'.54>32(y#Q;73	9aOcrC8_G@@Fs}*(gtqÍppÍqsg))V^`«[Z¬`^U>cKAQ’%!VL13Pcˆs[h¹0,pa>A$%pÉO8ÍppËqqËppÍ8	,žWW VV WWž,  Mÿç©³    "3265456 #".54>32 Èe{Ès[‘Àþ†±+T_«lÎtq¯Ró÷þ^Å•ËþûË•™1úX0O,]rÓttÑtþ»ÒþÀý‹     ÿû{¾  '  ?632#"/&547632#"/&54‘RPP	X
+RPP	X
+§TVXeÅTVXe     wþÑ{½     7632#"/&542#5674'5‘RPP	X
+m,YŽDI[TVXeý·ƒVmë++“w**    W ÁŸÙ   	5Ÿýqü¸H2þ™þ§áSä    WëŸ¯    !!!!WHü¸Hü¸wŒÄŒ   W ÁŸÙ   5	WHü¸qýÙþSþ§cg    „ÿûšš  ,  632#&5454&#"7632#"/&54„€r„ A\Zg#/2é^ST^[RPP	X
+2hˆrEŽsq•D?~ŠIm–jR^QûµTVXe     dþ^Zš 
+ P  367.'#"&5>7>5.#"#54763365'&!"  3 %!"$54$3  ÌSˆ€wa6 ?KjPáh¡]CVNZHc-HIim©^¹¤ÔÅþåÍþ‰RC_-þùþÌðþFôø»ëjî°¯n
+Œk®¢Ü?ý›"%%7É…WŸG50EpvBŸ}_ý³u#9âOÍ¼þíÚ²·þÇþs¸ÐK¸õ·òò½ïþ4þ°þò©¨  H;
+%< 0 J U s ‘ ² Ï Ý î ü*/6;  #&532?'75'75'5####"'47432"&=4?5&+"#5672#4'5#&+36=73#&=4%#&+36=73#&=4%+&#""'6;;6=4'&54%#4'&5633654'&54%3#&/##'%3#"'&++"56%3#&/##'%3'#3'#37#'5%73#&5&##&'##'734'35'#"!34'C80_Á;K8#-
+
+u§þn
+1' 4È“+)®18 T8ûãi&,hX11
+
+>&“ê]&,iX11
+>&“¯0$(	bi )8eø;	8+_!eB%;[(øsh&b&	te'
+
+oÓu&b#€
+'B_H+Aƒ
+ú	Xy!
+_E 
+*Ô$Q$WR$Ê$R$<+X Ri”Ug
+8ˆ0I$"mØSP(“m‡PŸ
+vXCV¤°ýi@C
+KKhk@C
+NKhk 9!#7	
+$ >
+!)&7	ÖROææ4'[ÑéRPä	S`Ù–«äLU
+–z&£á.NAKKNA    - M
+D(    = P a i t ‡   « ¹ Å Ê Û î ò ö ú þ
+"&*.38=AEJOTX\`–³  3#73#73#7373#'435#'#565##475#47475##4?5#736;37336;#5"#"3373#7#"#'#3+'#;#67"573+3#3#'#;36;#575##5#+5!3#5##32#"5#+3##'#7#73+323573#"'#+5'#&5735'563#7337#3#73#%753#73#!35!3#73#7#43#73#373#!375365!3#73#3'73#!3753#73;#727337'337373373#'#5'#5##5"#%33'#?355334;#3#55##5##5 ++Š? 
+É  *   5 `j*©‰5‰@ `
+‰
+oš?@
+5M+* @? ?*
+é4 
+$PŠ5@ ©j5
+*5
+4T"ò4?
+@558@
+
+5 *+ß5_ 5*¾Š5*  ”K"5*5*5 *5*95
+5*öwŠ 5
+þ¢Š**Òøz
+
+‰  h
+ùc‰+5j
+
+5é u445*5j*þD
+t55@+ Š*5
+
+þ$t55@55¥+
+
+
+
+
+
+
+* 
+*
+ 
+
+
+U
+ 
+  
+(,,þà":J9!
+'!"9+V‚‚þÕ=H+sþÑ‚‚.þÃ.HØ¬;:H++:.V‚þàŸ‚‚.ÉH,,=VZ‚WW=HØØVþÃ=‚eþÃ.H<7H!9HH:H+HW!+H:WWH9HWWH::eVW::+++H    ÿ` ÿœ   !! ü d<  Ô7¡š   #%.54632¡Eþ¶)!)#7Ê((#  ðÿt+ #  >546;#";#"&'4&'ð¬fšllZ=\yRRz\=Zll™f¬º„CÔJ‡2C:þS—–Sþ:C2‡JÔB„ «þ^K)   3#«  )ø5    ‚ÿ+ #  +532674675.5.+532¬f™llZ=\zSSy\=Zllšf¬~„Bþ,J‡2C:ôS–—Sô:C2‡Jþ,C„     ^,›n   #"&#"5>32326›?v9<ë;3qI@v7@ë74qnœH3a8TœI4c8    L  ¨® 0  &+"!!!27!7654'&'#53&546;2#&ìHXdZT5hþ²#¢’‚;1gý1»"¡‡:÷·KÝ:Ce]”‡Š<?K¡Ö„ç2î´MB <nâò¡=  zL{N  K  3276767654'&'&'&#"'7676327'#"'&''7&'&5476^)::)(		();:('
+	EvPv,7,-)*9-vPuuPv-8*+*+9-vPv 0(()::)(	'(:;.vQvvQu.8*+*+8.uQv  vQu.9**,+7   ÿôú¼   %'4&'%"&5463!'!"&5463!&'&#"&54632;2#"&#"3267>54&'&'&54632;2632!2#!!2#!#"&#"#"&54676767>#þÓyþ¨3+Aƒ`ÀD9!!ž)	
+/84‹F&	?T©Cþ’.eÿýî›C[ë	Jáò ¬9bÅD+Ý"F
+
+Œ
+	f	Î9o'
+×rHD  «þ^K*    3#3#«    süëÌüë    ªþ`L®  T  67654'#&'&'&#"67654%.54767'.547676;2#&'&'#"5+"&=3!8)I[;CN^©qHHþÄ{iYCg({iYR†	BÂ3KFON^•oe/4l.7e|™BÂ3KDA%Ae=BYI{üæ?@e}—@’h”YA@’h”YO!ÂQ3/YI„‰C™o«o'8>Mn«pf!ÂQ3-    Ñv]  '  7632#"/&54%7632#"/&54ßGE
+EL	{GE
+EL		HIKVHJLW    dÿî&°  / Z  2#"$'&5476$3267>54&'.#"".54>323273#&'&+2653H‘hfqqjiþô•’þøjjoohfþ³_ffabò‡‰õaahh]`ø†‰úŽô€ƒô„&J'*H,4OHKV¡)!u[H^|Œ5Á°qheþî’“þòiimoih•”ghqþý`÷ˆ‰ôa`fe_b÷‡†û^`ggûÒˆê~~ì…Æ^~rZ^yÎ1(pFd.Q  ® °K    3#3#®VÍÍVÍÍß/%þöþö%//%þöþö%    WŸÿ   !#!WHbýÿþˆ   dÿî&°  9 Q i  ;>7654'.#;!53254/"';!53254+5!2#"$'&5476$3267>54&'.#"ï!=0AŒRd2"þ¦-EK**$5þÄ+%%+d@=<A@â‘hfqqjiþô•’þøjjoohfþ³_ffabò‡‰õaahh]`ø†‰úKþŠ8E?25Cs%ýõt22Uf*Ÿy22yyF))’ON‘2qheþî’“þòiimoih•”ghqþý`÷ˆ‰ôa`fe_b÷‡†û^`gg   <vh¢    "32654&'2#"&546SV{zWWxyVs¢¤su £\zWWxxWWzF£sr¤¢tt¢ <6	š   >32#_#)!)þ¶E_#((Ë  ]  ¡›   ####.5463¡R¦T®Ë×²›Fú«Uú«â½—À  8{F   7632#"/&54‘RPP	X
+äTVXe  hþ^      32654'&#"73672#"'hUCB91(>0?% V`ufmPþÞ4+--°hQILY    e °    7#553#553sÍÍVÍÍV°%
+
+%þÑþÑ%
+
+%þÑ     ¡sU'   '7'77û÷c÷÷c÷øb÷÷cj÷c÷øb÷÷c÷÷c  W ìŸ¯   ,  5!7632#"/&547632#"/&54WGýïRPP	X
+RPP	X
+‡Œ‹ïTVXeÅTVXe      Ú¾   %;!53254+5673Hd.þF.do0Þ'0ß­22­°M,Eq  Ý7#š   3#'Ýèvè:éé7cþØØ  Ý6#š   373#Ý:éé:èvšÖÖþœ    þ«(   5!þ«}}     Û7#E   332673#"&Û3tmmr3”{z–EIDCJ…‰Š  ˜vo]   7>32#"&/.546¦EGG
+K	HL	LW    O7²š    32654&#"4632#"&›:**:;));LfJLggLJfé*::*(;;(KfgJKgg qþ^á     !3267#"&5467€GO6.(;$mAFXye>s7/8!?DG7L¡7    êl(f   +"'&#"#>3;267(aN2?B0'+6bP.C@0$,fgf)3ji(.    Ù7&š    >323>32Ù+(Íã+(Í7,&(&Ô,&(&Ô    8£   5!8ä£xx      £    5! £xx  ºø¶)   "&5463?,YŽDIøƒVmë++“w**  wøs)   2#5674'5î,YŽDI)ƒVmë++“w**   wþès   2#5674'5î,YŽDIƒVmë++“w**   ºø)    "&5463"&5463?,YŽDIê,YŽDIøƒVmë++“w**}ƒVmë++“w**    wøÔ)    2#5674'5%2#5674'5î,YŽDIØ,YŽDI)ƒVmë++“w**}ƒVmë++“w**    wþèÔ    2#5674'5%2#5674'5î,YŽDIØ,YŽDIƒVmë++“w**}ƒVmë++“w**    Gþò° 2  &'&5463267632#"'&'#67#"&54632æ.9H<9K7.	`Qe1<7- hU^fj&lf	`Re1;7, iUþaQe1;7, iU^.9H<9K7.°eþ4ýþÌe°
+-9H<9K8.    Fþò¯ [  %67632#"'&'#"&54767#"&54632&'67#"&54632&'&5463267632#"'&'^Uh -7<1eQ`	.7K9<H9.^Ui ,7;1eR`	ff	`Re1;7, iU^.9H<9K7.	`Qe1<7- hU^ffº.7K9<H9.^Ui ,7;1eQa	.8K9<H9-
+â¬«â
+-9H<9K8.	aQe1;7, iU^.9H<9K7.â«¬   Ø¥(õ   4632#"&Ø®{z­¯z{¬Î{¬­zz¯®  ÿûÑ	  ' ;  ?632#"/&54%7632#"/&54%7632#"/&54‘RPP	X
+»RPP	X
+»RPP	X
+§TVXeTVXeTVXe  ® °   3#®VÍÍß/%þöþö%   e °É   7#553sÍÍV°%
+
+%þÑ   þªÿãª˜   3þª¬TüVµúK    0  *š *  #534+5!#&#"!2=3#54#!3#;!5325÷ÂÂg`“g1;ƒþÄfid22dþ—ÂÂfaýÐ`ge<Üë2ç¶ëþ ?:þª<>þç<Hë22ë    L  ¨® 6  &+"!!!!!27!7654/#53&'#53&54632#&ìHXdZT!|þ˜`þ¿#¢’‚;1gý1»"¬‡q$÷»KÝ:Ce]”jk<<?K¡Ö„ç2î´MB<<kVâò¡=   0ÿí¯š  0 z  327>7654'.'&#"#'7;27654%.547%#"'&';!53254+5!323!6732#.#""'&#"#"&'#™)C9;
+	DvUB88
+}³"5G17;9F\;;þýeVIþ8)2¶cd[!faýÐ`gg`j\Y[42
+Ø2*D6Ÿ*{H@Mëz[Sf~:/|chýj	f3,†nW\tÍ*#þ$ýSQ&À‚,,45Sf|4xUyIe]r@þÏë22ë`ë2<>sq|cþŸBTI<lp7}[Œ[Trw¯ ÿÔ  +Î C  &'#73547#73676$323273&'&'5&#"!!!!67653"$Œ>lWG:>Q"™+,(*)T(1Y+&23xÔ3 ÂýL¢ýtBJwfrºFJ0oi¢µþßt‡’<<‘ˆ²À
+-þç†,
+Ë¬hk<<žŒODX[^F96Ä    Mÿç©³  1  327>7654'.'&+#".54>32& '5  è_G@@FsaGA?DtÁqÍppÍqtÎlmgTþÕ±2¢)&zØ95ƒrIL*+zÛ82rT…„î„„î„ƒð‚Aë7ýÆ       1š    	!	!þj!þ–ûÕ«ûÐúf    0þ^»š #  ";!53254+5!#";!53254#ÿffaýÐ`gg`‹affaýÐ`gghëúÿë33ëë22ëúÿë22ëë  xþ`xš   	!273!527	&#5!#&#!#üì{‚;1güg>,—ýi,>™g1;‚þ$ün¶è25[92è¶  W‡Ÿ   5!WG‡Œ‹       373#µ¤JUØ–Hg#¹¾<     B`·:  + O  &'&#"327>7327>76=.'&#"67>32#"&'&'#".54>32·;.&1W3. /W;RE6
+>oC:%'Cx0	"zCCzDDzCCz"	^44`33`44^óg
+E2.,0R
+CT`90P=66<a	j#"Xb`®__®`bW##IPR‘ML’RPH ÿ¸þçÕ´   "=3;27677632#.#"<$CR! FØ~<$DGZIÝþçŸ++¢¢šÞ>îŸ++þÉÐýçþ†   ^›  '  #"&#"5>32326#"&#"5>32326›?v9<ë;3qI@v7@ë74qI?v9<ë;3qI@v7@ë74qœH3a8TœI4c8þøœH3a8TœI4c8   W ŸÙ    	5	5!Ÿýqü¸Hü¸G2þ™þ§áSäû(Œ‹   W ŸÙ    5	5!WHü¸qýGÙþSþ§cgûÐŒ‹         ÜO”’_<õ      Ê¹ÿ    Êº‡þªþ^
+D<           >þN Cßþªû
+D                ì  d    ü  ü    Ï  e8 uö qJ >“ ˜Z eö üö :  Úö W- wž t- 9 ö Mö Úö rö Sö +ö Mö Mö `ö Mö M- - wö Wö Wö Wì „ã dV HV w  î    7  Ç  +  ‘  ‘  f  h      N  `  N    =  F  Ý  °  î  F  Ñ  d  ö  9  ö  ö       Ôš  ã  ‰      /  ƒ  P    þ    
+  !  T  ò  ò     ´  ¾  ¢  #  á  ‡  ò  d  ×  ö ðö«ö ‚ö ^   s  ö Lö zî ö«ö ª  ÑŠ dˆ  ° ®ö WŠ dž  ¢ <ö  ö  ö   <œ    ]ü  hö  Î  ° e¬  ¬  ¬  ì              F  w          ‘  ‘  ‘  ‘  î    N  N  N  N  N  ö ¡N  Ý  Ý  Ý  Ý  Ñ  `  ã  š  š  š  š  š  š  ®  ‰                  s  T  ò  ò  ò  ò  ò  ö Wò  #  #  #  #  d  ò  d     Ý  Ý  þ  Û ˜ O q  ê  ÙT 8   - º- w- wŽ ºŽ wŽ wö Gö F  Ø  w ®w eVþªö 0ö Lì 0öÿÔß  Ù  ö M9 ë 0¶ xö Wö ö B™ÿ¸ö ^ö Wö W1  9     V V V V † ° ìNÖ@Xzœ,H`v˜¦î
+4pšÊ $šÒDZn„ÈFô>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Jbbbbbbbbbbbbbbbbbbbbbbbbbbb˜¦Þ   Fº|
+HÐÐòžžÄÄÄÄÜÜøBBBdddddddddddddddddddddddddddd~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ÄÄÄÄÄÄÄÄÄàò,\‚¤Ìö(@X‚¬Ö$¤º&:J„Ò~äää4Jz¢°Ä:l¨Æäää    ì´ -                         (æ        4          ;        4        ;        ;       / P        ;      
+ ?     ¦     ¾     Î     Ú     ê  	   h ú  	  p  	  b  	  *p  	  p  	  ^š  	  p  	 
+ ~ø  
+  ¦    v    ¦    Ä    †    ”    ¦    ¦    ¦    ¶    Ä    ¦    ¦  $  Ô  -  â  
+  ¦    ¦  
+  ¦    ¦Typeface © (your company). 2011. All Rights ReservedRegularWM_LOGO2:Version 1.00Version 1.00 September 8, 2011, initial releaseThis font was created using FontCreator 5.6 from High-Logic.com o b y e j n é n o r m a l S t a n d a r dš±½¿½¹º¬ T y p e f a c e   ©   ( y o u r   c o m p a n y ) .   2 0 1 1 .   A l l   R i g h t s   R e s e r v e d R e g u l a r W M _ L O G O 2 : V e r s i o n   1 . 0 0 V e r s i o n   1 . 0 0   S e p t e m b e r   8 ,   2 0 1 1 ,   i n i t i a l   r e l e a s e T h i s   f o n t   w a s   c r e a t e d   u s i n g   F o n t C r e a t o r   5 . 6   f r o m   H i g h - L o g i c . c o m N o r m a a l i N o r m a l e S t a n d a a r d N o r m a l n y1KG=K9 N o r m á l n e N a v a d n o A r r u n t a       ÿ' –                     ì           	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a £ „ … ½ – è † Ž ‹  © ¤ Š Ú ƒ “  — ˆ Ã Þ ž ª õ ô ö ¢ ­ É Ç ® b c  d Ë e È Ê Ï Ì Í Î é f Ó Ð Ñ ¯ g ð ‘ Ö Ô Õ h ë í ‰ j i k m l n   o q p r s u t v w ê x z y { } | ¸ ¡  ~ €  ì î º × Ø á Û Ü Ý à Ù ß ² ³ ¶ · Ä ´ µ Å ‚ Â ‡ « ¾ ¿ ¼ ÷	 Œ ˜ ¨ š ™ ï ¥ ’ œ § ” •
+uni00B2uni00B3uni00B9uni02C9lirapesetaEuro	afii61352uniF001uniF002endstreamendobj20 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Courier /FirstChar 0 /LastChar 255 /Widths [ 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 ] /FontDescriptor 21 0 R /Encoding /WinAnsiEncoding >> endobj21 0 obj<< /Type /FontDescriptor /FontName /Courier /FontBBox [ -6 -249 639 803 ] /Flags 34 /CapHeight 571 /Ascent 803 /Descent -249 /StemV 32 /ItalicAngle 0 /XHeight 433 /FontFile3 22 0 R >> endobj22 0 obj<< /Length 19889 /Length1 19889 /Subtype /Type1C >> stream
+  Courier 3ø øøøøŒût¿…ûùù·  ¬÷e÷lÂMz zEuro004.000Copyright (c) 1989, 1990, 1991, 1992, 1993, 1996, 1997, 1998 Adobe Systems Incorporated.  All Rights Reserved.Courier   ã‡  æ    7 a ö¦½î"Z{“§ÆÞHl¾3d¶@cÜQ‰¶Õô	0	~
+
+j
+Ã@›Ö÷<Ž´ø0|×“ô›Í\©M}™³Ïÿ+­V´VÉDœó‡Ù…ê7¾ SŽØ:€®)Ü€"9’Ë>T€·Øø h ¼ Ï ó!(!I!}!ž!¶!Ù""5"‚#8# #º#Ó#ø$E$X$…$š$¹$ï%9%_%’%´%Ç&$&—&Õ'R'®'ç(¶(Ô))ˆ*&*Ù*ý++[+¯,,,½--w-º-Ù..u/#/i/ê/ý0‚0µ11ž1ý2n2Ú3:3½4P4ð5D5®66e6—6Ü77M7É8%8”8ø9U9æ:±;;ˆ;ò<U<§=
+=\=î>?1?Ä@‚APAÞBHBÁC4CžCÌD	DIDwEEbEÄF!FtFþGŸHHuHêINI¢JJOJÒ÷ødw÷‚÷(ÈÐ÷íøÐ=ü·à¹û«i¦kanmmm©m²³§§¬÷¬÷¸‹w÷;÷¢`øIøÐ- ¢û¸¼û,÷¸+¢û¸½÷ À÷7Áÿ ž€ ÿ 3€ g¾g¿ÿ p€ ¾hÿ 2€ ÿÿÜ€ ÿ 2€ ÉÊøŸ÷ Àû •÷7ÉíÁ,™÷yX~ûyû$™÷yW}ûyûUÑ÷û7ä&Vì~ûm¾™÷m÷#~ûm¾˜÷mÒg÷l€û7û$•÷7’÷3û,Á÷í÷*IÀóÁ]À÷ÂíÁjÀ[ V€ø‰÷;Èlµ'¥&¥Rš\¤¿ÂÓ§Å[ ¹º|u²k \Á÷*UW ]l›k™hóT"KŠ)e#ŠuŒQæhZ€ÊrÑ‡Én§~ xe=1zIZZ–ªg› ÃUû3Á[ ´¯w°¶‰û+Â÷,V€÷”ÇÍØÃ÷Â÷Ã÷ÂõÂÈÃ¡ÂÉÁýÿ÷÷ø†ÌcÆ5@[OJI¼Q×ÒÀÄÏTŠjsh_cl¥´´¦©·¶¤jfý÷?üÌdÆ5@ZOJI½Q×Ò¿ÄÏUŠjsh_cl¥´´¦©·¶¤jfõ÷Œ|Àü3û1™XÂ`Â÷5Á÷kÁèÂ‘Â÷p÷zøËÂûr°¦°œ¸”µÚÁûa|Vpdvû"÷^‡k´²¦¨®Ä²±zu©Ÿº¦d]žX9YXRei¢h‹’€…º Q…6lQ°4öÂÁ¡³°z®YºKéusnnTY[®ÎÐº¯±œøÐw÷F÷?÷ñøÐ,?ûË*ù}÷²ÂøbùUEûWû,&û'Êû&Å1À\ßC÷÷$÷³õÀî*ù}÷™Â÷Ð÷²ðW÷,E÷U§WÀ(³!ûû$Cû\7ÀÅåÊ÷&÷'÷—v÷âw÷›Íø{ø#zÒû$W‘÷.C‘û.û&¿{D÷!f4ûÈiÙ÷
+Öû
+È­5÷÷RÁ÷¦Áø–÷RÁûN÷PUûPûQU÷QûPÁ÷Pû÷Ž÷I÷=÷ò÷,AûŽÌ÷qÂ÷÷Ôø_÷qÂûÔT÷÷~÷ø¹ªo©cekpjm¨nµ«®£­û#ùàçø0øŒù<\ üýËºvÂøzÂ÷Â÷§Áø„÷¾¹‡ãdÌÆh_§Hwwˆ†y8rg0€9‡lˆ^~+Ÿûa÷@÷M’÷léU‡‚&zû!û
+3pÖ£…¹„½½÷¦÷÷·²td ¦X‘NŒN‹Âø¥w÷­ÂøÂû?ø¥û{XT÷D¯ü_ûDT‹ÂøoÁíÁ÷¤Áør÷UDû¢÷?÷õáº¼Ú¨ƒ©~£Ìh?§NALpWYDÁÎÓ¨Ä×Ï[;|‡}†}j<DqwûtûDPÂ÷lÂ÷lÁøÁxÀèøl÷.ð=©i“ð²§²¨Ù¬‚¤€ŸµsU¯HHPtiV_˜¡Ç­Ìá²VXYcM ˆT›è¨¨‰„§®‚»mTIJ\.QO[}\¯}sÈÒ…¡éöÀ÷‹ÂöÂ÷Ç»÷ãÂøxÂ-öéÂ-÷÷;ûûýZ÷¦ ûT÷ø ûÇûiÂ÷‘Â÷:Â÷Â÷ Áøˆ÷?éHáû]\yf÷X÷·ÂûîûÅ²‚±ÊÀ‹šîÁLKCNU!MN T€TwÈÍxÎ÷?¸÷Î~Â÷‚Â÷UÃìÁ÷¡ÑRÀôøø~ø£ÄDGN{iX8SP4û*ûU÷NâôóÖÕïèLÜû5\\enŒ÷ºæÜ·ø ²¾™¸Œ‰‹ Œ •–‹Š’ôRüUiK(RY¬¼v…™§ˆ¢¾¦Æ³Ì··yg¢–y’rt vø™ÂðÁ÷µÆø‹ø–Åü&ûÁÝ÷µûXü™È~Ã÷pÃ÷fÃóÁdÂ÷ŠÁgÁòø€÷0äN®g™ì®·©ÞÎcèû#>Q#M§a»ròuFc16Ð;÷÷Ò×èìC÷ LWaCi3–çîè“¨×»\Qòû¤9=pP\+šåíëœµØÌbE~Ä÷IÃ÷ŒÂ÷	Á÷­ÁøŽ÷ÚÔ{âQ¿©j[›[û@7-0Å1÷ÆË¦À¬û7BL0rƒnj‡j„…„WRÎ±²”²÷
+¨é÷ ÷PS²f}O\D4\ÂÒÓÂ½Ù²·|i¤ n›]Œc}÷÷$÷÷÷ø÷Êœz´Vfkpjk¬p±¯«¤¯û›œz´Vfkpjk¬p±¯«¤¯÷÷÷Ž÷ø÷Êœz´Vfkpjk¬p±¯«¤¯mûQ+CûŽËŸvè¹øŠÂûô÷'÷ô÷'Ãü"û8=÷ÁñÂàøAø–÷žÂüATøAû0ÁüAU vøp¹øž÷7Ùü"÷7T÷ôû'ûôû'T÷÷-v÷¶Â÷Á¦÷*Â÷Àöøuø4¦„¦€ ËjD¨BPP{y\ûÁÉ›­³–³÷¦Be)ûvB}"ÂÆÕŸ÷°÷úû!üªo©cekpjm¨nµ«®£­}°ß¯÷n°÷ °²¯ô¯÷«÷(°øÉ÷½Øt¹i´Ä[C¤AûF*ûû4ûÍû,÷Qßá©²Ì|¯X3FzI@H«Ïcu°¿»÷Ç÷÷B÷óKû"2^GYqpŸ®¢”£‘ ®÷f}YÂzkŒ~JC+*požv~–›‚¡´¯©¬žn©iºÛÂÞöûe‘Jb,Qi„±¡Á¹ó½°’bz‹Â÷Â÷¹Âd²…÷h÷P÷eìøïÂUûdø™û‰T÷#ûKübMT÷hÂ0¶÷÷µ¸û)Tª÷tû‰Ü÷÷É‹Â÷[Ã÷cÂ÷Â÷«ÂzÂôø·÷*ÙP¶K—ø™’«œš¡›£“«¨§„¦€¢Õh9‘?û”TÙüb=T÷ÌôÈÇ•·°¡¥˜®®ø.÷ n€nvyni^ˆ\û÷câ§­‹†·º†²eXô±û¡m{lk|zffŠaû-÷[÷&¹ºƒs²£|šom~Âø|ÁÍÃøÁøÁÈsºdVHpGû*ç÷2÷M÷ÀÖËÆl\·:Á÷iUNmž¦aZšVû1#ûû-û9æû%÷KÚØ¨¸È‹ÂøbÂ÷Á÷åÂøÂ÷¿÷8=Ú"¢‘mjŒgû†TÙüb=T÷j·µ’³õžÙã÷KTƒR~Rp^Le@}Aûøbîã³ˆ`½«o§J4‹Â÷_Â÷`Â÷Á÷4ÂÕÂZÂüúø°÷STûû»÷_÷4BÂ÷^TAû4÷`ü÷µûÂ÷SüsTÜüb<T‹Â÷_Â÷`Â÷-Â÷5ÂÖÂø¾ø÷RürTØüb?T÷šÂû÷_÷5BÂ÷^TAû5÷`÷·ûÂ÷8Â÷ŸÂ®ÂøÂø×÷cÂû–T÷,ûvKgTû6I÷÷÷D÷ÐîÏÈh[·@Â÷iTI´[G¤Gû(!ûû7û!Ûû0÷`ÔÔŸ¥Ê÷A‹Â÷ZÂ÷eÂ÷Á÷¦ÁøÍÂ=øbÙÂûfTÙûeû¦÷eÚÂûhTÚüb<T÷hÂ<÷Z÷¦ûZ=T‹ÂøbÂ÷¥ÂøÂû7øb÷7ÂüT÷8übû8TÁøoÂ¾Â÷¶ÀøÕø™ÂüT÷ZûÞ\‡Zbo|to…nqû’÷ðTûu¯|sÄÎvÍ÷!ªãÝ÷û‹ÂøbÂ÷!Á÷I÷\øøÂûhÓUßVÍ‹p­~›÷P÷RÔÂû\TÆû„ûƒ÷ƒÚÂûiTÛüb;T÷jÂ;÷0ÞÞ®^Å@¾7µ1‹ÂøbÂ÷2Â÷²Âø¾÷•Tû^û²øb÷Âû²Tõüb!T‹ÂøbÂÐÂ÷óÂøÕÂ\øb¹Âû%ûûèû÷èû(T»üb[T÷8ÂNøb”÷&üµ÷#ø–übQT‹ÂøbÂêÂ÷ÅÂøÞø™Âû‚TöüNû±ø…û0TÜüb;T÷‡Âû øK÷³ü‚Ôø™Âø{Â²Âø/ÂøÄ÷³éX÷`ûbûE4û1û!û8ôû÷2÷6ë÷÷8T‰ûDûûû<÷÷äÁ÷0÷-÷;°û<>‹Â÷)Â÷–Â÷5Â÷®Âø½øâYíû,û TÙüb=T÷²Âû-÷)÷ÌÎ™Ã³¡ª—´´Tq„rwWlM†Rû÷–÷Á¾}Z©–yqtûÂ~ÁÂnvø¬ÂµÃø/Â®øÈ÷¬É}Èp½ÎfBËû 16Y7\q\|SHžû#Ðû ío§ƒnppnpizš^£¹ªšº¹²t~´®‡˜™‰™¯®˜¡¦u·}vqqŒ‚n›ccŸ]||†‰|®™’—’—–›÷&÷ ó÷PTŠû[ûfC1û¾÷MÃ—¹Ÿ¯ØµÕ®ÅÃØo3¸Ÿe’[[‹Â÷PÂ÷oÂ÷Á÷¤ÁøØÂ&jÂQád¼Ì–ãµ÷	á\Òûû¹TÚüb<T÷hÂ<÷P÷±[áû±Fˆø1ûû†O'÷o÷"·¼‡`¡”z‘xvÂ_÷Hÿ AÂÿ 6èöÿ WT{÷M`ÂÓÂnÁ÷¼ÁiÂ­ ª€øŸ÷3Âj¶bžFª/}F©ar¥»ËÌ½å­ ¿Àyh¯µ 2Á÷MU« m§dV™Wû#L)7,Ùkƒ¬€Üh÷ §ÍT™~vvJNa#LK³Zm ÙTûHÂ­ ³`ÉØƒ¹ª€÷îÁ÷	‹ÂøbÂºÂ÷CÂ÷CÂ8øÆø÷]ü—û]Â÷&÷CübûT÷ÁÂûøb÷Cû&ÂønÂîÁ÷ÎÁøìø™ÂûƒTõûÒû@j:fe“ n]¬ƒÅÁ÷À÷ÂûˆTÜû¶BAÅ\k³Ä~Á½É™®²´¯œÈË÷Ó‹¼øhÂ•÷pûpøáûi÷iÐèøëø™ÂûiTéû=ühûAøhçÂûpTÑ÷Sü™Û÷Oø™‹î=vø™ÂŸ÷[÷6÷\xøÙø™Âû\Tïbü4û
+÷õc¸ûû÷^ø6íÂû[T¹Åü™Ë÷÷ô÷
+ûôÈÃø™‹ÂøbÂ¡÷rû^÷`÷÷fûc÷PÔØøÍÂKûD÷‰Ô÷1÷mËÂûPTÉûûBû÷BÖÂû`TÍ÷1ûmèûFû‰JT÷rÂ-÷(÷]÷%û]7T‹ÂøbÂ®÷ZºÂ¸÷WøÓø™ÂûWTÐû"û„û$÷„ÑÂûZTÏ÷Eû»û;ûT÷ÂÂû÷;÷A÷»‹ÂøbÂ÷Á÷ÃÂø¢÷mTû6ûÏøøe¿ü/û^Á÷'÷®üücU*ÂùÂ÷ÉÂø~*Âûù÷ÂûIý}û"ùßçø/ø‹ûüùË]wøýË*ÂùÂ÷‚Â÷¹*ù}ûIT÷ýûTøy÷ïø%ø‰øz¹,Ö`¸eíXj.[T.D]Ö¦Ñ»ÃÃÅPÎ^Öqû¾‹øìøìû¾üìXøÐw÷t÷?ø÷Õ?÷,öûÂ`Â÷2Ã÷ÃÅÃ÷ÂÁ|ø¼Â9÷…¦‰§|¦²vY©6GFwsQ™UšªÓ¦Ï­¬ˆy¨¥{’hjl’_Z’[û8V4P¼JÄEñ×Ð¶ÀÂ|7Š÷*¼OYH\:N`´±¦›¡Ÿ™¥°Áº·µ…„µÂ`Â÷åÂ÷ÂöÁ÷èÂ|¼øÀ÷m÷*ûÛ%!RMrz÷ŸûTÞ|ü™8T÷¼Ð{˜µJ÷÷ß÷÷T%:C6</Á÷ôáÎà÷¿-:Á÷ñÃÓÂ÷çÂø¨ÎuÂur=Q:û0`÷ÌäÓÝ÷ÄÀ}g¶FÂ÷CT[ª][œQûAFû0û(÷4÷èÒ¬¹ÆÂ`Â÷åÂ÷Â¾Â÷ëÁ|øÛÂ;øÐûRT÷û_ÉZG›Uû/'û¼ûØû÷&ÒÌ©Å²|?†÷r¼!FB'ûPãâçÐÝï|÷­&FÁ÷<Â÷ÃÊÄ÷óÆø¬¾zÀ_==y\\^‘£eg¢mÁÀ“ø.÷H÷û5û!/ûû
+Ðû÷CÜÞ¦¯ÌJ÷jûñÆ“ÆÎ÷÷ª&r‹Â÷ØÂ÷Â÷`Ãø›øùjB“cfûŠ8y‡|‹uxW!TõûØ!TøÂûl÷Ø÷lÂûl¿¹Œ²÷±Â……¯ûVÁ÷CÂ÷µÂaÂ®Â÷ûÁìøÉøÂûÜQ±iH¬;û-;û,*Õ ÷2ÍÖ£¼´û.XmûGI—V€U¿àyÞ÷ÙÃ÷ìø,ÜRû5=J'%?ÏÜæßÉë÷ ¯+T‹Â÷åÂ÷Â÷Á÷¢ÁøÚÂ9÷’ÊvÖûEIf^X÷šûTàü™8T÷pÂ8÷Ž¶ºÈ·ÌÝšYTû|9T‹Â÷ØÂì÷÷šÒTÂèð÷áø§÷Dû÷ˆü§ÂèûAøûcT÷,ûØûDTûUÁøšÂì÷÷ÇÒhÂèðøø§÷Dûèæü¹øXûÍT÷–ü|‹r‡}<xOˆi‚`\’’iƒV€»¸‡¼¦­–¢È¨¥»Ý‹Â÷ØÂ÷Â÷Á÷÷lûA÷hôøËÂ-dºbº`³BÏø÷/÷ëÂûlT¹ûDûøûTàü™8T÷÷OÄµô³jÝ<¼MTT‹Âø™Â÷¤Âø‰ÂûBøÐûuT÷>ü™ûCT‹Â÷ØÂ`ÃÎÂ÷2Â÷2ÂÜøìÂW÷š¼¶¼d£–yyŽwXdhgo°}i­X_momoÜ¸ T¿üõÂX¼÷¥¨Ÿ£­¸ÍŽ?ûÅöÂW÷š•®ÌÂ––‰…”¬t‹fdû±‹Â÷×ÃaÂ÷Á÷¢ÁØøÔÂ9÷”¸°„·m¤œvl˜[FHm]XØÊûSÞû×8T÷pÂ8¸÷“¹µÏ¯È¶Ã~Fû“9TÂ÷ñÂ¿ÂøÂø¾÷mãR÷"ûTû!û4û#ûí+÷0÷,ëí÷TŠ';BûûLçÜèÔÞ÷÷5­ûUûVÂ÷Â÷äÂaÂïÁ÷éÂìøº÷q°ƒ°|ªÜÞcA±>5Og\gìÑûTÞüš8T÷¶Âû-÷dcªÂbæ÷ìí÷ÜTŠû6I9.=ÒôæÌÝ÷ ÷­ûQûVÂ÷Â÷äÂaÂ¼Â÷éÁìøÚûVÂ8øšÞÂûÜGµmI²9>=e8c|lƒffûì)÷ÉÏ¤Äºûeû-T÷-ø1û/M996Í÷Å­÷÷÷ Ï;.‹Â÷ØÂbÁ÷[ÂÐ°øÌ÷úˆŸ‡€œ¤{q”l,LATJÐ÷ûHT÷ûØûTø
+ÂûV÷]°ó÷ ¸¬¿¤¢…i’Â÷ñÂèÂ\Á÷¯ÁlÂèÔø˜÷ÞP FF/ˆ]¨|•€Éã˜¶ØÂÂzpµPÁ÷2Uc¦^U˜SûCV5r’pžzÀ[ØÕ…ä·‡¿’¦e„{…AûƒfLTž°[ÆTû>Â¸t¼¼uÛÔ÷ÚÄáÂ÷äÂ÷#Áø—·…ÁwW@hGpq™pnšƒ¯ª÷€÷–Âû–÷UûDTÒû˜û÷ y¿ÕÖ¨¦ÊÁaÂ÷ØÂ÷Á÷¢ÁxøÍÂ9øûTÞ¸û‡YcW_Kpn‘švm¡„¯¯÷©ûTÞûb—b®psª²‚³²¿‘Ô×xH‹ÁjvøÂš÷n÷#÷fxøÞøÂûfTÔ¸û%ûÙû%÷ÙÕÂûnTá÷?üË÷?ø‹×TvøÂ¤÷7÷‡÷2xøáøÂû2TÒ¸7ûÃ5÷¦\7û¤5÷ÁÔÂû7T­÷ üÊÚ÷ÚûÈôø‹Â÷ØÂ¡÷bûP÷Y÷÷NûK÷cØÔø×Â?û>÷AØ÷%÷+ØÂûNT´ûûû÷½ÂûYTÚ÷'û*äû>ûBAT÷bÂK÷÷÷ûMTûVÂøšÂ ÷Sû&÷’æ÷GèøâøÂûGTÃû:û¿û-÷¿ËÂûSTÎ÷Lûõ*û9ØûT÷’Â6÷¸øš‹Â÷ØÂ÷Á÷­ÂøŽ÷'T/û£÷Ú÷Ü¾üû$Áä÷•ûØûÛWûzÂøIvøhÂ÷¢Âø8ûzÂRešÍ÷>¼Šã?½×ÃŒÙ¼÷BÍ±šÄÂZ‰P€sZ}n‡kjûûxmDiWÔiœmûûjk™n£ZÆ€¼‰ûú{÷§¾÷Úûú{Xþ{ûzÂøIvøhÂ÷§Âø8÷…¿D­x©÷÷¬‡«}¨s¼P–ZTÄ‡±|IûBZŒ=×S?YŠ3Zû>Ie|R‡T¼Æ–£¼™¨«¬÷÷œ©Ô­÷#ÂšÁƒvæøF°ø¡÷‚Y¯v~lTiymœjÐŸfo™aQtf`fºf§Ÿž®®ž­zy®°z®°y£Ç²»º©÷ß÷÷‚÷(È Àøø©m©dcoojk­p«µ¨©© nüŸyø_{üåÂ÷L÷-JÃkwóÁ÷Â÷ Ážø÷0|ºjWPrKûeÝ¾®ÓÃÎì¸¹}t®ÎXÁ÷-Užb®hšh˜e÷!Tû"A„+Nûû	àGà†û#Â÷#žÏÂ©À­~ÂqÂ÷WÂ÷dÂ÷&Á‡Â¸øœ©v¶€zmwh´kkš“mt|||jk‚|nˆÆÀ–Ì£¦„¦…¢÷bÂ¸ût‚©€¬«âÙ¥¾¾¾v]¤¼šÀpQÁ1"<C<e™d•h0T´ö”]Œ†zJlU[`¤Zt ¹Â“š¯®}ƒ®¸ˆ™š‡™µ³œ¥ª'ùE¢ø¡ø¸øÆb¦üxý*´p‹ÂäÂÇÂ÷_Â¥÷`¹Â´÷_øÓø™Âû_TÎûûCû÷CÍÂû`TÚ÷3û_û	T÷OûT÷2û T÷¢Â ä÷ÂûÇ÷Âû÷2÷_û8Áø>Â÷(Á¦ø©øÄøÎOŽ…„Œ…ZY€lliiƒ\ƒY‹ˆx‰€û …TóQûÊ‚Y…mnxzq†ezyŒzsRÎ÷,œÅõŸÆ÷Ðö’Â#‘¨Þœ¯ðžˆŠDÂøµÂ÷
+Á\ÁaÁ÷lÁ[Án¾ÒÉø}÷c¯r¦p ûk÷9tƒ”–ª¯ŸÊ÷:1Á÷%ûKhhŠmnyolk u¡wäŸylƒXjPhžl¤x÷iû7¨uŽ|€†ujÔûRåUû%÷\¥¨Œ ¦‘¬Ÿ¹¨z¨tžÑ‹{—„’ÉåžŒÈ£X‡|€_Gáû/÷
+|—z›¡±¶£¥÷4û	Éœ~Ÿyt÷!¼÷å¼Þ¼÷ã»ø¬÷-HÎª³š½¾½}¼k°ÎÎkªJI«d[šYWVzleIÎkjÐIf]\aW›W«eGHªmÏÍaÃ»†¬¿¼œ©³ÌIe÷$:I5/?ÕêÞÌàóíÏ95øÐw÷ê÷ïøÐ,¡û¸¾÷Õ÷‹w÷*÷î` ø„÷Õ@÷+öûû@÷+õû©øàøCø˜ÙûL÷$÷L÷$z»û†ûT÷†ûTû/»ûM÷$÷M÷$z»û†ûT÷†ûT©ø÷9÷˜ø=ÙûM÷$÷M÷$z»û‡ûT÷‡ûT©ø÷?÷˜øC÷rû‡÷Tz[÷Mû$ûMû$œ[‹Â÷ØÂë÷8ÂõÁ÷“ÑUÁÚìøyø¦÷Eû÷Eü¦ÂÚ øÜûTÚÜûØ#Tƒøüq]x[Yr\z„w‹uuS!TõûØ!T÷žÂ!÷ØõÂ!½À˜­Ó¡¢‡†Ÿ‹Â÷ØÂ÷Â€–÷À÷¤ÁìøæÂ"øÏû%Tæü˜!TÜ…øûìqn‘o1c[EA TöûØ!T÷Â!÷ØõÂ!·¾ŽµÝ¢¡†† ÷qÂÝøGø™÷qÂüGTø
+Â÷#w÷¥ÂøMø
+Âû÷#Tû#ûT÷ü:Âø:÷MÂ÷Â÷#w÷¥ÂøM÷MÂû÷÷Âû÷#Tû#ûT÷ûûT÷û}Â÷}÷o÷÷€÷ø
+÷©ªo©cekpjm¨nµ«®£­ùSµ÷Ô²Ð±ø’ùSµû&!n2Rui__3»û÷@oüF²ùíÐýí±ùí÷÷þ÷÷üøt÷½ï;Ü'';:''Û:ïïÛÜïû÷Ž÷M÷>÷÷÷,@ûŽËû÷è÷îøK÷+@ûÌF÷+@ûË÷Õ÷‹wé÷î`øLøÐ+ @ûÌF÷+@ûË©øßøCø—÷rû†÷Tz[÷Mû$ûMû$œ[Ñ÷Tû†÷Tz[÷Lû$ûLû$œ[÷¨÷Ò÷Ò÷pøÛ¹ªo©celpjm§nµ«®£­ûdªo©cekpjm¨nµ«®£­ûeªp©cekpjm¨nµ«­£­Â÷ Á÷Âw÷/Á¦Á~ÁðÀÀ Á÷"ÀÝ`- ÷¨ø†ÌcÆ5@[OJI¼Q×ÒÀÄÏVŠish^bk¥µµ§©¸·¤jeÀ`ø üÌcÆ5@[OJI¼Q×ÒÀÄÏVŠirh^bl¥µµ¦©¸·¥jeÂ€ûmŒÌcÆ5@[OJI¼Q×ÒÀÄÏVŠirh^bl¥µµ¦©¸·¥je@÷M÷ }Àü<û:™Xû$Âø:÷÷Àã÷+ÂÏÁ¬ôø$ø©n¨akhsil§m³±«¦¬¬Üü‹÷UM{ic€cûpÔ±í÷ Ó™ôTPAwûfûp’p–vK¬ÒnÔÆÆ›ºø~÷E÷3÷¿ø^øû÷&i>÷´'ø~÷D÷<÷¿øgøâj×ûžû%—løìÎ÷øøøû(÷3;û)û3´y÷(÷÷&ûøš¾¿}wñø!°ø‡ùY•q‚ocgptœtÐtrœoXWeGu¾€šž½¯¡¢zz¤°y¥¨z¬É»¼Åžøµ¿ÜøHø™øµ¿üHWø‹½öø"øùQg}U^CRP¨¿rP™oF®ÖiØðÒÆÓ¤øš÷÷™ß÷íøš÷7ûøš÷÷IàÊÞø0øš÷8ûL÷6ûø{Æ×Æ÷gÆ×Æø)øÜÁ`¶UU``UU¶`ÁÁ¶¶ÁPvzzvvzœ  œœ  œzvûJ¸ÂÝÿ€ ÿ 0€ ˆ¹àÐø(à³sŸx°]†4ÐŸœ–z}}y|~“’}bˆ¥{¤´ª²·ø~÷\÷d÷¼øŒù"\¯ûûE¨t¡÷8[¯ûûE©tû5Å÷îÕø…>~{~xwš±¶™¦›>ezlhdg¥i»¤£•šŸø~Í÷øøùaŸû%ûû)÷bw÷*û0Û÷qÂŒøüøý÷qÂüüT‹Â÷Â¯Â÷_Â–÷XãÂÒÁ¦ÂõøÁ÷0T&û,÷`÷ÒQÁ÷>URD÷_ý÷,$Â÷2ü,TåûCübVT÷XÂ5³÷÷û<÷sû÷÷¹÷ì¶fµ¿µÃµ÷0µ÷$¶¼|øE÷òµ[ô®ˆ¥iš“zuŽvdd€€j•a–¥¬–ªÆ‘prŽvsŽt)w\r¼i«gÀ²®Ÿ£§|e¼Šãksgxeqw”£—¸°±…‹‹ÂøbÂ÷-Â÷²Âø¹÷•Tû^û²÷G÷BÓÂûBC÷x÷Âû²TõûŽ8hTÞ®û1!TÂø{Â²Âø/ÂøÄ÷³¿|áZÍ¹È`¬bU«eY¡HûE4û1û!8¥?ºUWF¶k¼Ël´¾yÅ÷6ë÷÷8T‰ûDûû]cš£k÷¨÷ÿ­V•Ib:÷^û©üi·xÆÉäÀ÷0÷.À³zq©‹Â÷`Â÷_Â–Â÷}ÂÐÁ§ÂúøÄ÷1T%û+÷`þÐRÁ÷<USF÷_ú÷+%Â÷1û¦û*û)ûTûÑû#÷R§Âhû>Ü÷'÷'Ýâ÷ª÷ì¶÷.¶÷@¶÷B¶øDødÌWÂ>RAg8/än³½Ü­á`ŒX_pa__§½µ¬­ÃÐ›VtÁ÷<ÃYÁ÷Â£Ã÷JÂ÷TÂÞøÈ•Âlf~gxw“zS¥xÌÇ÷Š“Œ““ÂÆq³¯sj¢WTkqbp™…~À-Uc~{`•U™­³™³Ð™gS¾hyqŒ~izˆ„sPy\[:3ÌfÇ¥ÃâÅWž¾cÙÞ·¸––±T÷”ûRË²ÉÈ­ vz”™q’nŒjû‹ûueHLdm§¹¾¼¯±²“Ž›–¢Ÿ°†‹‹Â÷ØÂ÷ªÂøŽÂûAøûcT÷,ûØûDT‹Âø™Â÷¤Âø‰ÂûB÷~÷ÀÂûV÷¯ûuT÷>ûŽûUU÷ÀûhûCTÃ÷ñÂ¿ÃøÂøÄø.e´SX¬]TšPû6/"ûUT®eV\±bÄ¾iºÅÀ÷÷Ý÷)¿|¿j±„û#†]h‚a.ûbc“ j÷¦÷£n–fe?÷#û¨ûq§~³³öâÏ÷¬¹„r²Â÷<Â÷Â›Ã÷cÁ÷TÂø×–€Ânc~g@TÁð˜÷Š“Œ““ÂÆq³¯sl¢WDeZl|ºva¬Hû#sû"ûûS÷|¯ç­Ë£”W¥³gØ¸º–—±U÷“ûSË³ÊÈ­ uz”™q’nŒjûŠpG‹ûû +ˆ÷§äžôãª«{nš›k‘deÂ`Â÷ØÂ÷Â÷ÁãÀ÷Á§Â}½øÞ÷¦„«užfª_‘_›:¨pš«¨¨˜”¹¤Ê‘¤Ã‘—Œ˜˜§¦vž©jZ“.dRƒpigo‰[Up8TÞûØ9T÷ørÑ¡¢òØËˆV}ˆ‚‚mjAhly{‚vsMÁo»y½ñd§€§€^:û†oY\™«cuTmºÃ{ÄÝ÷¨÷
+÷‡½÷¯w÷¨½ø7÷‡½.÷¯û$uYé˜ût.Y÷­Âø`Âø—é÷†üATø
+ûO~ÂaÃ÷×Â÷Â÷¢ÂxøÑÃ8øûTÞû&¸3g$ûIaºÈ÷°ûTÞü¶Â÷Yt ¬w¼¿Ù£Ë°x@øÍ‹w÷c·m©÷·÷ ¶÷F¶nžø¶ø÷½;Wû{®V÷{<û½¶÷ Êû ÂžÇ÷ŸûŸ®û“÷‘·ûT_Õû‘·÷‘‹Â÷ZÁ÷fÂ÷Á÷åÂøÂ÷¿÷8=Ú"¢‘mjŒgû†TÙûf@UÖûZ=T÷j·µ’³õžÙã÷KTƒR~Rp^Le@}Aû÷Z÷<Áû<÷fîã³ˆ`½«o§J4=½÷€¼}½÷¯w÷¼÷J»÷¼¾øìøÅb§üvý)´o÷2÷ë½.÷¯û#uYé˜ût.Yø²ûÕ½û.÷ß¶­ÌÞ¿f½@beylpQ¼ŠŽ‹Ž©©§²£nlinqrxû'\ Â÷†Â÷Pw÷¥Âø—÷RÂûO÷PTûPûOT÷OûPÂ÷P÷Oû½ÂüAT‹ÂÆÂ÷ÂÅÂ÷LÁ÷¸ÂøÝ÷²÷7È!û1Å÷Âû­T÷übûT÷ÖÂû-Æ÷ ÃÁ’®´±«¼¼T‰qƒpywchS‰Vû÷÷8ÍÉd:>½»¾÷?½÷¯w÷¼÷Ë½øç>½]»¹¾]÷GQûûVg÷[UYÁ÷)@Ö÷ ÷ øb§üvý)³o÷÷ë½.÷¯û#uYé˜ût.Y­ãÎÃÎã÷—ãà÷ï÷ø£wŸsswwssŸw££ŸŸ£÷>û;ÃüAS÷—û£wŸsswwssŸw££ŸŸ£ûtúH÷§¾÷Ú÷¨øTXüT¾üˆøTXüT÷¢Â÷`Â÷ Á÷`ÀøWøAÊ]çû 1HD56ÍCäßÓËêV‰Q\_SOb¿½¶¬ÆÑÜŸ?qûVÂ÷Â÷ñÂ÷ÂïÁ÷éÂøº÷q°ƒ°|ªÞcA±>5Og\g÷›ûTÞý[8T÷¶Âû-÷dcªÂbæ÷ìí÷TŠû6I9.=ÒôæÌÝ÷ ÷­ûQ>½»½÷9½ë¼î¼‹w÷d½l¼÷X¼ù€øË>½]»¹½]÷HQûûVg÷[TYÂ÷(@Ö÷ õ€÷øb§üuý*³p÷.øH¼u›q˜ú€Ÿœ•žªª~«rœ–{w’qefzwlž\œ£¥©§¨zlntuY…ù€Z™­½†bvxnVjj˜›o}X}§¸}±õ€ÆÆ°Ê÷‡½÷¼÷Y»÷¼ø4÷‡½û/÷ß·®Ì¿f½@bdylpQ¼ŠŽ‹ŽŽªª§²£nlinprxû'\÷§¯÷L°Ò°Ñ®Î¯÷°â°÷®ø©ø•÷û ïûûû-û#ûõ#÷÷õï÷h‰û43û".á÷òÚí÷÷à0û ûû	`÷©––¤§Âfœ_;ûŠ°ð´²&’÷Bmv…t`Òµ®•zy÷RÁáøAø—÷RÁüAUÂ÷ñÁ÷w¢w»ÃøÄÜø¾÷~èe÷1ûëå¿p»ìûGcž`™^‘gZ¬ˆ°‚«~;\§\÷ËÚY³6‘}«eS—UûQGû$û!÷3÷#Ü÷D×÷÷R{!5Fûû	;ØìíØØ÷’÷6ˆ­!J vàøCø˜³ûE÷C÷C÷Ed±ûCûDûD÷Cdd÷EûDûDûD²e÷C÷C÷DûC÷€½ë¼î¼÷ï½l¼èø3÷ä¼u›q˜ðŸœ•žªª~«rœ–{w’qeezwlž\œ£¦©§¨zlnsuY…èZ™®½†bvxnVji˜›o}X}§¹}±ÆÆ°Ê÷§¯Ó¯÷X¯Æ®Î¯Û¯÷«®ø©ø•÷û ïûûû-û#ûõ#÷÷õï÷h‰û43û".á÷òÚí÷÷à0û 24n¨suvqVd¸¿Æ¹³¹¤£~x›©ª¤js—g>VMD:ÌUË°®š¥¤‹Â÷Â÷¹Âd²÷{w…÷h÷P÷eîøïÂUûdø™û‰T÷#ûKübMT÷hÂ0¶÷÷µ¸û)Tª÷tû‰Þ÷÷É÷=÷Vj×ûžû&—m‹Â÷Â÷¹Âd²÷8Î‹w…÷h÷P÷eçøïÂUûdø™û‰T÷#ûKübMT÷hÂ0¶÷÷µ¸û)Tª÷tû‰×÷÷É÷M÷û'÷2:û)û2´yë÷)÷÷&û‹Â÷Â÷¹Âd²ã÷…÷hsßÊßx÷eë ì€øïÂUûdø™û‰T÷#ûKübMT÷hÂ0¶÷÷µ¸û)Tª÷tû‰Û ÷÷É÷÷÷7ûL÷7û‹Â÷Â÷¹Âd²÷{w…÷h÷P÷eîøïÂUûdø™û‰T÷#ûKübMT÷hÂ0¶÷÷µ¸û)Tª÷tû‰Þ÷÷É÷&÷û÷&i?÷´'‹Â÷Â÷¹Âd²¬Ç×Ç…÷h„ÇØÆŠ÷eí€î@øïÂUûdø™û‰T÷#ûKübMT÷hÂ0¶÷÷µ¸û)Tª÷tû‰Ý€÷÷Éë÷?«xÌ<Qc`SN»g¿Ç¯¸ÁP‰u||u„j‹²Ÿ—œ¦«‘s|‹Â÷Â÷¹Âd²ã¿¿…÷h÷P÷eçøïÂUûdø™û‰T÷#ûKübMT÷hÂ0¶÷÷µ¸û)Tª÷tû‰ß÷÷É÷`÷X•q‚rceqtœtçttœmRZZRx¾€ “ž·¼¢¢zy¥ïz¤§y©ßÐ­Î´–ûVÅ÷Ânvø®ÁÍÃÿ ž€ ÿ 1€ ‰·÷ÁÝøÁÈsºdVHpGû*ç÷2÷M÷ÀÖËÆl\·:Á÷iUNmž¦aZšVû1#ûû-½û'Óû÷%p†=Û‘’Œ’¢’~~„‡ur}~“’€{cƒ’¢r¦­¯©É …›ƒ•Ýƒ–’¡•ÚØ¨¸È‹Â÷_Â÷`Â÷{w÷Á÷4ÂÕÂZÂþýø°÷STûû»÷_÷4BÂ÷^TAû4÷`þ÷µûÂ÷SüsTÜüb<Tø=ùkj×ûžû&—m‹Â÷_Â÷`Â÷8Î‹w÷Á÷4ÂÕÂZÂï î€ø°÷STûû»÷_÷4BÂ÷^TAû4÷`ï ÷µûÂ÷SüsTÜüb<TøMùû'÷2:û)û2´y÷ ÷)÷÷&û‹Â÷_Â÷`Âã÷÷Á‘ßÊß>ÂÕÂZÂù€ù@ø°÷STûû»÷_÷4BÂ÷^TAû4÷`ú€÷µûÂ÷SüsTÜüb<Tøù(÷7ûõ€L÷7û‹Â÷_Â÷`Â÷{w÷Á÷4ÂÕÂZÂþýø°÷STûû»÷_÷4BÂ÷^TAû4÷`þ÷µûÂ÷SüsTÜüb<Tø&ù%û÷&i?÷´'‹ÂøbÂ÷{w÷¥ÂøÂû7øb÷7ÂüT÷8übû8Tøùkj×ûžû&—m‹ÂøbÂ÷8Î‹w÷¥ÂØøÂû7øb÷7ÂüT÷8übû8Tøùû'÷2:û)û2´yè÷)÷÷&û‹ÂøbÂã÷÷Qß‹Â“ßèøÂû7øb÷7ÂüT÷8übû8Tô÷Ëù(÷7ûL÷7û‹ÂøbÂ÷{w÷¥ÂøÂû7øb÷7ÂüT÷8übû8T÷ëù%û÷&i?÷´'‹ÂøbÂã¿¿êÂ÷ÅÂÜøÞø™Âû‚TöüNû±ø…û0TÜüb;T÷‡Âû øK÷³ü‚Ôø™ü÷X•q‚rceqtœtÜttœmRZZRx¾€ “ž·¼¢¢zy¥üz¤§y©Ð­Î´–Âø{Â÷nw²Âø/ÂøÄ÷³éX÷`ûbûE4û1û!û8ôû÷2÷6ë÷÷8T‰ûDûûû<÷÷äÁ÷0÷-÷;°û<>møNj×ûžû&—mÂø{Â÷+Î‹w²Âø/ÂÜøÄ÷³éX÷`ûbûE4û1û!û8ôû÷2÷6ë÷÷8T‰ûDûûû<÷÷äÁ÷0÷-÷;°û<>}÷üû'÷2:û)û2´yì÷)÷÷&ûÂø{ÂÖ÷²ÂêßÊßàÂøÄ÷³éX÷`ûbûE4û1û!û8ôû÷2÷6ë÷÷8T‰ûDûûû<÷÷äÁ÷0÷-÷;°û<>6ø÷7ûL÷7ûÂø{Â÷nw²Âø/ÂøÄ÷³éX÷`ûbûE4û1û!û8ôû÷2÷6ë÷÷8T‰ûDûûû<÷÷äÁ÷0÷-÷;°û<>Vøû÷&i?÷´'Âø{ÂÖ¿¿²Âø/ÂÜøÄ÷³éX÷`ûbûE4û1û!û8ôû÷2÷6ë÷÷8T‰ûDûûû<÷÷äÁ÷0÷-÷;°û<>üøwX•q‚rceqtœtÜttœmRZZRx¾€ “ž·¼¢¢zy¥üz¤§y©Ð­Î´–Â_÷Hÿ AÂÿ 6èöÿ WT{÷M`Â¶Îåw²wÓÂnÁ÷¼ÁiÂ­ ­PøŸ÷3Âj¶bžFª/}F©ar¥»ËÌ½å­ ¿Àyh¯µ 2Á÷MU­`m§dV™Wû#L)7,Ùkƒ­Üh÷ §ÍT™~vvJNa#LK³Zm ÙTûHÂ­ ³`ÉØƒ¹­P÷îÁ÷	­rùaû%ûû)÷® bx÷)û1ÜÂønÂ÷{wîÁ÷ÎÁøìø™ÂûƒTõûÒû@j:fe“ n]¬ƒÅÁ÷À÷ÂûˆTÜû¶BAÅ\k³Ä~Á½É™®²´¯œÈË÷Ód÷fj×ûžû&—mÂønÂ÷8Î‹wîÁ÷ÎÁÜøìø™ÂûƒTõûÒû@j:fe“ n]¬ƒÅÁ÷À÷ÂûˆTÜû¶BAÅ\k³Ä~Á½É™®²´¯œÈË÷Ót÷û'÷2:û)û2´yì÷)÷÷&ûÂønÂã÷îÁ¶ßÊß³Áøìø™ÂûƒTõûÒû@j:fe“ n]¬ƒÅÁ÷À÷ÂûˆTÜû¶BAÅ\k³Ä~Á½É™®²´¯œÈË÷Ó-÷#÷7ûL÷7ûÂønÂ÷{wîÁ÷ÎÁøìø™ÂûƒTõûÒû@j:fe“ n]¬ƒÅÁ÷À÷ÂûˆTÜû¶BAÅ\k³Ä~Á½É™®²´¯œÈË÷ÓM÷ û÷&i?÷´'‹ÂøbÂ÷{w®÷ZºÂ¸÷WøÓø™ÂûWTÐû"û„û$÷„ÑÂûZTÏ÷Eû»û;ûT÷ÂÂû÷;÷A÷»o÷fj×ûžû&—m‹ÂøbÂã÷®÷ZdßÂ‘ß^÷WåøÓø™ÂòûWTÐû"û„û$÷„ÑÂûZTÏå÷Eû»û;ûT÷ÂÂû÷;÷A÷»ê8÷#÷7ûL÷7û‹ÂøbÂÂÎåw²w÷Á÷ÃÂîø¢÷mTû6ûÏøøe¿ü/û^Á÷'÷®üücUø<ù¥aû%ûû)÷öbx÷)û1ÜÂ`Â÷2Ã÷ÃÅÃ÷ÂÁ|øXøâj×ûžû%—løü~Â9÷…¦‰§|¦²vY©6GFwsQ™UšªÓ¦Ï­¬ˆy¨¥{’hjl’_Z’[û8V4P¼JÄEñ×Ð¶ÀÂ|7Š÷*¼OYH\:N`´±¦›¡Ÿ™¥°Áº·µ…„µÂ`Â÷2Ã÷Ã÷-ÎÅÃ÷ÂÁ~øpøû(÷3;û)û3´y÷(÷÷&û÷
+ü~Â9÷…¦‰§|¦²vY©6GFwsQ™UšªÓ¦Ï­¬ˆy¨¥{’hjl’_Z’[û8V4P¾JÄEñ×Ð¶ÀÂ~7Š÷*¾OYH\:N`´±¦›¡Ÿ™¥°Áº·µ…„µÂ`Â÷2Ã÷ÃÒ÷ÅÃ¿àÊÞžÁ~€ø¼Â9÷…¦‰§|¦²vY©6GFwsQ™UšªÓ¦Ï­¬ˆy¨¥{’hjl’_Z’[û8V4P¾€JÄEñ×Ð¶ÀÂ~€7Š÷*¾€OYH\:N`´±¦›¡Ÿ™¥°Áº·µ…„µ€x÷Ò÷8ûL÷6ûÂ`Â÷2Ã÷ÃÅÃ÷ÂÁ|øOøû÷&i>÷´'÷ü~Â9÷…¦‰§|¦²vY©6GFwsQ™UšªÓ¦Ï­¬ˆy¨¥{’hjl’_Z’[û8V4P¼JÄEñ×Ð¶ÀÂ|7Š÷*¼OYH\:N`´±¦›¡Ÿ™¥°Áº·µ…„µÂ`Â÷2Ã÷Ã³Æ×ÆÅÃÝÆ×Æ¥Ás@ÀøøÜÁ`¶UU``UU¶`ÁÁ¶¶ÁPvzzvvzœ  œœ  œzvs@÷qüÜÂ9÷…¦‰§|¦²vY©6GFwsQ™UšªÓ¦Ï­¬ˆy¨¥{’hjl’_Z’[û8V4P³@JÄEñ×Ð¶ÀÂs@7Š÷*³@OYH\:N`´±¦›¡Ÿ™¥°Áº·µ…„µÂ`Â÷2Ã÷ÃÒ¾¿}wÅÃ÷ÂÁ{€øxùY•q‚ocgptœt}€trœoXWeGu¾€šž½¯¡¢zz¤{€y¥¨z¬É»¼ÅžÏýÂ9÷…¦‰§|¦²vY©6GFwsQ™UšªÓ¦Ï­¬ˆy¨¥{’hjl’_Z’[û8V4P»€JÄEñ×Ð¶ÀÂ{€7Š÷*»€OYH\:N`´±¦›¡Ÿ™¥°Áº·µ…„µûJ¸÷À÷ñÃÓÂÿ ˜€ ÿ 1€ ˆ¹éÂúø¨ÎuÂur=Q:û0`÷ÌäÓÝ÷ÄÀ}g¶FÂ÷CT[ª][œQûAFû0ûë5÷€†?öŒ’’’˜š„y†ws}}“’€}cx©Š“±­¯ºú²s x¥ÞÌªÂ¶Á÷<Â÷ÃÊÄ÷óÆøgøâj×ûžû%—l÷øüKzÀ_==y\\^‘£eg¢mÁÀ“ø.÷H÷û5û!/ûû
+Ðû÷CÜÞ¦¯ÌJ÷jûñÆ“ÆÎ÷÷ª&rÁ÷<Â÷Ã÷-ÎÊÄ÷óÆøøû(÷3;û)û3´y÷(÷÷&ûâüKzÀ_==y\\^‘£eg¢mÁÀ“ø.÷H÷û5û!/ûû
+Ðû÷CÜÞ¦¯ÌJ÷jûñÆ“ÆÎ÷÷ª&rÁ÷<Â÷ÃÒ÷ÊÄÈàÊÞÆÆø¬¾zÀ_==y\\^‘£eg¢mÁÀ“ø.÷H÷û5û!/ûû
+Ðû÷CÜÞ¦¯ÌJ÷jûñÆ“ÆÎ÷÷ª&rP÷‘÷8ûL÷6ûÁ÷<Â÷ÃÊÄ÷óÆø^øû÷&i>÷´'äüKzÀ_==y\\^‘£eg¢mÁÀ“ø.÷H÷û5û!/ûû
+Ðû÷CÜÞ¦¯ÌJ÷jûñÆ“ÆÎ÷÷ª&r‹Â÷ØÂ÷ªÂøVøâj×ûžû%—l÷ëü~ÂûAøûcT÷,ûØûDT‹Â÷ØÂ÷:Î÷ªÂønøû(÷3;û)û3´y÷(÷÷&ûÕü~ÂûAøûcT÷,ûØûDT‹Â÷ØÂß÷÷8à¨ÂvÞèôøøš÷8ûL÷6û÷êüšÂèûAøûcT÷,ûØûDT‹Â÷ØÂ÷ªÂøMøû÷&i>÷´'×ü~ÂûAøûcT÷,ûØûDT‹Â÷×ÃaÂÒ¾¿}w÷Á÷¢Á×ø‡ùY•q‚ocgptœtÛtrœoXWeGu¾€šž½¯¡¢zz¤×y¥¨z¬É»¼ÅžØýÂ9÷”·°„·m¤œvl˜[FHm]X×ÊûSÞû×8T÷pÂ8·÷“¹µÏ¯È¶Ã~Fû“9TÂ÷ñÂ¿ÂøÂøgøâj×ûžû%—lø
+û¥ãR÷"ûTû!û4û#ûí+÷0÷,ëí÷TŠ';BûûLçÜèÔÞ÷÷5­ûUÂ÷ñÂ÷-Î¿ÂøÂøøû(÷3;û)û3´y÷(÷÷&ûôû¥ãR÷"ûTû!û4û#ûí+÷0÷,ëí÷TŠ';BûûLçÜèÔÞ÷÷5­ûUÂ÷ñÂÒ÷¿ÂÕàÊÞâÂø¾÷mãR÷"ûTû!û4û#ûí+÷0÷,ëí÷TŠ';BûûLçÜèÔÞ÷÷5­ûU4÷Â÷8ûL÷6ûÂ÷ñÂ¿ÂøÂø^øû÷&i>÷´'öû¥ãR÷"ûTû!û4û#ûí+÷0÷,ëí÷TŠ';BûûLçÜèÔÞ÷÷5­ûUÂ÷ñÂÒ¾¿}w¿ÂøÂîø‡ùY•q‚ocgptœtötrœoXWeGu¾€šž½¯¡¢zz¤îy¥¨z¬É»¼ÅžÂü,ãR÷"ûTû!û4û#ûí+÷0÷,ëí÷TŠ';BûûLçÜèÔÞ÷÷5­ûUÂ÷ñÂ¶ÍèÂ\Á÷¯ÁlÂôøùaŸû%ûû)÷bw÷*û0Ûê÷@ûûÞP FF/ˆ]¨|•€Éã˜¶ìÂÂzpµPÁ÷2Uc¦^U˜SûCV5r’pžzÀ[ØÕ…ò·‡¿’¦e„{…AûƒfLTž°[ÆTû>Â¸t¼¼uÛê÷ÚÄáÁaÂ÷ØÂ÷Á÷¢Áxø^øâj×ûžû%—lø"ü~Â9øûTÞ¸û‡YcW_Kpn‘švm¡„¯¯÷©ûTÞûb—b®psª²‚³²¿‘Ô×xHÁaÂ÷ØÂ÷:Î÷Á÷¢Á|øvøû(÷3;û)û3´y÷(÷÷&û÷ü~Â9øûTÞ¼û‡YcW_Kpn‘švm¡„¯¯÷©ûTÞûb—b®psª²‚³²¿‘Ô×|HÁaÂ÷ØÂß÷÷Á”àÊÞ©Áyø'øš÷8ûL÷6ûyø!üšÂ9ø{ûT¹Þû‡YcW_Kpn‘švm¡„¯¯÷©ûTÞûb—b®psª²‚³²¿‘Ô×yHÁaÂ÷ØÂ÷Á÷¢ÁxøUøû÷&i>÷´'÷ü~Â9øûTÞ¸û‡YcW_Kpn‘švm¡„¯¯÷©ûTÞûb—b®psª²‚³²¿‘Ô×xHûVÂøšÂ ÷Sû&÷’æ÷Gèøgøâj×ûžû%—lø.ûÂûGTÃû:û¿û-÷¿ËÂûSTÎ÷Lûõ*û9ØûT÷’Â6÷¸øšûVÂøšÂß÷ ÷Sû&÷’ûàÊÞŠ÷Gæø0øš÷8ûL÷6ûñø-ûÂûGTÃû:û¿û-÷¿ËÂûSTÎ÷Lûõ*û9éûT÷’Â6÷¸øš‹Â÷ØÂÃÍ÷Á÷­Âø†ùaŸû%ûû)÷bw÷*û0Û÷/ü~÷'T/û£÷Ú÷Ü¾üû$Áä÷•ûØûÛWÂ÷5ÂÂÂ÷4ÂâÃøÁœ÷`Ûû¨ã.÷'ÚØ¨¸ÈsºdVHpG'9Åòm÷vŸÂû”–Š––’‹“Œ’÷¦ŸÂû±ê£ÓÌëÑÐqc±CÁ÷UUV®ZVCû--ûpQwTÑz~ŒŒ~W}™øÐ˜û+™÷â ûE‹÷€’ð‹ü¯}™øÐ˜û+™÷â ûE‹÷€’ð‹ü¯	Â
+Âøìendstreamendobj24 0 obj<< /Type /Page /MediaBox [ 0 0 612 792 ] /Resources << /ProcSet [ /PDF /Text /ImageC ] /Font << /F4 16 0 R /F2 8 0 R /F1 4 0 R /F5 20 0 R /F3 12 0 R >> >> /Contents 25 0 R /Parent 2 0 R >> endobj25 0 obj<< /Length 26 0 R >> stream
+q  1  0  0  1  0  0  cm
+% OWObject (ON=RptConstObj; OT=RC; FS=4; SI=64; DT=S; OI=28; NO=1; NL=1; NF=0)
+BT
+ /F4  1 Tf
+ 1 i  1 w  10 M  /DeviceRGB cs 0  0.5  0.5 sc /DeviceRGB CS 0  0.5  0.5 SC
+ 78  0  0  78  24  685  Tm
+(B)Tj
+% OWObject (ON=NotaFiscalNumber; OT=RV; FS=6; SI=64; DT=N; OI=3; NO=1; NL=1; NF=0)
+ /F2  1 Tf
+ 0  0  0 sc 0  0  0 SC
+ 8  0  0  8  545.38  752.5  Tm
+(71686)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=2; SI=64; DT=S; OI=2; NO=1; NL=1; NF=0)
+ /F1  1 Tf
+ -3.6725  0 TD(Nº)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=16; SI=64; DT=S; OI=1; NO=1; NL=1; NF=0)
+ -12.375  0 TD(NOTA DE COBRANÇA)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=1; SI=64; DT=S; OI=6; NO=1; NL=1; NF=0)
+ 6  0  0  6  561  743.5  Tm
+(/)Tj
+% OWObject (ON=RptVarObj; OT=RV; FS=3; SI=64; DT=N; OI=7; NO=1; NL=1; NF=0)
+ 0.5  0 TD(1)Tj
+% OWObject (ON=RptVarObj; OT=RV; FS=6; SI=64; DT=N; OI=5; NO=1; NL=1; NF=0)
+ -2.014  0 TD(1)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=2; SI=64; DT=S; OI=4; NO=1; NL=1; NF=0)
+ -5.986  0 TD(PG)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=9; SI=64; DT=S; OI=9; NO=1; NL=1; NF=0)
+ 8  0  0  8  522  731.5  Tm
+(VIA UNICA)Tj
+% OWObject (ON=Name; OT=RV; FS=40; SI=64; DT=S; OI=10; NO=1; NL=1; NF=0)
+ /F2  1 Tf
+ 7  0  0  7  24  715.75  Tm
+(White Martins Gases Inds.Norte Ltda.)Tj
+ET
+ 0.01 w 
+ 24  606.25 m  579  606.25 l S
+% OWObject (ON=RptConstObj; OT=RC; FS=8; SI=64; DT=S; OI=12; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  24  703  Tm
+(UNIDADE:)Tj
+% OWObject (ON=NameMailing; OT=RV; FS=40; SI=64; DT=S; OI=11; NO=1; NL=1; NF=0)
+ 6  0 TD(USINA DE MANAUS)Tj
+ET
+ 0.1 w 
+ 507  650.5  71.25  61.5 re
+S
+ 390  650.5  114  61.5 re
+S
+% OWObject (ON=RptConstObj; OT=RC; FS=4; SI=64; DT=S; OI=29; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  391.5  701.5  Tm
+(CNPJ)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=15; SI=64; DT=S; OI=31; NO=1; NL=1; NF=0)
+ 17.5714  0.2143 TD(Data da Emissão)Tj
+% OWObject (ON=AddSoldToAddLine2; OT=RV; FS=20; SI=64; DT=S; OI=17; NO=1; NL=1; NF=0)
+ -30.5357  -1.8214 TD(DISTRITO INDUSTRIAL)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=16; SI=64; DT=S; OI=16; NO=1; NL=1; NF=0)
+ -9.4286  0 TD(BAIRRO/DISTRITO:)Tj
+% OWObject (ON=AddSoldToAddLine1; OT=RV; FS=40; SI=64; DT=S; OI=15; NO=1; NL=1; NF=0)
+ -23.6786  0 TD(AVENIDA AUTAZ MIRIM,N.1053)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=9; SI=64; DT=S; OI=14; NO=1; NL=1; NF=0)
+ -6.4286  0 TD(ENDEREÇO:)Tj
+% OWObject (ON=TaxId; OT=RV; FS=20; SI=64; DT=S; OI=32; NO=1; NL=1; NF=0)
+ 56.4061  -0.1071 TD(34.597.955/0004-32)Tj
+ET
+ 0.01 w 
+ 390  682 m  504  682 l S
+% OWObject (ON=CountyAddress; OT=RV; FS=40; SI=64; DT=S; OI=18; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  69  678.25  Tm
+(MANAUS)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=10; SI=64; DT=S; OI=19; NO=1; NL=1; NF=0)
+ -6.4286  0 TD(MUNICIPIO:)Tj
+% OWObject (ON=State; OT=RV; FS=3; SI=64; DT=S; OI=21; NO=1; NL=1; NF=0)
+ 38.4643  0 TD(AM)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=3; SI=64; DT=S; OI=20; NO=1; NL=1; NF=0)
+ -2.4643  0 TD(UF:)Tj
+ET
+ 24  570.25 m  579  570.25 l S
+% OWObject (ON=IssueDate; OT=RV; FS=6; SI=64; DT=D; OI=33; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  529.5  677.5  Tm
+(28/06/22)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=18; SI=64; DT=S; OI=34; NO=1; NL=1; NF=0)
+ -19.7143  -0.8571 TD(INSCRIÇÃO ESTADUAL)Tj
+% OWObject (ON=PhoneNumber; OT=RV; FS=20; SI=64; DT=S; OI=24; NO=1; NL=1; NF=0)
+ -42.8571  -1.0714 TD(08007099000)Tj
+% OWObject (ON=ZipCodePostal; OT=RV; FS=12; SI=64; DT=S; OI=26; NO=1; NL=1; NF=0)
+ 28.8214  0 TD(69075155)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=9; SI=64; DT=S; OI=22; NO=1; NL=1; NF=0)
+ -38.4643  0 TD(FONE/FAX:)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=4; SI=64; DT=S; OI=25; NO=1; NL=1; NF=0)
+ 35.1429  0 TD(CEP:)Tj
+% OWObject (ON=TaxId2; OT=RV; FS=20; SI=64; DT=S; OI=35; NO=1; NL=1; NF=0)
+ 25.2103  -1.0714 TD(041946200)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=12; SI=64; DT=S; OI=39; NO=1; NL=1; NF=0)
+ 6  0  0  6  27  650.5  Tm
+(DESTINATÁRIO)Tj
+ET
+ 0.1 w 
+ 495  534.25  83.25  114.75 re
+S
+ 24  534.25  555  114.75 re
+S
+ 330  534.25  249.75  114.75 re
+S
+% OWObject (ON=RptConstObj; OT=RC; FS=14; SI=64; DT=S; OI=58; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 6  0  0  6  498  638.5  Tm
+(C.N.P.J /C.P.F)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=18; SI=64; DT=S; OI=40; NO=1; NL=1; NF=0)
+ -78.5  -0.5 TD(NOME /RAZÃO SOCIAL)Tj
+% OWObject (ON=NameMailing; OT=RV; FS=40; SI=64; DT=S; OI=41; NO=1; NL=1; NF=0)
+ 7  0  0  7  27  619  Tm
+(ULTRA SOM SERVICOS MEDICOS LTDA)Tj
+% OWObject (ON=TaxId; OT=RV; FS=20; SI=64; DT=S; OI=59; NO=1; NL=1; NF=0)
+ 67.2857  0 TD(12.361.267/0112-09)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=16; SI=64; DT=S; OI=43; NO=1; NL=1; NF=0)
+ 6  0  0  6  336  596.5  Tm
+(BAIRRO /DISTRITO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=3; SI=64; DT=S; OI=60; NO=1; NL=1; NF=0)
+ 32.5  0 TD(CEP)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=8; SI=64; DT=S; OI=42; NO=1; NL=1; NF=0)
+ -84  0 TD(ENDEREÇO)Tj
+% OWObject (ON=ZipCodePostal; OT=RV; FS=12; SI=64; DT=S; OI=61; NO=1; NL=1; NF=0)
+ 7  0  0  7  531  580  Tm
+(69010150)Tj
+% OWObject (ON=AddShipToAddLine1; OT=RV; FS=78; SI=64; DT=S; OI=44; NO=1; NL=1; NF=0)
+ -72  0 TD(RUA TAPAJOS, 561)Tj
+% OWObject (ON=AddShipToAddLine2; OT=RV; FS=35; SI=64; DT=S; OI=45; NO=1; NL=1; NF=0)
+ 44.1429  0 TD(CENTRO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=9; SI=64; DT=S; OI=46; NO=1; NL=1; NF=0)
+ 6  0  0  6  27  557.5  Tm
+(MUNICIPIO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=9; SI=64; DT=S; OI=47; NO=1; NL=1; NF=0)
+ 32  0 TD(FONE /FAX)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=4; SI=64; DT=S; OI=48; NO=1; NL=1; NF=0)
+ 39  0 TD(U.F.)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=18; SI=64; DT=S; OI=62; NO=1; NL=1; NF=0)
+ 7.5  0 TD(INSCRIÇÃO ESTADUAL)Tj
+% OWObject (ON=PhoneAreaCode3; OT=RV; FS=6; SI=64; DT=S; OI=49; NO=1; NL=1; NF=0)
+ 7  0  0  7  220.5  542.5  Tm
+(5592)Tj
+% OWObject (ON=PhoneNumber3; OT=RV; FS=20; SI=64; DT=S; OI=50; NO=1; NL=1; NF=0)
+ 3.4286  0 TD(31314450)Tj
+% OWObject (ON=CountyAddress; OT=RV; FS=25; SI=64; DT=S; OI=51; NO=1; NL=1; NF=0)
+ -31.0714  -0.2143 TD(MANAUS)Tj
+% OWObject (ON=State; OT=RV; FS=3; SI=64; DT=S; OI=52; NO=1; NL=1; NF=0)
+ 60.8571  0 TD(AM)Tj
+% OWObject (ON=TaxId2; OT=RV; FS=20; SI=64; DT=S; OI=63; NO=1; NL=1; NF=0)
+ 6.4286  0 TD(ISENTO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=18; SI=66; DT=S; OI=1; NO=1; NL=1; NF=0)
+ 6  0  0  6  27  523.75  Tm
+(DADOS DO DOCUMENTO)Tj
+ET
+ 24  505  471  17.25 re
+S
+ 66  505  267  17.25 re
+S
+ 405  505  174  17.25 re
+S
+% OWObject (ON=RptConstObj; OT=RC; FS=6; SI=66; DT=S; OI=6; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 6  0  0  6  36  511.75  Tm
+(CÓDIGO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=9; SI=66; DT=S; OI=7; NO=1; NL=1; NF=0)
+ 7  0  0  7  171  510.25  Tm
+(DESCRIÇÃO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=10; SI=66; DT=S; OI=8; NO=1; NL=1; NF=0)
+ 25.2857  0 TD(QUANTIDADE)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=14; SI=66; DT=S; OI=9; NO=1; NL=1; NF=0)
+ 10.7143  0 TD(VALOR UNITÁRIO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=11; SI=66; DT=S; OI=10; NO=1; NL=1; NF=0)
+ 13.2857  0 TD(VALOR TOTAL)Tj
+ET
+ 66  487.75  267  17.25 re
+S
+ 405  487.75  174  17.25 re
+S
+ 24  487.75  471  17.25 re
+S
+% OWObject (ON=FDAEXP; OT=RV; FS=15; SI=65; DT=N; OI=15; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  541.175  493  Tm
+(1.590,00)Tj
+% OWObject (ON=FDUPRC; OT=RV; FS=15; SI=65; DT=N; OI=14; NO=1; NL=1; NF=0)
+ -13.1351  0 TD(795,0000)Tj
+% OWObject (ON=FDLITM; OT=RV; FS=8; SI=65; DT=S; OI=11; NO=1; NL=1; NF=0)
+ -59.8898  0 TD(40183818)Tj
+% OWObject (ON=FDUORG; OT=RV; FS=15; SI=65; DT=N; OI=13; NO=1; NL=1; NF=0)
+ 52.0396  0 TD(2)Tj
+% OWObject (ON=FDDSC1; OT=RV; FS=30; SI=65; DT=S; OI=12; NO=1; NL=1; NF=0)
+ -45.611  0 TD(Cilindro sem Consumo 90D)Tj
+ET
+ 66  470.5  267  17.25 re
+S
+ 405  470.5  174  17.25 re
+S
+ 24  470.5  471  17.25 re
+S
+ 66  453.25  267  17.25 re
+S
+ 405  453.25  174  17.25 re
+S
+ 24  453.25  471  17.25 re
+S
+ 66  436  267  17.25 re
+S
+ 405  436  174  17.25 re
+S
+ 24  436  471  17.25 re
+S
+ 66  418.75  267  17.25 re
+S
+ 405  418.75  174  17.25 re
+S
+ 24  418.75  471  17.25 re
+S
+ 66  401.5  267  17.25 re
+S
+ 405  401.5  174  17.25 re
+S
+ 24  401.5  471  17.25 re
+S
+ 66  384.25  267  17.25 re
+S
+ 405  384.25  174  17.25 re
+S
+ 24  384.25  471  17.25 re
+S
+ 423  349.75  155.25  31.5 re
+S
+% OWObject (ON=RptConstObj; OT=RC; FS=31; SI=67; DT=S; OI=2; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  429  369.25  Tm
+(VALOR TOTAL DA NOTA DE COBRANÇA)Tj
+% OWObject (ON=RptVarObj; OT=RV; FS=15; SI=67; DT=N; OI=4; NO=1; NL=1; NF=0)
+ /F2  1 Tf
+ 8  0  0  8  524.2  355.75  Tm
+(1.590,00)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=63; SI=67; DT=S; OI=5; NO=1; NL=1; NF=0)
+ /F1  1 Tf
+ 7  0  0  7  24  351.25  Tm
+(DADOS DE SEGURANÇA /MANUSEIO DE CILINDROS E OUTROS EQUIPAMENTOS)Tj
+ET
+ 24  230.5  555  117.75 re
+S
+% OWObject (ON=RptConstObj; OT=RC; FS=114; SI=67; DT=S; OI=7; NO=1; NL=1; NF=0)
+BT
+ /F5  1 Tf
+ 8  0  0  8  24  337  Tm
+(- SE  VOCÊ  NÃO  RECEBEU  TODA  DOCUMENTAÇÃO  REFERENTE AO PRODUTO  QUE  FOI ADQUIRIDO \(EX.:FICHA DE INFORMAÇÃO DE)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=114; SI=67; DT=S; OI=8; NO=1; NL=1; NF=0)
+ 0  -1.875 TD(SEGURANÇA  DE  PRODUTOS QUÍMICOS - FISPQ, MANUAL DE INSTRUÇÕES DO EQUIPAMENTO, INSTRUÇÕES DE OPERAÇÃO  E  MANUSEIO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=79; SI=67; DT=S; OI=10; NO=1; NL=1; NF=0)
+ /F3  1 Tf
+ 18.375  -1.4062 TD(SOLICITE OS MESMOS IMEDIATAMENTE AO REPRESENTANTE  DA  FILIAL  QUE  LHE ATENDEU)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=27; SI=67; DT=S; OI=9; NO=1; NL=1; NF=0)
+ /F5  1 Tf
+ -18.375  -0.0937 TD(DE CILINDROS,TANQUES,ETC.\),)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=67; SI=67; DT=S; OI=11; NO=1; NL=1; NF=0)
+ /F3  1 Tf
+ 0  -1.5 TD(OU CONTACTE-NOS ATRAVÉS DO TELEFONE DA NOSSA CENTRAL DE ATENDIMENTO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=114; SI=67; DT=S; OI=12; NO=1; NL=1; NF=0)
+ /F5  1 Tf
+(- LEIA AS INSTRUÇÕES  CONSTANTES EM CADA EQUIPAMENTO ANTES  DE  SEU  MANUSEIO, E SE HOUVER ALGUMA DÚVIDA QUANTO AS)'
+% OWObject (ON=RptConstObj; OT=RC; FS=45; SI=67; DT=S; OI=13; NO=1; NL=1; NF=0)
+(INFORMAÇÕES ALI CONTIDAS,SOLICITE ORIENTAÇÃO.)'
+% OWObject (ON=RptConstObj; OT=RC; FS=106; SI=67; DT=S; OI=14; NO=1; NL=1; NF=0)
+(- ANTES  DE  SEUS  FUNCIONÁRIOS  INICIAREM  O MANUSEIO DE PRODUTOS E EQUIPAMENTOS FORNECIDOS  PELA FILIAL,)'
+% OWObject (ON=RptConstObj; OT=RC; FS=113; SI=67; DT=S; OI=15; NO=1; NL=1; NF=0)
+ 0  -1.5 TD(REPASSE  A  ELES  AS   INFORMAÇÕES  DE  SEGURANÇA  CONTIDAS  NOS MANUAIS  E  DOCUMENTOS  FORNECIDOS JUNTO A ESTES)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=24; SI=67; DT=S; OI=16; NO=1; NL=1; NF=0)
+ 0  -1.5 TD(EQUIPAMENTOS E PRODUTOS.)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=22; SI=63; DT=S; OI=1; NO=1; NL=1; NF=0)
+ /F1  1 Tf
+ 7  0  0  7  24  221.5  Tm
+(INFORMAÇÕES ADICIONAIS)Tj
+ET
+ 24  100.75  555  117.75 re
+S
+% OWObject (ON=RptVarObj; OT=RV; FS=100; SI=63; DT=S; OI=3; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  30  209.5  Tm
+(COND. PAGTO:  230     CR 21 DDL                          VENC: 19/07/22    ENTRADA: ,00)Tj
+% OWObject (ON=RptVarObj; OT=RV; FS=100; SI=63; DT=S; OI=4; NO=1; NL=1; NF=0)
+ 0  -1.3928 TD(FILIAL/FAB: RBA363  Nº PED.: 41152606  COD.DOC: LO  UN.ATRIB: RBA363)Tj
+% OWObject (ON=RptVarObj; OT=RV; FS=100; SI=63; DT=S; OI=5; NO=1; NL=1; NF=0)
+ 0  -1.2857 TD(LOCAÇÃO DE CILINDRO SEM CONSUMO - Cil.  Oxigênio)Tj
+ET
+ 0.01 w 
+ 24  115.75 m  579  115.75 l S
+% OWObject (ON=RptConstObj; OT=RC; FS=70; SI=63; DT=S; OI=13; NO=1; NL=1; NF=0)
+BT
+ /F3  1 Tf
+ 9  0  0  9  33  106.75  Tm
+(OPERAÇÃO NÃO SUJEITA AO I.S.S.DE ACORDO COM A LEI COMPLEMENTAR 116/03.)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=256; SI=70; DT=S; OI=1; NO=1; NL=1; NF=0)
+ /F1  1 Tf
+ 7  0  0  7  24.75  87.25  Tm
+(- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -)Tj
+ET
+ 0.1 w 
+ 21  24.25  555.75  61.5 re
+S
+ 21  24.25  456  61.5 re
+S
+% OWObject (ON=RptConstObj; OT=RC; FS=20; SI=70; DT=S; OI=4; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  480.75  72.25  Tm
+(NOTA DE COBRANÇA N º)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=69; SI=70; DT=S; OI=5; NO=1; NL=1; NF=0)
+ 6  0  0  6  39.75  70.75  Tm
+(ATESTAMOS QUE OS DADOS ACIMA CONFEREM COM OS BENS CEDIDOS EM LOCAÇÃO.)Tj
+ET
+ 21  22.75  273  45 re
+S
+ 117  22.75  458.25  45 re
+S
+% OWObject (ON=RptConstObj; OT=RC; FS=19; SI=70; DT=S; OI=9; NO=1; NL=1; NF=0)
+BT
+ /F1  1 Tf
+ 7  0  0  7  21.75  54.25  Tm
+(DATA DO RECEBIMENTO)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=39; SI=70; DT=S; OI=10; NO=1; NL=1; NF=0)
+ 13.7143  0 TD(IDENTIFICAÇÃO E ASSINATURA DO RECEBEDOR)Tj
+% OWObject (ON=RptConstObj; OT=RC; FS=12; SI=70; DT=S; OI=11; NO=1; NL=1; NF=0)
+ 25.7143  0 TD(NOME LEGÍVEL)Tj
+ET
+ 0.01 w 
+ 30.75  31 m  96.75  31 l S
+% OWObject (ON=RptConstObj; OT=RC; FS=28; SI=70; DT=S; OI=13; NO=1; NL=1; NF=0)
+BT
+ /F2  1 Tf
+ 8  0  0  8  33.75  37.75  Tm
+(        /         /)Tj
+% OWObject (ON=NotaFiscalNumber; OT=RV; FS=6; SI=70; DT=N; OI=14; NO=1; NL=1; NF=0)
+ 60.2975  -0.375 TD(71686)Tj
+ET
+ 120.75  30.25 m  285  30.25 l S
+ 297.75  30.25 m  471  30.25 l S
+Q
+endstreamendobj26 0 obj13040 endobjxref0 28 0000000007 65535 f
+0000000016 00000 n
+0000000069 00000 n
+0000000134 00000 n
+0000036149 00000 n
+0000037361 00000 n
+0000037575 00000 n
+0000000011 00001 f
+0000056993 00000 n
+0000058209 00000 n
+0000058430 00000 n
+0000000015 00001 f
+0000078373 00000 n
+0000079585 00000 n
+0000079804 00000 n
+0000000019 00001 f
+0000099357 00000 n
+0000100571 00000 n
+0000100771 00000 n
+0000000023 00001 f
+0000117569 00000 n
+0000118776 00000 n
+0000118989 00000 n
+0000000027 00001 f
+0000138966 00000 n
+0000139178 00000 n
+0000152274 00000 n
+0000000000 00001 f
+trailer<</Size 28/Info 3 0 R /Root 1 0 R /ID[<7f669070c991caa419c8e665d60f8154><7f669070c991caa419c8e665d60f8154>]>>startxref152297%%EOF3 0 obj<< /ModDate (D:20220628181852-03'00')/DLI (2.0P1w \(Nt\))/OneWorldRelease (B7333)/CreationDate (D:20220628181851-03'00')/Name (RBC76560M)/Version (BRA0027)/Author (BRATWWA1)/BatchCreationDate (2022/6/28   18:18:51)/OWEnvironment (PD7333)/Machine (BRARIOES63)/Host (BRARIOES63)/Printer (\\\\whte0054\\devnull)/PDL#20Program (*JDE PCL)/DecimalSepChar (,)/ThousandsSepChar (.)/Language (P )/DateFormat (AOR)/NumberOfCopies (1)/DateSepChar (/)/Title (Print Nota Fiscal - Sales - Brazil)/Subject (Print Nota Fiscal - Sales - Brazil)/Producer (J.D.Edwards OneWorld \(B7333\))/Creator (Praxair, Inc)/Keywords (RBC76560M, BRA0027, BRARIOES63, PD7333, \\\\whte0054\\devnull)/JobNumber (3089991)/FileName (h:\\jdedwardsoneworld\\ddp\\B7333SP20\\PrintQueue\\RBC76560M_BRA0027_308\9991_PDF.pdf)/SystemInfo (fromOS 5 fromCP 1252 toOS 5 toCP 1252)/PageSize (VertSize 15840 HorzSize 12240, pageOrient 1)/PageInfo (lpi 205, cpi 38 DCFontSz 70)/Sect_0 (SN=Page Header;TP=GRP|CD;BV=None;SI=12;PI=0)/Ctrl_0_0 (CN=Variable 000037; CI=248; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_1_0 (CN=Caracter_Business Unit; CI=270; SI=12; TP=RV; DT=S; AL=CostCenter; FS\=12)/Ctrl_2_0 (CN=Variable 000042; CI=255; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_3_0 (CN=Printed NF Number; CI=49; SI=12; TP=RV; DT=N; AL=NotaFiscalNumber; FS\=6)/Ctrl_4_0 (CN=AA_NOTAFISCAL_AA_HEADER; CI=247; SI=12; TP=RV; DT=S; AL=RptVarObj; FS\=7)/Ctrl_5_0 (CN=Variable 000038; CI=249; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_6_0 (CN=Variable 000042; CI=256; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_7_0 (CN=Nome Filial/F\341brica; CI=237; SI=12; TP=RV; DT=S; AL=NameMailing; F\S=40)/Ctrl_8_0 (CN=; CI=239; SI=12; TP=RV; DT=S; AL=CategoryCodeFiscalRem004; FS=3)/Ctrl_9_0 (CN=S\351rie; CI=198; SI=12; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_10_0 (CN=; CI=183; SI=12; TP=RV; DT=S; AL=NotaFiscalSeries; FS=2)/Ctrl_11_0 (CN=Inbound; CI=46; SI=12; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_12_0 (CN=; CI=176; SI=12; TP=RV; DT=S; AL=CostCenter; FS=12)/Ctrl_13_0 (CN=Outbound; CI=149; SI=12; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_14_0 (CN=Variable 000042; CI=257; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_15_0 (CN=Bairro Emitente; CI=178; SI=12; TP=RV; DT=S; AL=AddSoldToAddLine2; FS\=25)/Ctrl_16_0 (CN=Endereco Emitente; CI=161; SI=12; TP=RV; DT=S; AL=AddSoldToAddLine1; \FS=40)/Ctrl_17_0 (CN=Variable 000042; CI=258; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_18_0 (CN=State 1 Emitente; CI=61; SI=12; TP=RV; DT=S; AL=State; FS=3)/Ctrl_19_0 (CN=CountyEmitente; CI=180; SI=12; TP=RV; DT=S; AL=CountyAddress; FS=40)/Ctrl_20_0 (CN=Phone Number 1 Emitente; CI=67; SI=12; TP=RV; DT=S; AL=PhoneNumber; F\S=20)/Ctrl_21_0 (CN=Postal Code 1 Emitente; CI=133; SI=12; TP=RV; DT=S; AL=ZipCodePostal;\ FS=12)/Ctrl_22_0 (CN=Prefix 1 Emitente; CI=64; SI=12; TP=RV; DT=S; AL=PhoneAreaCode1; FS=6\)/Ctrl_23_0 (CN=Variable 000042; CI=259; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_24_0 (CN=CGC Tax ID Emitente; CI=172; SI=12; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_25_0 (CN=Variable 000042; CI=260; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_26_0 (CN=; CI=191; SI=12; TP=RV; DT=D; AL=IssueDate; FS=6)/Ctrl_27_0 (CN=Variable 000039; CI=252; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_28_0 (CN=Transaction Nature Description; CI=82; SI=12; TP=RV; DT=S; AL=Descrip\tion; FS=55)/Ctrl_29_0 (CN=Variable 000042; CI=261; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_30_0 (CN=Insc Est do Sub Trib Emitente; CI=88; SI=12; TP=RV; DT=S; AL=TaxId2; \FS=20)/Ctrl_31_0 (CN=Inscricao Estadual Emitente; CI=145; SI=12; TP=RV; DT=S; AL=TaxId2; F\S=20)/Ctrl_32_0 (CN=Transaction Nature 4-5 Digitos; CI=232; SI=12; TP=RV; DT=S; AL=CodeTr\ansactionNature; FS=5)/Ctrl_33_0 (CN=; CI=85; SI=12; TP=RV; DT=N; AL=CodeTransactionNature; FS=5)/Ctrl_34_0 (CN=Variable 000042; CI=262; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_35_0 (CN=Variable 000039; CI=250; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_36_0 (CN=Variable 000042; CI=263; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_37_0 (CN=Razao Social Remetente; CI=167; SI=12; TP=RV; DT=S; AL=NameMailing; F\S=40)/Ctrl_38_0 (CN=CGC Tax ID Remetente; CI=174; SI=12; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_39_0 (CN=Variable 000042; CI=264; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_40_0 (CN=Variable 000041; CI=254; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_41_0 (CN=Endereco Remetente; CI=91; SI=12; TP=RV; DT=S; AL=AddShipToAddLine1; \FS=78)/Ctrl_42_0 (CN=Bairro Remetente; CI=170; SI=12; TP=RV; DT=S; AL=AddShipToAddLine2; F\S=35)/Ctrl_43_0 (CN=Postal Code Remetente; CI=153; SI=12; TP=RV; DT=S; AL=ZipCodePostal; \FS=12)/Ctrl_44_0 (CN=Variable 000042; CI=266; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_45_0 (CN=Variable 000040; CI=253; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_46_0 (CN=State Remetente; CI=156; SI=12; TP=RV; DT=S; AL=State; FS=3)/Ctrl_47_0 (CN=Variable 000042; CI=267; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_48_0 (CN=CountyRemetente; CI=196; SI=12; TP=RV; DT=S; AL=CountyAddress; FS=25)/Ctrl_49_0 (CN=Codigo Area Remetente; CI=118; SI=12; TP=RV; DT=S; AL=PhoneAreaCode3;\ FS=6)/Ctrl_50_0 (CN=Telefone Remetente; CI=121; SI=12; TP=RV; DT=S; AL=PhoneNumber3; FS=2\0)/Ctrl_51_0 (CN=Inscricao Estadual Remetente; CI=189; SI=12; TP=RV; DT=S; AL=TaxId2; \FS=20)/Ctrl_52_0 (CN=Variable 000040; CI=251; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_53_0 (CN=Variable 000042; CI=268; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_54_0 (CN=Variable 000036; CI=240; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_55_0 (CN=Variable 000036; CI=271; SI=12; TP=RV; DT=S; AL=RptVarObj; FS=30)/Sect_1 (SN=Page Footer;TP=GRP|CD;BV=None;SI=13;PI=0)/Ctrl_0_1 (CN=Variable 000084; CI=225; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_1_1 (CN=STRING_ICMS Tax; CI=207; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_2_1 (CN=STRING_Goods Value; CI=200; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_3_1 (CN=STRING_ICMS Amount; CI=208; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_4_1 (CN=Linha Mensagem ONU 2; CI=193; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_5_1 (CN=STRING_RV N.F. Total; CI=223; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15\)/Ctrl_6_1 (CN=STRING_ICMS Substitution; CI=205; SI=13; TP=RV; DT=S; AL=RptVarObj; F\S=15)/Ctrl_7_1 (CN=STRING_ICMS Substitute; CI=203; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=\15)/Ctrl_8_1 (CN=NF Total \(In words\); CI=89; SI=13; TP=RV; DT=S; AL=ConfiguredString\Segment01; FS=100)/Ctrl_9_1 (CN=; CI=2; SI=13; TP=RV; DT=N; AL=AmountICMSTaxableAmount; FS=15)/Ctrl_10_1 (CN=; CI=5; SI=13; TP=RV; DT=N; AL=AmountICMSTax; FS=15)/Ctrl_11_1 (CN=; CI=14; SI=13; TP=RV; DT=N; AL=AmountICMSSubstitute; FS=15)/Ctrl_12_1 (CN=; CI=11; SI=13; TP=RV; DT=N; AL=AmountGoodsValue; FS=15)/Ctrl_13_1 (CN=Linha Mensagem ONU 1; CI=192; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_14_1 (CN=; CI=8; SI=13; TP=RV; DT=N; AL=AmountTaxableICMSSubstiT; FS=15)/Ctrl_15_1 (CN=Variable 000085; CI=226; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_16_1 (CN=Carrier Ref 1; CI=83; SI=13; TP=RV; DT=S; AL=Reference; FS=15)/Ctrl_17_1 (CN=Linha Mensagem ONU 3; CI=194; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_18_1 (CN=; CI=159; SI=13; TP=RV; DT=S; AL=ReasonCode; FS=3)/Ctrl_19_1 (CN=NumberAtivo; CI=197; SI=13; TP=RV; DT=S; AL=GenericTextWindowLine; FS\=80)/Ctrl_20_1 (CN=Variable 000086; CI=227; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_21_1 (CN=STRING_IPI Tax; CI=202; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_22_1 (CN=STRING_Expenses; CI=204; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_23_1 (CN=STRING_Insurance; CI=206; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_24_1 (CN=STRING_Freight; CI=209; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=15)/Ctrl_25_1 (CN=; CI=23; SI=13; TP=RV; DT=N; AL=AmountFinancialExpenses; FS=15)/Ctrl_26_1 (CN=; CI=20; SI=13; TP=RV; DT=N; AL=AmountNotaFiscalInsuranc; FS=15)/Ctrl_27_1 (CN=IPI Tax A; CI=26; SI=13; TP=RV; DT=N; AL=AmountIPITax; FS=15)/Ctrl_28_1 (CN=; CI=17; SI=13; TP=RV; DT=N; AL=AmountNotaFiscalFreight; FS=15)/Ctrl_29_1 (CN=; CI=29; SI=13; TP=RV; DT=N; AL=AmountNotaFiscalTotals; FS=15)/Ctrl_30_1 (CN=Linha Mensagem ONU 4; CI=195; SI=13; TP=RV; DT=S; AL=LongMessage; FS=\90)/Ctrl_31_1 (CN=Variable 000087; CI=228; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_32_1 (CN=Linha Mensagem 6; CI=185; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_33_1 (CN=Linha Mensagem 1; CI=144; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_34_1 (CN=; CI=44; SI=13; TP=RV; DT=S; AL=StateCode; FS=3)/Ctrl_35_1 (CN=; CI=103; SI=13; TP=RV; DT=N; AL=UserReservedAmount; FS=15)/Ctrl_36_1 (CN=; CI=100; SI=13; TP=RV; DT=S; AL=PaymentTermsCode01; FS=3)/Ctrl_37_1 (CN=Carrier Mailing Name; CI=170; SI=13; TP=RV; DT=S; AL=NameMailing; FS=\40)/Ctrl_38_1 (CN=Description Payment Terms; CI=101; SI=13; TP=AD; DT=S; AL=Description\; FS=30)/Ctrl_39_1 (CN=AA_String_NF_Number_AA_2; CI=219; SI=13; TP=RV; DT=S; AL=RptVarObj; F\S=7)/Ctrl_40_1 (CN=Variable 000088; CI=229; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_41_1 (CN=Linha Mensagem 7; CI=184; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_42_1 (CN=Linha Mensagem 2; CI=145; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_43_1 (CN=TotalNFParaDesconto; CI=242; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=13)/Ctrl_44_1 (CN=Frete Por Conta; CI=139; SI=13; TP=RV; DT=S; AL=AlphaSpecData10; FS=1\)/Ctrl_45_1 (CN=Variable 000089; CI=230; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_46_1 (CN=Issue Date Venda Origem; CI=107; SI=13; TP=RV; DT=D; AL=IssueDate; FS\=6)/Ctrl_47_1 (CN=N.F. Number Venda Origem; CI=105; SI=13; TP=RV; DT=N; AL=NotaFiscalNu\mber; FS=6)/Ctrl_48_1 (CN=Serie Fiscal NF Origem; CI=176; SI=13; TP=RV; DT=S; AL=ALTERNATE_CONV\ERSN_SR; FS=3)/Ctrl_49_1 (CN=Order Type Venda Origem; CI=109; SI=13; TP=RV; DT=S; AL=OrderType; FS\=2)/Ctrl_50_1 (CN=; CI=95; SI=13; TP=RV; DT=S; AL=FreightHandlingCode; FS=3)/Ctrl_51_1 (CN=Vencimento; CI=162; SI=13; TP=RV; DT=D; AL=DateFuture1; FS=6)/Ctrl_52_1 (CN=Remark 04 Rodap\3512; CI=222; SI=13; TP=RV; DT=S; AL=CategoryCodeFisc\alRem004; FS=3)/Ctrl_53_1 (CN=Carrier Mailing Name; CI=93; SI=13; TP=RV; DT=S; AL=NameMailing; FS=4\0)/Ctrl_54_1 (CN=Carrier State_2; CI=198; SI=13; TP=RV; DT=S; AL=State; FS=3)/Ctrl_55_1 (CN=; CI=41; SI=13; TP=RV; DT=S; AL=LICENSE_PLATE_NUMBER; FS=10)/Ctrl_56_1 (CN=N.F. Series Rodape; CI=221; SI=13; TP=RV; DT=S; AL=NotaFiscalSeries; \FS=2)/Ctrl_57_1 (CN=Carrier CGC Tax ID; CI=91; SI=13; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_58_1 (CN=Linha Mensagem 3; CI=146; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_59_1 (CN=Linha Mensagem 8; CI=183; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_60_1 (CN=TotalDescontoParaDesconto; CI=243; SI=13; TP=RV; DT=S; AL=RptVarObj; \FS=13)/Ctrl_61_1 (CN=; CI=38; SI=13; TP=RV; DT=S; AL=CarrierType; FS=3)/Ctrl_62_1 (CN=Variable 000090; CI=231; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_63_1 (CN=Linha Mensagem 4; CI=147; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_64_1 (CN=Linha Mensagem 9; CI=186; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_65_1 (CN=Motivo Devolu\347\343o; CI=114; SI=13; TP=RV; DT=S; AL=Description001\; FS=30)/Ctrl_66_1 (CN=BarradeAte; CI=216; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=1)/Ctrl_67_1 (CN=NumPaginadeAte; CI=215; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_68_1 (CN=TotPaginadeAte; CI=217; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_69_1 (CN=LabelContinuadeAte; CI=218; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=11)/Ctrl_70_1 (CN=LabelFolhadeAte; CI=213; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=6)/Ctrl_71_1 (CN=Carrier Address Line 1; CI=32; SI=13; TP=RV; DT=S; AL=AddSoldToAddLin\e1; FS=40)/Ctrl_72_1 (CN=Carrier County; CI=97; SI=13; TP=RV; DT=S; AL=CountyAddress; FS=25)/Ctrl_73_1 (CN=Carrier Add'l Co Tax ID; CI=59; SI=13; TP=RV; DT=S; AL=TaxId1; FS=16)/Ctrl_74_1 (CN=Carrier State; CI=56; SI=13; TP=RV; DT=S; AL=State; FS=3)/Ctrl_75_1 (CN=Carrier Address Line 2; CI=35; SI=13; TP=RV; DT=S; AL=AddSoldToAddLin\e2; FS=40)/Ctrl_76_1 (CN=Variable 000090; CI=232; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_77_1 (CN=Order Number Rodape; CI=128; SI=13; TP=RV; DT=N; AL=DocumentOrderInvo\iceE; FS=8)/Ctrl_78_1 (CN=Order Type CPD Rodape; CI=118; SI=13; TP=RV; DT=S; AL=OrderType; FS=2\)/Ctrl_79_1 (CN=Linha Mensagem 5; CI=148; SI=13; TP=RV; DT=S; AL=GenericTextWindowLin\e; FS=43)/Ctrl_80_1 (CN=Carrier Ref 2; CI=68; SI=13; TP=RV; DT=S; AL=Reference2; FS=8)/Ctrl_81_1 (CN=Business Unit Rodape; CI=116; SI=13; TP=RV; DT=S; AL=CostCenter; FS=1\2)/Ctrl_82_1 (CN=Header Business Unit Rodape; CI=120; SI=13; TP=RV; DT=S; AL=CostCente\rHeader; FS=12)/Ctrl_83_1 (CN=Linha Mensagem 10; CI=187; SI=13; TP=RV; DT=S; AL=GenericTextWindowLi\ne; FS=43)/Ctrl_84_1 (CN=Carrier City; CI=50; SI=13; TP=RV; DT=S; AL=CityC; FS=3)/Ctrl_85_1 (CN=Variable 000090; CI=233; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_86_1 (CN=; CI=65; SI=13; TP=RV; DT=S; AL=EquipmentType; FS=15)/Ctrl_87_1 (CN=; CI=62; SI=13; TP=RV; DT=N; AL=TotalQuantity; FS=15)/Ctrl_88_1 (CN=STRING_Unit Weight; CI=211; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=11)/Ctrl_89_1 (CN=StringWhiteMartins; CI=237; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_90_1 (CN=Carrier Postal Code; CI=86; SI=13; TP=RV; DT=S; AL=ZipCodePostal; FS=\12)/Ctrl_91_1 (CN=; CI=71; SI=13; TP=RV; DT=N; AL=TotalWeight; FS=10)/Ctrl_92_1 (CN=STRING_Total Sales Wt; CI=210; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=1\0)/Ctrl_93_1 (CN=; CI=74; SI=13; TP=RV; DT=N; AL=AmountUnitWeight; FS=10)/Ctrl_94_1 (CN=Variable 000090; CI=234; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Ctrl_95_1 (CN=Variable 000090; CI=236; SI=13; TP=RV; DT=S; AL=RptVarObj; FS=30)/Sect_2 (SN=Detail 3 Taxes;TP=GRP|CD;BV=None;SI=23;PI=0)/Ctrl_0_2 (CN=Summary ICMS Tax Situation; CI=2; SI=23; TP=RV; DT=S; AL=CodeICMSTaxS\tatus; FS=2)/Ctrl_1_2 (CN=Summary ICMS Taxable; CI=4; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_2_2 (CN=Summary ICMS Tax; CI=8; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_3_2 (CN=Summary ICMS Tax Rate; CI=12; SI=23; TP=RV; DT=N; AL=TaxRate1; FS=9)/Ctrl_4_2 (CN=Summary IPI Tax Situation; CI=14; SI=23; TP=RV; DT=S; AL=CodeICMSTaxS\tatus; FS=2)/Ctrl_5_2 (CN=Summary IPI Taxable; CI=16; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_6_2 (CN=Summary IPI Tax; CI=18; SI=23; TP=RV; DT=N; AL=AmountAa1; FS=21)/Ctrl_7_2 (CN=Summary IPI Tax Rate; CI=22; SI=23; TP=RV; DT=N; AL=TaxRate2; FS=9)/Ctrl_8_2 (CN=; CI=24; SI=23; TP=RV; DT=S; AL=testing; FS=1)/Sect_3 (SN=Page Break;TP=GRP|CD;BV=None;SI=27;PI=0)/Sect_4 (SN=Detail 4 Blank Lines;TP=GRP|CD;BV=None;SI=29;PI=0)/Ctrl_0_4 (CN=Print Blank Lines; CI=2; SI=29; TP=RV; DT=S; AL=Description; FS=30)/Sect_5 (SN=Nota Fiscal Generic Text Revis;TP=GRP|CD;BV=V7612B;SI=33;PI=0)/Sect_6 (SN=Update Nota Fiscal Header F7601B;TP=GRP|CD;BV=V7601B;SI=34;PI=0)/Sect_7 (SN=Tax Header;TP=GRP|CD;BV=None;SI=36;PI=0)/Ctrl_0_7 (CN=---------------- ICMS --------; CI=6; SI=36; TP=RC; DT=S; AL=RptConst\Obj; FS=107)/Ctrl_1_7 (CN=--------------------- IPI ----; CI=7; SI=36; TP=RC; DT=S; AL=RptConst\Obj; FS=107)/Ctrl_2_7 (CN=CST; CI=8; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_3_7 (CN=Valor da opera\347\343o; CI=9; SI=36; TP=RC; DT=S; AL=RptConstObj; FS\=17)/Ctrl_4_7 (CN=Al\355quota; CI=10; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_5_7 (CN=Valor; CI=11; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_6_7 (CN=CST; CI=12; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_7_7 (CN=Valor da opera\347\343o; CI=13; SI=36; TP=RC; DT=S; AL=RptConstObj; F\S=17)/Ctrl_8_7 (CN=Al\355quota; CI=14; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_9_7 (CN=Valor; CI=15; SI=36; TP=RC; DT=S; AL=RptConstObj; FS=5)/Sect_8 (SN=Detail 5 Print All Sections;TP=GRP|CD;BV=None;SI=37;PI=0)/Sect_9 (SN=itens de Servi\347o;TP=GRP|CD;BV=None;SI=38;PI=0)/Ctrl_0_9 (CN=Item Number Servico; CI=2; SI=38; TP=RV; DT=S; AL=Identifier2ndItem; \FS=8)/Ctrl_1_9 (CN=Description Servico; CI=4; SI=38; TP=RV; DT=S; AL=Description001; FS=\50)/Ctrl_2_9 (CN=Qtd_Item; CI=21; SI=38; TP=RV; DT=S; AL=RptVarObj; FS=9)/Ctrl_3_9 (CN=STRING_ISS Tax Servico; CI=20; SI=38; TP=RV; DT=S; AL=RptVarObj; FS=1\0)/Ctrl_4_9 (CN=STRING_Extended Price Servico; CI=19; SI=38; TP=RV; DT=S; AL=RptVarOb\j; FS=10)/Ctrl_5_9 (CN=STRING_Unit Price Servico; CI=18; SI=38; TP=RV; DT=S; AL=RptVarObj; F\S=10)/Ctrl_6_9 (CN=Taxpayer ID - Municipality Ser; CI=14; SI=38; TP=RV; DT=S; AL=Municip\alityTaxpayerID; FS=12)/Ctrl_7_9 (CN=NumeroListaServico; CI=16; SI=38; TP=RV; DT=S; AL=PurchReportingCode6\; FS=4)/Ctrl_8_9 (CN=STRING_Tax Rate 3 Servico; CI=17; SI=38; TP=RV; DT=S; AL=RptVarObj; F\S=7)/Ctrl_9_9 (CN=Extended Price Servico_OCULTO; CI=10; SI=38; TP=RV; DT=N; AL=AmountEx\tendedPrice; FS=10)/Ctrl_10_9 (CN=ISS Tax Servico_OCULTO; CI=12; SI=38; TP=RV; DT=N; AL=AmountISSTax; F\S=10)/Ctrl_11_9 (CN=Unit Price Servico_OCULTO; CI=8; SI=38; TP=RV; DT=N; AL=AmtPricePerUn\it2; FS=10)/Ctrl_12_9 (CN=Tax Rate 3 Servico_OCULTO; CI=6; SI=38; TP=RV; DT=N; AL=TaxRate3; FS=\7)/Sect_10 (SN=Linha de Desconto;TP=GRP|CD;BV=None;SI=39;PI=0)/Ctrl_0_10 (CN=Item Number Desconto_OCULTO; CI=2; SI=39; TP=RV; DT=S; AL=Identifier2\ndItem; FS=8)/Ctrl_1_10 (CN=Description Desconto; CI=3; SI=39; TP=RV; DT=S; AL=Description001; FS\=30)/Ctrl_2_10 (CN=Fiscal Class Desconto_OCULTO; CI=4; SI=39; TP=RV; DT=S; AL=FiscalClas\sification; FS=10)/Ctrl_3_10 (CN=ICMS Tax Situation Desconto_OC; CI=5; SI=39; TP=RV; DT=S; AL=CodeICMS\TaxStatus; FS=3)/Ctrl_4_10 (CN=U/M Desconto_OCULTO; CI=6; SI=39; TP=RV; DT=S; AL=UnitOfMeasureAsInpu\t; FS=2)/Ctrl_5_10 (CN=Quantity Desconto_OCULTO; CI=7; SI=39; TP=RV; DT=N; AL=UnitsTransacti\onQty; FS=10)/Ctrl_6_10 (CN=Unit Price Desconto_OCULTO; CI=8; SI=39; TP=RV; DT=N; AL=AmtPricePerU\nit2; FS=10)/Ctrl_7_10 (CN=Tax Rate 1 Desconto_OCULTO; CI=10; SI=39; TP=RV; DT=N; AL=TaxRate1; F\S=7)/Ctrl_8_10 (CN=STRING_Porcentaje; CI=14; SI=39; TP=RV; DT=S; AL=RptVarObj; FS=13)/Ctrl_9_10 (CN=CodigoONUDesconto_OCULTO; CI=12; SI=39; TP=RV; DT=S; AL=Description01\002; FS=10)/Ctrl_10_10 (CN=STRING_Extended Price Desconto; CI=13; SI=39; TP=RV; DT=S; AL=RptVarO\bj; FS=13)/Ctrl_11_10 (CN=Extended Price Desconto_OCULTO; CI=11; SI=39; TP=RV; DT=N; AL=AmountE\xtendedPrice; FS=10)/Sect_11 (SN=Segunda Descri\347\343o;TP=GRP|CD;BV=None;SI=40;PI=0)/Ctrl_0_11 (CN=Description Segunda Descricao; CI=1; SI=40; TP=RV; DT=S; AL=Descripti\on001; FS=30)/Ctrl_1_11 (CN=Codigo ONU_NOVO; CI=2; SI=40; TP=RV; DT=S; AL=RptVarObj; FS=30)/Sect_12 (SN=N\372mero Nota Rodap\351;TP=GRP|CD;BV=None;SI=43;PI=0)/Sect_13 (SN=ASTERISCOS;TP=GRP|CD;BV=None;SI=45;PI=0)/Ctrl_0_13 (CN=XXXXXXXXXXXXXXXXXXXXXXXX; CI=5; SI=45; TP=RC; DT=S; AL=RptConstObj; F\S=24)/Ctrl_1_13 (CN=LabelFolhadeAte; CI=11; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=6)/Ctrl_2_13 (CN=NumPaginadeAte; CI=12; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_3_13 (CN=BarradeAte; CI=13; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=1)/Ctrl_4_13 (CN=TotPaginadeAte; CI=14; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=2)/Ctrl_5_13 (CN=LabelContinuadeAte; CI=15; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=11)/Ctrl_6_13 (CN=BBB_StringSello_BBB; CI=21; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=12)/Ctrl_7_13 (CN=AA_String_NF_Number_AA; CI=16; SI=45; TP=RV; DT=S; AL=RptVarObj; FS=7\)/Ctrl_8_13 (CN=N.F. Series Rodape; CI=18; SI=45; TP=RV; DT=S; AL=NotaFiscalSeries; F\S=2)/Ctrl_9_13 (CN=Remark 04 Rodap\351; CI=19; SI=45; TP=RV; DT=S; AL=CategoryCodeFiscal\Rem004; FS=3)/Ctrl_10_13 (CN=S\351rie; CI=17; SI=45; TP=RC; DT=S; AL=RptConstObj; FS=5)/Sect_14 (SN=Conta Paginas;TP=GRP|CD;BV=V7611BB;SI=47;PI=0)/Ctrl_0_14 (CN=; CI=2; SI=47; TP=RC; DT=S; AL=FDN001; FS=15)/Ctrl_1_14 (CN=; CI=3; SI=47; TP=RV; DT=N; AL=FDN001; FS=8)/Sect_15 (SN=On Next Number 001;TP=GRP|LH;BV=V7611BB;SI=60;PI=47)/Sect_16 (SN=StrinPiePagina;TP=GRP|CD;BV=None;SI=49;PI=0)/Ctrl_0_16 (CN=AAStringMensajePiePaginaAA; CI=1; SI=49; TP=RV; DT=S; AL=RptVarObj; F\S=100)/Ctrl_1_16 (CN=AAA_StringSello_AAA; CI=2; SI=49; TP=RV; DT=S; AL=RptVarObj; FS=12)/Sect_17 (SN=SERIR/NUMERO-NF;TP=GRP|CD;BV=None;SI=50;PI=0)/Ctrl_0_17 (CN=AA_String_NF_Number_AA_PIE; CI=1; SI=50; TP=RV; DT=S; AL=RptVarObj; F\S=7)/Ctrl_1_17 (CN=S\351rie; CI=2; SI=50; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_2_17 (CN=N.F. Series Rodape; CI=3; SI=50; TP=RV; DT=S; AL=NotaFiscalSeries; FS\=2)/Ctrl_3_17 (CN=Remark 04 Rodap\351PIE; CI=4; SI=50; TP=RV; DT=S; AL=CategoryCodeFisc\alRem004; FS=3)/Sect_18 (SN=NF Reservada;TP=GRP|CD;BV=None;SI=51;PI=0)/Ctrl_0_18 (CN=NOTA FISCAL RESERVADA - VERIFI; CI=1; SI=51; TP=RC; DT=S; AL=RptConst\Obj; FS=98)/Sect_19 (SN=Update Detail;TP=GRP|CD;BV=None;SI=55;PI=0)/Sect_20 (SN=Error en la coneccion;TP=GRP|CD;BV=None;SI=56;PI=0)/Ctrl_0_20 (CN=MensajeErrorIntegridadCommit1; CI=3; SI=56; TP=RV; DT=S; AL=RptVarObj\; FS=100)/Ctrl_1_20 (CN=MensajeErrorIntegridadCommit2; CI=4; SI=56; TP=RV; DT=S; AL=RptVarObj\; FS=100)/Sect_21 (SN=ReterYN;TP=GRP|CD;BV=None;SI=57;PI=0)/Sect_22 (SN=REPASSE IMP RETIDO;TP=GRP|CD;BV=None;SI=59;PI=0)/Ctrl_0_22 (CN=\(  *  \); CI=1; SI=59; TP=RC; DT=S; AL=RptConstObj; FS=7)/Ctrl_1_22 (CN=REPASSE IMP RETIDO NA FASE ANT; CI=2; SI=59; TP=RC; DT=S; AL=RptConst\Obj; FS=30)/Ctrl_2_22 (CN=SUBSTITUICAO LINHA PRODUTO; CI=3; SI=59; TP=RV; DT=S; AL=RptVarObj; F\S=12)/Sect_23 (SN=Msg de Reducao na Base ICMS;TP=GRP|CD;BV=None;SI=61;PI=0)/Ctrl_0_23 (CN=MsgRedICMS_ColA; CI=1; SI=61; TP=RV; DT=S; AL=RptVarObj; FS=200)/Ctrl_1_23 (CN=MsgRedICMS_ColB; CI=2; SI=61; TP=RV; DT=S; AL=RptVarObj; FS=200)/Sect_24 (SN=Erro;TP=GRP|CD;BV=None;SI=62;PI=0)/Ctrl_0_24 (CN=szMsgErro; CI=1; SI=62; TP=RV; DT=S; AL=RptVarObj; FS=130)/Sect_25 (SN=NEW Dados Adicionais;TP=GRP|CD;BV=None;SI=63;PI=0)/Ctrl_0_25 (CN=INFORMA\307\325ES ADICIONAIS; CI=1; SI=63; TP=RC; DT=S; AL=RptConstOb\j; FS=22)/Ctrl_1_25 (CN=                    ; CI=2; SI=63; TP=RC; DT=S; AL=RptConstObj; FS=20\)/Ctrl_2_25 (CN=MensagemCampo1; CI=3; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_3_25 (CN=MensagemCampo2; CI=4; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_4_25 (CN=MensagemCampo3; CI=5; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_5_25 (CN=; CI=14; SI=63; TP=RV; DT=N; AL=UserReservedAmount; FS=15)/Ctrl_6_25 (CN=MensagemCampo4; CI=6; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_7_25 (CN=MensagemCampo5; CI=7; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_8_25 (CN=MensagemCampo6; CI=8; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_9_25 (CN=MensagemCampo7; CI=9; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_10_25 (CN=MensagemCampo8; CI=10; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_11_25 (CN=                              ; CI=11; SI=63; TP=RC; DT=S; AL=RptCons\tObj; FS=185)/Ctrl_12_25 (CN=MensagemCampo9; CI=12; SI=63; TP=RV; DT=S; AL=RptVarObj; FS=100)/Ctrl_13_25 (CN=OPERA\307\303O N\303O SUJEITA AO I.S.S.; CI=13; SI=63; TP=RC; DT=S; A\L=RptConstObj; FS=70)/Sect_26 (SN=New Page Header;TP=GRP|CD;BV=None;SI=64;PI=0)/Ctrl_0_26 (CN=A             ; CI=27; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=14)/Ctrl_1_26 (CN=B   ; CI=28; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_2_26 (CN=Printed NF NumberNew; CI=3; SI=64; TP=RV; DT=N; AL=NotaFiscalNumber; \FS=6)/Ctrl_3_26 (CN=N\272; CI=2; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2)/Ctrl_4_26 (CN=NOTA DE COBRAN\307A; CI=1; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=16)/Ctrl_5_26 (CN=/; CI=6; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=1)/Ctrl_6_26 (CN=TotalPaginas; CI=7; SI=64; TP=RV; DT=N; AL=RptVarObj; FS=3)/Ctrl_7_26 (CN=Pagina; CI=5; SI=64; TP=RV; DT=N; AL=RptVarObj; FS=6)/Ctrl_8_26 (CN=PG; CI=4; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2)/Ctrl_9_26 (CN=VIA UNICA; CI=9; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_10_26 (CN=Inbound; CI=8; SI=64; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_11_26 (CN=NomedaCia; CI=10; SI=64; TP=RV; DT=S; AL=Name; FS=40)/Ctrl_12_26 (CN=                    ; CI=53; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2\0)/Ctrl_13_26 (CN=Outbound; CI=13; SI=64; TP=RV; DT=S; AL=EverestEventPoint01; FS=1)/Ctrl_14_26 (CN=UNIDADE:; CI=12; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_15_26 (CN=Nome Filial/F\341brica; CI=11; SI=64; TP=RV; DT=S; AL=NameMailing; FS\=40)/Ctrl_16_26 (CN=     ; CI=37; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=5)/Ctrl_17_26 (CN=        ; CI=38; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_18_26 (CN=CNPJ; CI=29; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_19_26 (CN=Data da Emiss\343o; CI=31; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=15)/Ctrl_20_26 (CN=                        ; CI=30; SI=64; TP=RC; DT=S; AL=RptConstObj; \FS=24)/Ctrl_21_26 (CN=Bairro Emitente; CI=17; SI=64; TP=RV; DT=S; AL=AddSoldToAddLine2; FS=\20)/Ctrl_22_26 (CN=BAIRRO/DISTRITO:; CI=16; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=16)/Ctrl_23_26 (CN=Endereco EmitenteHeader; CI=15; SI=64; TP=RV; DT=S; AL=AddSoldToAddLi\ne1; FS=40)/Ctrl_24_26 (CN=ENDERE\307O:; CI=14; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_25_26 (CN=CGC Tax ID Emitente; CI=32; SI=64; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_26_26 (CN=                              ; CI=36; SI=64; TP=RC; DT=S; AL=RptCons\tObj; FS=38)/Ctrl_27_26 (CN=CountyEmitente; CI=18; SI=64; TP=RV; DT=S; AL=CountyAddress; FS=40)/Ctrl_28_26 (CN=MUNICIPIO:; CI=19; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=10)/Ctrl_29_26 (CN=State 1 EmitenteHeaderNew; CI=21; SI=64; TP=RV; DT=S; AL=State; FS=3)/Ctrl_30_26 (CN=UF:; CI=20; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_31_26 (CN=                    ; CI=55; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2\0)/Ctrl_32_26 (CN=Issue DateNew; CI=33; SI=64; TP=RV; DT=D; AL=IssueDate; FS=6)/Ctrl_33_26 (CN=INSCRI\307\303O ESTADUAL; CI=34; SI=64; TP=RC; DT=S; AL=RptConstObj; \FS=18)/Ctrl_34_26 (CN=Phone Number 1 EmitenteNew; CI=24; SI=64; TP=RV; DT=S; AL=PhoneNumber\; FS=20)/Ctrl_35_26 (CN=Postal Code 1 EmitenteNew; CI=26; SI=64; TP=RV; DT=S; AL=ZipCodePosta\l; FS=12)/Ctrl_36_26 (CN=FONE/FAX:; CI=22; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_37_26 (CN=Prefix 1 EmitenteNew; CI=23; SI=64; TP=RV; DT=S; AL=PhoneAreaCode1; F\S=6)/Ctrl_38_26 (CN=CEP:; CI=25; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_39_26 (CN=Inscricao Estadual Emitente; CI=35; SI=64; TP=RV; DT=S; AL=TaxId2; FS\=20)/Ctrl_40_26 (CN=DESTINAT\301RIO; CI=39; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=12)/Ctrl_41_26 (CN=   ; CI=57; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_42_26 (CN=                    ; CI=54; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=2\0)/Ctrl_43_26 (CN=         ; CI=56; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_44_26 (CN=C.N.P.J /C.P.F; CI=58; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=14)/Ctrl_45_26 (CN=NOME /RAZ\303O SOCIAL; CI=40; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=\18)/Ctrl_46_26 (CN=Razao Social Remetente; CI=41; SI=64; TP=RV; DT=S; AL=NameMailing; FS\=40)/Ctrl_47_26 (CN=CGC Tax ID Remetente; CI=59; SI=64; TP=RV; DT=S; AL=TaxId; FS=20)/Ctrl_48_26 (CN=BAIRRO /DISTRITO; CI=43; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=16)/Ctrl_49_26 (CN=CEP; CI=60; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_50_26 (CN=ENDERE\307O; CI=42; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=8)/Ctrl_51_26 (CN=Postal Code RemetenteNew; CI=61; SI=64; TP=RV; DT=S; AL=ZipCodePostal\; FS=12)/Ctrl_52_26 (CN=Endereco RemetenteHeader; CI=44; SI=64; TP=RV; DT=S; AL=AddShipToAddL\ine1; FS=78)/Ctrl_53_26 (CN=Bairro RemetenteHeader; CI=45; SI=64; TP=RV; DT=S; AL=AddShipToAddLin\e2; FS=35)/Ctrl_54_26 (CN=MUNICIPIO; CI=46; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_55_26 (CN=FONE /FAX; CI=47; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_56_26 (CN=U.F.; CI=48; SI=64; TP=RC; DT=S; AL=RptConstObj; FS=4)/Ctrl_57_26 (CN=INSCRI\307\303O ESTADUAL; CI=62; SI=64; TP=RC; DT=S; AL=RptConstObj; \FS=18)/Ctrl_58_26 (CN=Codigo Area RemetenteHeader; CI=49; SI=64; TP=RV; DT=S; AL=PhoneAreaC\ode3; FS=6)/Ctrl_59_26 (CN=Telefone RemetenteHeader; CI=50; SI=64; TP=RV; DT=S; AL=PhoneNumber3;\ FS=20)/Ctrl_60_26 (CN=CountyRemetente; CI=51; SI=64; TP=RV; DT=S; AL=CountyAddress; FS=25)/Ctrl_61_26 (CN=State Remetente; CI=52; SI=64; TP=RV; DT=S; AL=State; FS=3)/Ctrl_62_26 (CN=Inscricao Estadual Remetente; CI=63; SI=64; TP=RV; DT=S; AL=TaxId2; F\S=20)/Sect_27 (SN=NEW Nota Fiscal Detail - Update - Brazil;TP=GRP|CD;BV=V7611BB;SI=65;P\I=0)/Ctrl_0_27 (CN=                              ; CI=1; SI=65; TP=RC; DT=S; AL=RptConst\Obj; FS=89)/Ctrl_1_27 (CN=                              ; CI=2; SI=65; TP=RC; DT=S; AL=RptConst\Obj; FS=58)/Ctrl_2_27 (CN=                              ; CI=3; SI=65; TP=RC; DT=S; AL=RptConst\Obj; FS=157)/Ctrl_3_27 (CN=; CI=6; SI=65; TP=RV; DT=N; AL=FDDOCO; FS=8)/Ctrl_4_27 (CN=; CI=5; SI=65; TP=RC; DT=S; AL=FDDOCO; FS=12)/Ctrl_5_27 (CN=; CI=15; SI=65; TP=RV; DT=N; AL=FDAEXP; FS=15)/Ctrl_6_27 (CN=; CI=14; SI=65; TP=RV; DT=N; AL=FDUPRC; FS=15)/Ctrl_7_27 (CN=; CI=11; SI=65; TP=RV; DT=S; AL=FDLITM; FS=8)/Ctrl_8_27 (CN=; CI=13; SI=65; TP=RV; DT=N; AL=FDUORG; FS=15)/Ctrl_9_27 (CN=; CI=12; SI=65; TP=RV; DT=S; AL=FDDSC1; FS=30)/Ctrl_10_27 (CN=; CI=8; SI=65; TP=RV; DT=S; AL=CategoryCodeAddressBk26; FS=3)/Ctrl_11_27 (CN=; CI=7; SI=65; TP=RC; DT=S; AL=CategoryCodeAddressBk26; FS=29)/Ctrl_12_27 (CN=; CI=9; SI=65; TP=RC; DT=S; AL=FDDCT; FS=13)/Ctrl_13_27 (CN=; CI=10; SI=65; TP=RV; DT=S; AL=FDDCT; FS=2)/Ctrl_14_27 (CN=\(*\); CI=4; SI=65; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_15_27 (CN=IPI Tax_OCULTO; CI=16; SI=65; TP=RV; DT=N; AL=FDBIPI; FS=10)/Sect_28 (SN=New On Document Type;TP=GRP|LH;BV=V7611BB;SI=69;PI=65)/Sect_29 (SN=NEW Cabe\347alhodadosdocumento;TP=GRP|CD;BV=None;SI=66;PI=0)/Ctrl_0_29 (CN=DADOS DO DOCUMENTO; CI=1; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=18)/Ctrl_1_29 (CN=\(*\); CI=2; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_2_29 (CN=                              ; CI=3; SI=66; TP=RC; DT=S; AL=RptConst\Obj; FS=157)/Ctrl_3_29 (CN=                              ; CI=4; SI=66; TP=RC; DT=S; AL=RptConst\Obj; FS=89)/Ctrl_4_29 (CN=                              ; CI=5; SI=66; TP=RC; DT=S; AL=RptConst\Obj; FS=58)/Ctrl_5_29 (CN=C\323DIGO; CI=6; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=6)/Ctrl_6_29 (CN=DESCRI\307\303O; CI=7; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=9)/Ctrl_7_29 (CN=QUANTIDADE; CI=8; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=10)/Ctrl_8_29 (CN=VALOR UNIT\301RIO; CI=9; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=14)/Ctrl_9_29 (CN=VALOR TOTAL; CI=10; SI=66; TP=RC; DT=S; AL=RptConstObj; FS=11)/Sect_30 (SN=NEW Dados de Seguran\347a;TP=GRP|CD;BV=None;SI=67;PI=0)/Ctrl_0_30 (CN=                       ; CI=1; SI=67; TP=RC; DT=S; AL=RptConstObj; FS\=23)/Ctrl_1_30 (CN=VALOR TOTAL DA NOTA DE COBRAN\307; CI=2; SI=67; TP=RC; DT=S; AL=RptCo\nstObj; FS=31)/Ctrl_2_30 (CN=xxxxxxxxxxxxxxxxx; CI=3; SI=67; TP=RC; DT=S; AL=RptConstObj; FS=17)/Ctrl_3_30 (CN=ValorTotalNCL; CI=4; SI=67; TP=RV; DT=N; AL=RptVarObj; FS=15)/Ctrl_4_30 (CN=DADOS DE SEGURAN\307A /MANUSEIO D; CI=5; SI=67; TP=RC; DT=S; AL=RptCo\nstObj; FS=63)/Ctrl_5_30 (CN=                    ; CI=6; SI=67; TP=RC; DT=S; AL=RptConstObj; FS=20\)/Ctrl_6_30 (CN=- SE  VOC\312  N\303O  RECEBEU  TODA; CI=7; SI=67; TP=RC; DT=S; AL=Rp\tConstObj; FS=114)/Ctrl_7_30 (CN=SEGURAN\307A  DE  PRODUTOS QU\315MIC; CI=8; SI=67; TP=RC; DT=S; AL=Rp\tConstObj; FS=114)/Ctrl_8_30 (CN=SOLICITE OS MESMOS IMEDIATAMEN; CI=10; SI=67; TP=RC; DT=S; AL=RptCons\tObj; FS=79)/Ctrl_9_30 (CN=DE CILINDROS,TANQUES,ETC.\),; CI=9; SI=67; TP=RC; DT=S; AL=RptConstOb\j; FS=27)/Ctrl_10_30 (CN=OU CONTACTE-NOS ATRAV\311S DO TEL; CI=11; SI=67; TP=RC; DT=S; AL=RptC\onstObj; FS=67)/Ctrl_11_30 (CN=- LEIA AS INSTRU\307\325ES  CONSTANT; CI=12; SI=67; TP=RC; DT=S; AL=R\ptConstObj; FS=114)/Ctrl_12_30 (CN=INFORMA\307\325ES ALI CONTIDAS,SOLIC; CI=13; SI=67; TP=RC; DT=S; AL=R\ptConstObj; FS=45)/Ctrl_13_30 (CN=- ANTES  DE  SEUS  FUNCION\301RIO; CI=14; SI=67; TP=RC; DT=S; AL=RptC\onstObj; FS=106)/Ctrl_14_30 (CN=REPASSE  A  ELES  AS   INFORMA; CI=15; SI=67; TP=RC; DT=S; AL=RptCons\tObj; FS=113)/Ctrl_15_30 (CN=EQUIPAMENTOS E PRODUTOS.; CI=16; SI=67; TP=RC; DT=S; AL=RptConstObj; \FS=24)/Sect_31 (SN=NEW Linha em branco;TP=GRP|CD;BV=None;SI=68;PI=0)/Ctrl_0_31 (CN=                              ; CI=1; SI=68; TP=RC; DT=S; AL=RptConst\Obj; FS=89)/Ctrl_1_31 (CN=                              ; CI=2; SI=68; TP=RC; DT=S; AL=RptConst\Obj; FS=58)/Ctrl_2_31 (CN=                              ; CI=3; SI=68; TP=RC; DT=S; AL=RptConst\Obj; FS=157)/Sect_32 (SN=NEW Page Footer;TP=GRP|CD;BV=None;SI=70;PI=0)/Ctrl_0_32 (CN=- - - - - - - - - - - - - - - ; CI=1; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=256)/Ctrl_1_32 (CN=                              ; CI=2; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=39)/Ctrl_2_32 (CN=                              ; CI=3; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=32)/Ctrl_3_32 (CN=NOTA DE COBRAN\307A N \272; CI=4; SI=70; TP=RC; DT=S; AL=RptConstObj;\ FS=20)/Ctrl_4_32 (CN=ATESTAMOS QUE OS DADOS ACIMA C; CI=5; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=69)/Ctrl_5_32 (CN=                            ; CI=7; SI=70; TP=RC; DT=S; AL=RptConstOb\j; FS=28)/Ctrl_6_32 (CN=                              ; CI=8; SI=70; TP=RC; DT=S; AL=RptConst\Obj; FS=47)/Ctrl_7_32 (CN=DATA DO RECEBIMENTO; CI=9; SI=70; TP=RC; DT=S; AL=RptConstObj; FS=19)/Ctrl_8_32 (CN=IDENTIFICA\307\303O E ASSINATURA DO ; CI=10; SI=70; TP=RC; DT=S; AL=R\ptConstObj; FS=39)/Ctrl_9_32 (CN=NOME LEG\315VEL; CI=11; SI=70; TP=RC; DT=S; AL=RptConstObj; FS=12)/Ctrl_10_32 (CN=                      ; CI=12; SI=70; TP=RC; DT=S; AL=RptConstObj; FS\=22)/Ctrl_11_32 (CN=        /         /         ; CI=13; SI=70; TP=RC; DT=S; AL=RptConstO\bj; FS=28)/Ctrl_12_32 (CN=NF NumberFooterNew; CI=14; SI=70; TP=RV; DT=N; AL=NotaFiscalNumber; F\S=6)/Ctrl_13_32 (CN=                              ; CI=15; SI=70; TP=RC; DT=S; AL=RptCons\tObj; FS=73)/Ctrl_14_32 (CN=                              ; CI=16; SI=70; TP=RC; DT=S; AL=RptCons\tObj; FS=77)/Sect_33 (SN=Detail 1 Print Nota Fiscal Lines;TP=GRP|L1;BV=V7611BB;SI=18;PI=0)/Ctrl_0_33 (CN=\(*\); CI=73; SI=18; TP=RC; DT=S; AL=RptConstObj; FS=3)/Ctrl_1_33 (CN=; CI=71; SI=18; TP=RC; DT=S; AL=FDDOCO; FS=12)/Ctrl_2_33 (CN=STRING_BC_Quantity; CI=70; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_3_33 (CN=STRING_BC_Unit Price; CI=69; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=10)/Ctrl_4_33 (CN=STRING_BC_Extended Price; CI=68; SI=18; TP=RV; DT=S; AL=RptVarObj; FS\=13)/Ctrl_5_33 (CN=; CI=72; SI=18; TP=RV; DT=N; AL=FDDOCO; FS=8)/Ctrl_6_33 (CN=STRING_BC_Tax Rate 1; CI=67; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=7)/Ctrl_7_33 (CN=; CI=47; SI=18; TP=RV; DT=S; AL=FDLITM; FS=8)/Ctrl_8_33 (CN=; CI=50; SI=18; TP=RV; DT=S; AL=FiscalClassification; FS=10)/Ctrl_9_33 (CN=; CI=52; SI=18; TP=RV; DT=N; AL=FDBDES; FS=10)/Ctrl_10_33 (CN=; CI=54; SI=18; TP=RV; DT=S; AL=Description001; FS=30)/Ctrl_11_33 (CN=; CI=56; SI=18; TP=RV; DT=S; AL=CodeICMSTaxStatus; FS=3)/Ctrl_12_33 (CN=CodigoONU; CI=58; SI=18; TP=RV; DT=S; AL=Description01002; FS=10)/Ctrl_13_33 (CN=; CI=62; SI=18; TP=RV; DT=S; AL=AlphaSpecData03; FS=3)/Ctrl_14_33 (CN=UOM_TRADUCCION; CI=64; SI=18; TP=RV; DT=S; AL=UnitOfMeasureAsInput; F\S=2)/Ctrl_15_33 (CN=STRING_BC_Amount - IPI Tax; CI=65; SI=18; TP=RV; DT=S; AL=RptVarObj; \FS=12)/Ctrl_16_33 (CN=STRING_BC_Tax Rate 2; CI=66; SI=18; TP=RV; DT=S; AL=RptVarObj; FS=7)/Ctrl_17_33 (CN=Quantity_OCULTO; CI=17; SI=18; TP=RV; DT=N; AL=FDUORG; FS=10)/Ctrl_18_33 (CN=IPI Tax_OCULTO; CI=26; SI=18; TP=RV; DT=N; AL=FDBIPI; FS=10)/Ctrl_19_33 (CN=Unit Price_OCULTO; CI=20; SI=18; TP=RV; DT=N; AL=FDUPRC; FS=10)/Ctrl_20_33 (CN=Extended Price_OCULTO; CI=23; SI=18; TP=RV; DT=N; AL=FDAEXP; FS=10)/Ctrl_21_33 (CN=Tax Rate 2_OCULTO; CI=41; SI=18; TP=RV; DT=N; AL=FDTXR2; FS=7)/Ctrl_22_33 (CN=; CI=14; SI=18; TP=RV; DT=S; AL=FDUOM; FS=2)/Ctrl_23_33 (CN=Tax Rate 1_OCULTO; CI=38; SI=18; TP=RV; DT=N; AL=FDTXR1; FS=7)>> endobj17 0 obj<< /Type /FontDescriptor /FontName /WM_LOGO2 /FontBBox [ -167 -204 1283 904 ] /Flags 36 /CapHeight 0 /Ascent 904 /Descent -204 /StemV 25 /ItalicAngle 0 /FontFile2 18 0 R >> endobjxref3 1 0000153014 00000 n
+17 1 0000189029 00000 n
+trailer<</Size 28/Info 3 0 R /Root 1 0 R /Prev 152297 /ID[<7f669070c991caa419c8e665d60f8154><91320b75f5691271709d363f94455863>]>>startxref189230%%EOF

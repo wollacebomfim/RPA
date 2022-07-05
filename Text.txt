@@ -1,0 +1,45 @@
+Prefeitura Municipal de Duque de Caxias - RJ
+Secretaria Mun de Fazenda Planejamento
+Fone: (21) 2773-6241 - www.duquedecaxias.rj.gov.br
+Série do Documento
+Nota Fiscal de Serviço
+Eletrônica - NFS-e
+
+Diagnosticos da América S. A
+Rua Xavier Pinheiro, 439 - Parque Duque
+CEP 25085-007 - Fone (11) 3456-7169 - Duque de Caxias - RJ
+recebimentofiscal@dasa.com.br
+Inscrição Municipal 99107402 - CPF/CNPJ 61.486.650/0498-67
+
+Identificação da Nota Fiscal Eletrônica
+Natureza da Operação Data de Competência/Emissão Data de Geração da NFS-e Código de Verificação de Autenticidade
+Tributação no município 01/06/2022 01/06/2022 09:35:25 F 3 40 DE Número da Nota Fiscal
+Número do RPS Serie do RPS Data de Emissão do RPS 4533560
+3763234 RPS - Recibo Provisórios de Serviços 01/06/2022
+Consulte a autenticidade deste documento acessando o site: https://www.issnetonline.com.br/duquedecaxias/online
+Dados do Tomador de Serviços
+CNPJ/CPF Inscrição Municipal Razão Social
+12.361.267/0088-44  ULTRA SOM SERVICOS MEDICOS LTDA
+Endereço Número Complemento Bairro
+AV JULIA FREIRE 1058  TORRE
+CEP Cidade / UF Telefone e-mail
+58040-040 João Pessoa / PB  brunanc@hapvida.com.br
+Local dos Serviços
+Duque de Caxias - Rio de Janeiro
+Descrição dos Serviços
+Valor aprox. dos Tributos: Federal: R$52.15 (3.65%) - Estadual: R$ 0,00(0%) - Municipal: R$28.57 (2%) / 36 de Exames de
+01-05-2022 ate 31-05-2022 Dt. Vcto 1: 01/08/2022 Servico enquadrado no item num. 4.02 da Lista de Servico Anexo a Lei
+Complementar num. 116 de 31/07/2003.. /VENCTO:01.08.2022/ *Alvaro* - TRIBUTOS:
+
+Imposto Sobre Serviços de Qualquer Natureza-ISSQN
+Atividade do Município Alíquota Item da LC116/2003 Cód. Nacional Atividade Econômica
+4020 - 04.02 - Análises clínicas, patologia, eletricidade médic… 2,00 402 8640202
+Valor Total dos Serviços Desconto Incondicionado Deduções Base Cálculo Base de Cálculo Total do ISSQN ISSQN Retido Desconto Condicionado
+R$ 1.428,70 R$ 0,00 R$ 0,00 R$ 1.428,70 R$ 28,57 Não R$ 0,00
+Retenções de Impostos
+PIS COFINS INSS IRRF CSLL Outras Retenções ISSQN
+R$ 9,29 R$ 42,86 R$ 0,00 R$ 21,43 R$ 14,29 R$ 0,00 R$ 0,00
+Valor Líquido da Nota Fiscal R$ 1.340,83
+Informações Complementares
+
+• .

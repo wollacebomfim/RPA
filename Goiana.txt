@@ -1,0 +1,75 @@
+PREFEITURA MUNICIPAL DE GOIANA
+SECRETARIA MUNICIPAL DE ARRECADAÇÃO E FINANÇAS
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+Nº da Nota
+000000407
+Data de Emissão
+17-06-2022 às 16:41:42
+Nº da substituída
+Competência
+JUN/2022
+
+Codigo de Verificação
+LARC53155
+Data Prest. de Serviço
+17/06/2022
+
+PRESTADOR SERVIÇOS
+
+CNPJ: 18.328.279/0001-00 Inscrição Municipal: 011.196-1
+
+Razão social:CASSIO ROBERTO FERREIRA
+
+Endereço: RUA 31 sn 55900-000 ATAPUZ QD-C29 LOTE-12
+
+Município: GOIANA UF: PE
+
+Telefone: 81-96019164 E-mail: engenharia@crfsaudeambiental.com.br
+
+TOMADOR DE SERVIÇOS
+
+Nome/Razão Social: ULTRA SOM SERV. MÉDICOS LTDA
+
+CPF/CNPJ/PAS: 12.361.267/0048-57 Inscrição Municipal:
+
+Endereço: RUA DO PAISSANDÚ 767 52010-000 PAISSANDU
+
+Município: RECIFE UF: PE
+
+Telefone: E-mail:
+
+SERVIÇOS
+
+7.01-Engenharia, agronomia, agrimensura, arquitetura, geologia, urbanismo, paisagismo e congêneres.
+
+Item Descrição Quant. VLR Unitario VALOR TOTAL
+1 SERVIÇO MANUT/REP CENTRAL AR MEDICINAL, REFERENTE AO PEDIDO DE COMPRA DE N° 4100337142. 1.00      20.300,00      20.300,00
+
+VALOR TOTAL DA NFS-e R$:20.300,00
+
+Deduções (R$)
+0,00
+Base Cálculo (R$)
+20.300,00
+Alíquota (%)
+2,00
+Valor do ISS (R$)
+406,00
+Outras retenções(R$)
+0,00
+
+INSS (RS)
+0,00
+IRPJ (RS)
+0,00
+CSLL (RS)
+0,00
+COFINS (R$)
+0,00
+PIS/PASEP (R$)
+0,00
+
+OUTRAS INFORMAÇÕES
+
+DOCUMENTO EMITIDO POR MEI OU EPP OPTANTE PELO SIMPLES NACIONAL. NÃO GERA DIREITO A CRÉDITO FISCAL DE ICMS E DE ISS.
+CNAE:M71120000
