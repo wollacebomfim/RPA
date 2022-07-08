@@ -1,0 +1,51 @@
+MUNICÍPIO DE BLUMENAU Número da Nota Fiscal
+SECRETARIA MUNICIPAL DA FAZENDA 147802
+DIRETORIA GERAL Série: E
+DIRETORIA DE RECEITA Data Emissão: 08/06/2022
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E Certificação:
+DADOS DO PRESTADOR 95DD91CD3
+Nome/Razão Social: ELEVADORES ATLAS SCHINDLER LTDA
+Nome Fantasia: ELEVADORES ATLAS SCHINDLER LTDA
+CNPJ/CPF: 00.028.986/0066-53 Insc. Municipal: 66519 Insc. Estadual:
+Endereço: MACEIO N°: 97
+Bairro: GARCIA Compl.:
+Municipio: BLUMENAU UF: SC CEP: 89021-175
+E-mail: sao_fiscal_iss_prestados.br@schindler.com Telefone: 1120205301
+País: BRASIL
+DADOS DO TOMADOR
+Nome/Razão Social: ULTRA SOM SERVICOS MEDICOS SA
+CNPJ/CPF: 12.361.267/0042-61 Insc. Municipal: Insc. Estadual:
+Endereço: RUA ITAIOPOLIS N°: 128
+Bairro: AMERICA Compl.:
+Municipio: JOINVILLE UF: SC CEP: 89204-100
+E-mail: deivid.santos@hapvida.com.br Telefone:
+País: BRASIL Nif:
+DISCRIMINAÇÃO DO SERVIÇO
+MANUTENCAO          1207,53||EQUIPAMENTOS|EEL2167500|APOS 01.08 BOLETOS SANTANDER (033) TAMBEM SAO VALIDOS PARA PAGAMENTO|REFERENCIA: JUN / 2022
+- VENCIMENTO: 30.06.2022|O PERCENTUAL APROXIMADO DOS TRIBUTOS INCIDENTES NESTA PRESTACAO DE SERVICOS E 13,45% TRIB. FEDERAL, 3,90% TRIB.
+MUNICIPAL-LEI N(O) 12741/12-FONTE IBPT
+
+VALOR BRUTO DA NOTA R$ 1.207,53
+
+Valor Total das Deduções: Desconto Incondicionado: Desconto Condicionado: Base de Cálculo: Alíquota: Valor do ISS:
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 1.207,53 5,0000% R$ 60,38
+PIS: % COFINS: % INSS: % IR: % CSLL: % Outras Retenções:
+R$ 7,84 R$ 36,23 R$ 0,00 R$ 0,00 R$ 12,08 R$ 0,00
+Valor Aproximado dos tributos R$ 0,00 VALOR LÍQUIDO DA NOTA R$ 1.151,38
+ENQUADRAMENTO DO SERVIÇO
+
+Atividade: 14.01 - Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas,
+veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto peças e partes empregadas, que ficam s
+OUTRAS INFORMAÇÕES
+Mês de Competência: 06/2022 Local do Recolhimento: BLUMENAU/SC Data Geração: 08/06/2022 16:54:06
+Recolhimento: Sem Retenção Tributação: Tributação por Faturamento (Variável) Nº RPS: 147714
+CNAE: 4329103 Série RPS: NF
+
+Observações:
+
+Impresso em: 21/06/2022  às 11:37:23 O conteúdo deste documento fiscal é de inteira responsabilidade do emissor.
+
+Recebi(emos) de: ELEVADORES ATLAS SCHINDLER LTDA NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+Os serviços constantes nesta Nota Fiscal de Serviços Eletrônica. Número: 147802
+________/_____/____________ ________________________________________________ Certificação
+Data Assinatura do Recebedor 95DD91CD3

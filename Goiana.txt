@@ -1,75 +1,45 @@
-PREFEITURA MUNICIPAL DE GOIANA
-SECRETARIA MUNICIPAL DE ARRECADAÇÃO E FINANÇAS
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
-Nº da Nota
-000000407
-Data de Emissão
-17-06-2022 às 16:41:42
-Nº da substituída
-Competência
-JUN/2022
+Prefeitura Municipal de Duque de Caxias - RJ
+Secretaria Mun de Fazenda Planejamento
+Fone: (21) 2773-6241 - www.duquedecaxias.rj.gov.br
+Série do Documento
+Nota Fiscal de Serviço
+Eletrônica - NFS-e
 
-Codigo de Verificação
-LARC53155
-Data Prest. de Serviço
-17/06/2022
+Diagnosticos da América S. A
+Rua Xavier Pinheiro, 439 - Parque Duque
+CEP 25085-007 - Fone (11) 3456-7169 - Duque de Caxias - RJ
+recebimentofiscal@dasa.com.br
+Inscrição Municipal 99107402 - CPF/CNPJ 61.486.650/0498-67
 
-PRESTADOR SERVIÇOS
+Identificação da Nota Fiscal Eletrônica
+Natureza da Operação Data de Competência/Emissão Data de Geração da NFS-e Código de Verificação de Autenticidade
+Tributação no município 01/06/2022 01/06/2022 09:35:25 F 3 40 DE Número da Nota Fiscal
+Número do RPS Serie do RPS Data de Emissão do RPS 4533560
+3763234 RPS - Recibo Provisórios de Serviços 01/06/2022
+Consulte a autenticidade deste documento acessando o site: https://www.issnetonline.com.br/duquedecaxias/online
+Dados do Tomador de Serviços
+CNPJ/CPF Inscrição Municipal Razão Social
+12.361.267/0088-44  ULTRA SOM SERVICOS MEDICOS LTDA
+Endereço Número Complemento Bairro
+AV JULIA FREIRE 1058  TORRE
+CEP Cidade / UF Telefone e-mail
+58040-040 João Pessoa / PB  brunanc@hapvida.com.br
+Local dos Serviços
+Duque de Caxias - Rio de Janeiro
+Descrição dos Serviços
+Valor aprox. dos Tributos: Federal: R$52.15 (3.65%) - Estadual: R$ 0,00(0%) - Municipal: R$28.57 (2%) / 36 de Exames de
+01-05-2022 ate 31-05-2022 Dt. Vcto 1: 01/08/2022 Servico enquadrado no item num. 4.02 da Lista de Servico Anexo a Lei
+Complementar num. 116 de 31/07/2003.. /VENCTO:01.08.2022/ *Alvaro* - TRIBUTOS:
 
-CNPJ: 18.328.279/0001-00 Inscrição Municipal: 011.196-1
+Imposto Sobre Serviços de Qualquer Natureza-ISSQN
+Atividade do Município Alíquota Item da LC116/2003 Cód. Nacional Atividade Econômica
+4020 - 04.02 - Análises clínicas, patologia, eletricidade médic… 2,00 402 8640202
+Valor Total dos Serviços Desconto Incondicionado Deduções Base Cálculo Base de Cálculo Total do ISSQN ISSQN Retido Desconto Condicionado
+R$ 1.428,70 R$ 0,00 R$ 0,00 R$ 1.428,70 R$ 28,57 Não R$ 0,00
+Retenções de Impostos
+PIS COFINS INSS IRRF CSLL Outras Retenções ISSQN
+R$ 9,29 R$ 42,86 R$ 0,00 R$ 21,43 R$ 14,29 R$ 0,00 R$ 0,00
+Valor Líquido da Nota Fiscal R$ 1.340,83
+Informações Complementares
 
-Razão social:CASSIO ROBERTO FERREIRA
-
-Endereço: RUA 31 sn 55900-000 ATAPUZ QD-C29 LOTE-12
-
-Município: GOIANA UF: PE
-
-Telefone: 81-96019164 E-mail: engenharia@crfsaudeambiental.com.br
-
-TOMADOR DE SERVIÇOS
-
-Nome/Razão Social: ULTRA SOM SERV. MÉDICOS LTDA
-
-CPF/CNPJ/PAS: 12.361.267/0048-57 Inscrição Municipal:
-
-Endereço: RUA DO PAISSANDÚ 767 52010-000 PAISSANDU
-
-Município: RECIFE UF: PE
-
-Telefone: E-mail:
-
-SERVIÇOS
-
-7.01-Engenharia, agronomia, agrimensura, arquitetura, geologia, urbanismo, paisagismo e congêneres.
-
-Item Descrição Quant. VLR Unitario VALOR TOTAL
-1 SERVIÇO MANUT/REP CENTRAL AR MEDICINAL, REFERENTE AO PEDIDO DE COMPRA DE N° 4100337142. 1.00      20.300,00      20.300,00
-
-VALOR TOTAL DA NFS-e R$:20.300,00
-
-Deduções (R$)
-0,00
-Base Cálculo (R$)
-20.300,00
-Alíquota (%)
-2,00
-Valor do ISS (R$)
-406,00
-Outras retenções(R$)
-0,00
-
-INSS (RS)
-0,00
-IRPJ (RS)
-0,00
-CSLL (RS)
-0,00
-COFINS (R$)
-0,00
-PIS/PASEP (R$)
-0,00
-
-OUTRAS INFORMAÇÕES
-
-DOCUMENTO EMITIDO POR MEI OU EPP OPTANTE PELO SIMPLES NACIONAL. NÃO GERA DIREITO A CRÉDITO FISCAL DE ICMS E DE ISS.
-CNAE:M71120000
+• .
